@@ -1,7 +1,6 @@
 # Overview
 
 [Course Overview](course-overview.md)
-[Assessments & Grading](assessments.md)
 [Live Classes](live-classes.md)
 
 ## Lessons
