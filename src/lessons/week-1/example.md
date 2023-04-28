@@ -4,7 +4,7 @@ Some of the markdown features available to use in lessons.
 
 See the `example.md` file to see the source markdown, and open the page [1.1 Example Lesson](./example.md) to see the rendered HTML.
 
-## Links, lists, and emphasis
+## Links, lists, and some emphasis
 
 [Markdown syntax](https://www.markdownguide.org/basic-syntax/) can create:
 
