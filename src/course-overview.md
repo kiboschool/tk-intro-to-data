@@ -6,7 +6,7 @@
 <aside>
 
 
-📺 Watch this welcome video from your instructor, Wasiu.
+📺 Watch this welcome video from your instructor.
 
 </aside>
 
@@ -59,7 +59,7 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
 <aside>
 
 - John Doe
-- Email: john.doe@kibo.school
+- john.doe@kibo.school
 
 </aside>
 
