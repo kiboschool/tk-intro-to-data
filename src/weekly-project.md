@@ -1,4 +1,4 @@
-# Weekly Projects
+# Weekly Project
 
 Each week, you'll have a project to complete, either as an individual, or with 
 teammates. The projects will bring together the skills you learn that week.
