@@ -5,7 +5,6 @@
 
 <aside>
 
-
 📺 Watch this welcome video from your instructor.
 
 </aside>
