@@ -57,12 +57,6 @@ A _data scientist_ is a professional who uses statistical and computational meth
 
 </aside>
 
-<aside>
-
-📺 Who is a data scientist and what do they do?
-
-</aside>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/umI0DpJEqPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 As an important part of every business, the role of a data scientist includes the following:

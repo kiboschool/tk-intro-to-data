@@ -23,4 +23,4 @@ In fact, it is estimated that the amount of data generated worldwide will reach 
 
 
 
-> 👉🏾 In the next section, we'll look at the role of data in decision-making, and understand different data categories.
+<!-- > 👉🏾 In the next section, we'll look at the role of data in decision-making, and understand different data categories. -->
