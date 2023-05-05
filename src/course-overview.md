@@ -1,7 +1,7 @@
 # Try Kibo: Intro to Data
 
 
-**Welcome to Intro to Data Science!** You are joining a global learning community dedicated to helping you learn and thrive in computer science. 
+**Welcome to Intro to Data Science!** You are joining a global learning community dedicated to helping you learn and thrive in data science. 
 
 <aside>
 

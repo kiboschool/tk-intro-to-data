@@ -44,7 +44,7 @@ Now that you have an idea of what data science is, let understand why data scien
 
 Given its significance in modern-day organizations...
 - data science holds crucial importance to decision making and business success. 
-- there is a growing need for professionals who are equipped with data science skills... could that be a data scientist??
+- there is a growing need for professionals who are equipped with data science skills... could that be you?
 
 
 ## Who is a data scientist?

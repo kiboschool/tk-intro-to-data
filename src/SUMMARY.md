@@ -11,6 +11,7 @@
 
 - [Intro to data science](lessons/intro-to-data-science.md)
     - [What is data science](lessons/intro-to-data/what-is-data-science.md)
+    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
 
 ### Week 2
 
