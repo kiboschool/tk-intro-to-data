@@ -15,9 +15,12 @@ Previously, we described data science as a multidisciplinary field. At the high 
 In summary, data science building blocks are an intersection of statistical methods, computer science tools, and domain knowledge, which are used together to extract insights and generate value from data. Now, how does a typical data science project looks like?
 
 ### Data science workflow
+
+![dat-science-workflow](./intro-to-data/data-workflow.png)
+
 <aside>
 
-📺 A typical end-to-end journey of a data science project 👨🏾‍💻
+📺 Workflow - an end-to-end journey of a data science project 👨🏾‍💻
 
 </aside>
 
