@@ -76,4 +76,11 @@ As an important part of every business, the role of a data scientist includes th
 
 - Staying up-to-date with the latest trends and tools in data science, and continuously improving skills and knowledge through ongoing learning and development.
 
+## 👩🏾‍🎨 Practice: Data and Businesses
+- Why is data science important for businesses?
+- Highlight 2 things a data scientist doesn't do in an organization.
+
+Answer these questions in the padlett below.
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 > 👉🏾 In the next section, we'll see  the building blocks of data science, and what a typical data science project looks like.

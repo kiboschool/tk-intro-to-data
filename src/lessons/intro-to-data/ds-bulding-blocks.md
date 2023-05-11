@@ -14,9 +14,21 @@ Previously, we described data science as a multidisciplinary field. At the high 
 
 In summary, data science building blocks are an intersection of statistical methods, computer science tools, and domain knowledge, which are used together to extract insights and generate value from data. Now, how does a typical data science project looks like?
 
-### Data science workflow
+## Data science workflow
+
+<aside>
+
+_**Definition**_...
+
+Data science workflow includes the standard and well-defined phases a data science project undergoes throughout it entire lifecycle. 
+
+</aside>
+
 
 ![dat-science-workflow](./intro-to-data/data-workflow.png)
+
+
+Each phase includes different dependent tasks and activities needed to achieve the overall goal of the project. Overall, the workflow serve as guidelines throughout the project life cycle. A typical end-to-end journey of a sample data science project using this workflow is explained in the next video. 
 
 <aside>
 
