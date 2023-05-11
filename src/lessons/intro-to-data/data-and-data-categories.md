@@ -41,7 +41,7 @@ The data we have today are in different forms such as social media likes and pos
 
 > **Note**: Sometimes, it is required to convert from one data type to another before analysis or visualization. This conversion is part of _data wrangling_.
 
-![data-types](./intro-to-data/data-types.png)
+<img src="intro-to-data/data-types.png" style="border: 2px solid yellow">
 
 - **Numerical Data**: This includes any data that can be represented by numbers, such as height, weight, temperature, or time.
 
