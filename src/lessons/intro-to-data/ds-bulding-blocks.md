@@ -1,4 +1,4 @@
-# Building blocks and Workflow
+# 🛃 Building blocks and Workflow
 
 ## Building blocks
 Previously, we described data science as a multidisciplinary field. At the high level, data science is typically an intersection of 3 core areas - _statistics, computer science_, and _domain expertise_. Altogether, these three areas form the building blocks of data science, allowing practitioners to collect, process, analyze, and visualize data in a way that generates valuable insights and informs decision-making processes in various industries and domains.

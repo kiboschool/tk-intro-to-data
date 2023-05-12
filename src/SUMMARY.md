@@ -15,7 +15,10 @@
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-science-tools.md)
     - [Python and Notebooks](lessons/intro-to-data/python-notebooks.md)
-    - [BONUS: Careers in data science](lessons/intro-to-data/careers-ds.md)
+    - [Assignment]()
+
+    <!-- - [Practices](lessons/intro-to-data/python-notebooks.md)
+    - [BONUS: Careers in data science](lessons/intro-to-data/careers-ds.md) 
 
 <!-- ### Week 2
 

@@ -1,4 +1,4 @@
-# Data and Spreadsheets
+# 🔢 Data and Spreadsheets
 As a multidisciplinary field, data science uses myriads of tools for different tasks within the phases of the data science workflow, and we'll explore some of these tools in this course. In this section, we'll start by looking at spreadsheets, and further explore a popular spreadsheet software - _Google Sheets_. To start with, let understand what we mean by _spreadsheets_ and why we need them as data scientist. 
 
 ## What are spreadsheets?
@@ -56,10 +56,10 @@ Next, we'll explore a sample dataset using Google Sheets. As we've learnt in the
 **🤹🏾‍♂️ Data playground... 🎯**
 
 Look through the data in each workbook to have a sense of what the dataset represent and attempt the following.
-- Which country has the highest number of `active` COVID-19 cases?
-- Which movie has the `lowest` budget?
-- What is the total `emmisions` globally?
-- Try to change the colour of each workbook.
+- Which country 🏳️ has the highest number of `active` COVID-19 cases?
+- Which movie 🎞️ has the `lowest` budget?
+- What is the total 🌅 `emmisions` globally?
+- Try to change the 🔴 colour of each workbook.
 
 **Note:** Remember to use the built-in functions.
 

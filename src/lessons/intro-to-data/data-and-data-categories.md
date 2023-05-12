@@ -74,15 +74,17 @@ In its raw form, _data_ can be categorized into **qualitative** and **quantitati
  -->
 
 ## 👩🏾‍🎨 Practice: Check your understanding
-With your knowledge of data and different data types, check your understanding by grouping the following sample data into their suitable data types.
-1. age
-2. incomeGPS coordinates or 
-3. maps
-4. product type
-5. stock prices
-6. web traffic
-7. moview reviews
-8. ethnicity
+With your knowledge of data and different data types, check your understanding by attempting the foling questions: 
+1. Group the following sample data into their suitable data types.
+    - age
+    - incomeGPS coordinates or 
+    - maps
+    - product type
+    - stock prices
+    - web traffic
+    - moview reviews
+    - ethnicity
 
+2. Do you think any of the sample data should be in more than one category?
 
-> 👉🏾 In the next section, we'll look at data science tools and explore a sample dataset.
+> 👉🏾 In the next section, we'll look at data science tools and explore some sample dataset.
