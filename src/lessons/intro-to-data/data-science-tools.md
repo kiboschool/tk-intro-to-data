@@ -53,7 +53,7 @@ Next, we'll explore a sample dataset using Google Sheets. As we've learnt in the
 
 <aside>
 
-**🤹🏾‍♂️ Data playground... 🎯**
+### 👩🏾‍🎨 Practice: Data playground... 🎯
 
 Look through the data in each workbook to have a sense of what the dataset represent and attempt the following.
 - Which country 🏳️ has the highest number of `active` COVID-19 cases?
