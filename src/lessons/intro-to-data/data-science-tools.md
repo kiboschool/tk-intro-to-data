@@ -46,7 +46,7 @@ To have a general background on how google sheet works and the features therein
     - **MAX** - finds the maximum of a range of cells
     - **COUNT** - counts the values in a range of cells
 
-Next, we'll explore a sample dataset using Google Sheets. As we've learnt in the previous video, you can have more than one `workbook` in a google sheet. In this sample dataset, we have 3 workbooks with different dataset...
+Next, we'll explore a sample dataset using Google Sheets. As we've learnt in the previous video, you can have more than one `worksheet` in a google sheet. In this sample dataset, we have 3 worksheets with different dataset...
 - **corona_virus** - official daily counts of COVID-19 cases, deaths and vaccine utilisation.
 - **movies** - contains information about movies, including their names, release dates, user ratings, genres, overviews, and others.
 - **emissions** - contains information about methane gas emissions globally.
@@ -55,7 +55,7 @@ Next, we'll explore a sample dataset using Google Sheets. As we've learnt in the
 
 ### 👩🏾‍🎨 Practice: Data playground... 🎯
 
-Look through the data in each workbook to have a sense of what the dataset represent and attempt the following.
+Look through the data in each worksheet to have a sense of what the dataset represent and attempt the following.
 - Which country 🏳️ has the highest number of `active` COVID-19 cases?
 - Which movie 🎞️ has the `lowest` budget?
 - What is the total 🌅 `emmisions` globally?

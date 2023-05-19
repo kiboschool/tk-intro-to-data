@@ -15,15 +15,14 @@
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-science-tools.md)
     - [Python and Notebooks](lessons/intro-to-data/python-notebooks.md)
+    - [Practices]()
     - [Assignment]()
-
-    <!-- - [Practices](lessons/intro-to-data/python-notebooks.md)
-    - [BONUS: Careers in data science](lessons/intro-to-data/careers-ds.md) 
+    - [BONUS: Careers in data science]() 
 
 ### Week 2
 
 - [Data collection and cleaning](lessons/data-collection-cleaning.md)
-    - [Data sources and collection]()
+    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
     - [Data types and structures]()
     - [Data cleaning]()
     - [Normalization and transformation]()
