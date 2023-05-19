@@ -52,4 +52,30 @@ When we pull or check our phone for weather data, a request will be sent to your
 
 ![api-request](./data-cleaning/api-request.png)
 
-Now, let us look at different format of data we can get while using an API. As a data scientist, the most common data format 
+Now, let us look at different format of data we can get while using an API. As a data scientist, the most common data format are `csv, json`, and `xml`. Below is an example of how each data of this data format looks like.
+
+Sample json data...
+<code>
+
+```
+    {
+
+        "crust"": "original",
+
+        "toppings"": ["cheese","pepperoni"", "garlic""],
+
+        "status"": "cooking"
+
+    }
+```
+
+</code>
+
+<!-- Sample csv data...
+
+<code>
+    column 1 name,column 2 name, column 3 name<br>
+    first row data 1,first row data 2,first row data 3<br>
+    second row data 1,second row data 2,second row data 3`
+
+</code> -->
