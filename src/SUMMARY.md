@@ -23,7 +23,7 @@
 
 - [Data collection and cleaning](lessons/data-collection-cleaning.md)
     - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
-    - [Data loading & exploration]()
+    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
     - [Data cleaning]()
     - [Normalization and transformation]()
     - [Statistical analysis]()

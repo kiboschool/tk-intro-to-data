@@ -147,5 +147,5 @@ In this exercise, you'll access data from sample APIs using your browser. With t
 3. Describe what each data from the APIs is all about in the padlett below
     > [https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)
 
-> ➡️ In the next section, you'll be introduced you to `data loading` and `data exploration` 🏙️.
+> ➡️ In the next section, you'll be introduced to `data loading` and `data exploration` 🏙️.
 

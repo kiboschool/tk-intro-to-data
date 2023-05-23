@@ -66,6 +66,6 @@ Look through the data in each worksheet to have a sense of what the dataset repr
 </aside>
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 75px;"><iframe src="https://docs.google.com/spreadsheets/d/14P4qx2rWfBDnTRbQpirUv7hERyrRCcyG2F0Pq6rE_OU/edit?usp=sharing" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 75px;"><iframe src="https://drive.google.com/file/d/1GzZqbDCVBdcVL6T3WQsKOyXmo32EaSU5/view?usp=sharing" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
 
 > ➡️ In the next section, we'll introduce you to `Python` and `Jupyter Notebooks` 🎯.
