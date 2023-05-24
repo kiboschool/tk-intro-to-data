@@ -1,5 +1,5 @@
 # Data Loading and Exploration
-So far we've explored some tools used in data science, and now is the time to start using them. Remember we looked data and different sources or orgin of this data. However, as a data scientist, you need to know how to import or get this data from different sources, and work with them. In this lesson, you'll learn how to import and use data from a file (.csv) and API using a popular python libray called `Pandas`. 
+So far we've explored some tools used in data science, and now is the time to start using them. Remember we looked at data and different sources or orgin of data. However, as a data scientist, you need to know how to import or get this data from different sources, and work with them. In this lesson, you'll learn how to import and use data from a file (.csv) and API using a popular python libray called `Pandas`. 
 
 
 ## Data loading
