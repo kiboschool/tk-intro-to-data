@@ -1,5 +1,5 @@
 # 🔢 Data cleaning techniques
-As a data scientist, we'll be working with lots of messy (or smelling 😖) data everyday. However, it is critical to ensure the accuracy, reliability, and integrity of the data by carefully _cleaning_ the data (without water 😁). In this lesson, we'll be looking at different data cleaning techniques needed to get the data ready for further analysis. First, we'll start by exploring techniques needed to handle `missing data`. Next, we'll see how to handle `duplicate` data. Lastly, we'll learn how to handle incosistent data formats like `dates`.
+As a data scientist, we'll be working with lots of messy (or smelling 😖) data everyday. However, it is critical to ensure the accuracy, reliability, and integrity of the data by carefully _cleaning_ the data (without water 😁). In this lesson, we'll be looking at different data cleaning techniques needed to get the data ready for further analysis. First, we'll start by exploring techniques needed to handle `missing data`, and then we'll dive into what to do with `duplicate` data. 
 
 <img src="./data-cleaning/data-cleaning-techniques.jpeg" height="300px" width="100%">
 
@@ -123,25 +123,18 @@ We can also specify specific columns to determine duplicates. Only rows with ide
 
 ![drop-duplicate-column](./data-cleaning/drop-duplicate-column.png)
 
-In summary, addressing duplicate data is crucial to ensuring accurate analysis, maintain data integrity, derive reliable insights, and support consistent decision-making. By effectively handling duplicate data, we can work with clean and reliable datasets, leading to more robust and trustworthy analysis outcomes.
+In conclusion, addressing duplicate data is crucial to ensuring accurate analysis, maintain data integrity, derive reliable insights, and support consistent decision-making. By effectively handling duplicate data, we can work with clean and reliable datasets, leading to more robust and trustworthy analysis outcomes.
 
 
 
 
-### 👩🏾‍🎨 Practice: ------------------------------- 🎯
-<!-- In this exercise, you'll access data from sample APIs using your browser. With this, you'll have hands-on experience on JSON and XML data. Try the following in your browser.
-1. Open your browser
-2. copy and paste each of the url below in your browser <br>
+### 👩🏾‍🎨 Practice: COVID-19 Dataset 🎯
+In this exercise, you'll practice the techniques you've learnt so far. Using the COVID-19 dataset, try the following... 
+1. Identify a column with missing data, and try the above techniques for handling missing data.
+2. Are there duplicate rows in the dataset? If yes, remove the duplicates by specifying the column with duplicates.
+3. Insert a snippet of your cleaned dataset in the padlet below.
     
-    <aside>
-    
-    1. [https://api.unibit.ai/v2/stock/historical/?tickers=AAPL&accessKey=demo](https://api.unibit.ai/v2/stock/historical/?tickers=AAPL&accessKey=demo)
-    2. [http://restapi.adequateshop.com/api/Traveler?page=1](http://restapi.adequateshop.com/api/Traveler?page=1)
-
-    </aside>
-
-3. Describe what each data from the APIs is all about in the padlett below
     **[https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
 
-> ➡️ In the next section, you'll be introduced to `data loading` and `data exploration` 🏙️. -->
+> ➡️ In the next section, you'll be introduced to  `Data Normalization` and `Transformation`.
 
