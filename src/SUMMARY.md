@@ -47,7 +47,7 @@
 
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML]()
-    - [Supervised and unsupervised learning]()
+    - [Supervised and unsupervised]()
     - [classification and regression]()
     - [Applications of ML]()
     - [Build your model]()
