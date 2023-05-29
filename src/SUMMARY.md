@@ -25,8 +25,7 @@
     - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
     - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
     - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
-    - [Data normalization](./lessons/data-cleaning/data-transformation.md)
-    - [Statistical analysis]()
+    - [Descriptive statistics]()
     - [Practices]()
     - [Assignment]()
     - [Bonus: GDPR and data privacy]() 
@@ -34,12 +33,24 @@
 ### Week 3
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
-    - [Data visualization]()
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
+    - [Visualization tools]()
     - [Creating basic plots]()
     - [Insight and reporting]()
     - [Communicating your insight]()
     - [Practices]()
     - [Assignment]()
-    - [Bonus: GDPR and data privacy]()
+    - [Bonus: Data story telling]()
+
+
+### Week 4
+
+- [Intro to Machine Learning](lessons/intro-to-ml.md)
+    - [Getting to know ML]()
+    - [Supervised and unsupervised learning]()
+    - [classification and regression]()
+    - [Applications of ML]()
+    - [Build your model]()
+    - [Practices]()
 
 ...

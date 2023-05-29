@@ -1,6 +1,6 @@
 # Data Visualization and Insight 📶
 
-![data-cleaning](./data-visualization/Data-Visualization.jpeg)
+<img src="./data-visualization/data-viz/Data-Visualization.jpeg" width="100%" height="300px">
 
 **Welcome to week 3 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to normalize and transform our data. 
 
