@@ -34,7 +34,7 @@
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
     - [Data visualization](lessons/data-visualization/what-is-visualization.md)
-    - [Visualization tools]()
+    - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
     - [Creating basic plots]()
     - [Insight and reporting]()
     - [Communicating your insight]()
