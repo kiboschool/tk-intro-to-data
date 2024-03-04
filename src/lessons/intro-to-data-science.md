@@ -1,6 +1,8 @@
 # Intro to Data Science
 
-Welcome to week 1 of the Intro to data science course! In this week, we will explore the fundamental concepts and techniques used in data science. We will start by understanding what data science is and its importance in today's world. We will then dive into the data science building blocks and workflows. Next, we will learn about data types and explore a sample dataset. Finally, you'll be introduced to basic python programing for data science and necessary tools.
+Welcome to week 1 of the Intro to data science course! <br>
+
+This week, we will explore the fundamental concepts and techniques used in data science. We will start by understanding what data science is and its importance in today's world. Next, we'll dive into data science tools and its building workflows. Furthermore, we will learn about data and spreadsheet by exploring a sample dataset. Finally, you'll be introduced to Google Sheet and its functionalities
 
 Whatever your prior expereince, this week you'll touch on basics of data science and the tools you'll be using. You'll also start practising learning and working together. The internet is social, and technologists build it together. So, that's what you'll learn to do too.
 
@@ -8,11 +10,10 @@ Whatever your prior expereince, this week you'll touch on basics of data science
 
 After this week, you will be able to:
 
-- Understand the basics of data science
-- Understand different data types
-- Learn the use of google sheet 
-- Learn basic python programming and jupyter notebook
-
+- Explain twhat data science is and its importance.
+- Describe some data science tools.
+- Apply different data cleaning techniques on a dataset.
+- Have a basic introduction to Python.
 
 ### An overview of this week's lesson
 

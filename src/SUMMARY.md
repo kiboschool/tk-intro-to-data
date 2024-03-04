@@ -1,56 +1,66 @@
 # Overview
 
 [Course Overview](course-overview.md)
-[Live Classes](live-classes.md)
-[Weekly Project](weekly-project.md)
-[Final Project](final-project.md)
+[Live Classes]()
+[Weekly Project]()
+[Final Project]()
 
 ## Lessons
 
 ### Week 1
 
 - [Intro to data science](lessons/intro-to-data-science.md)
-    - [What is data science](lessons/intro-to-data/what-is-data-science.md)
-    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
-    - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
-    - [Data and Spreadsheet](lessons/intro-to-data/data-science-tools.md)
-    - [Python and Notebooks](lessons/intro-to-data/python-notebooks.md)
+    - [What is data science]()
+    - [DS tools and workflow]()
+    - [Data type taxonomy]()
+    - [Data and Spreadsheet]()
+    - [Data in Google Sheet]()
+    - [Data cleaning in GS]()
     - [Practices]()
     - [Assignment]()
-    - [BONUS: Careers in data science]() 
+    <!-- - [BONUS: Careers in data science]()  -->
 
 ### Week 2
 
-- [Data collection and cleaning](lessons/data-collection-cleaning.md)
-    - [Data sources and collection](./lessons/data-cleaning/data-sources.md)
-    - [Data loading & exploration](./lessons/data-cleaning/data-loading.md)
-    - [Data cleaning techniques](./lessons/data-cleaning/data-cleaning.md)
-    - [Descriptive statistics]()
+- [Databases and SQL]()
+    - [Intro to databases]()
+    - [Why SQL?]()
+    - [Data retrieval with queries]()
+    - [Joining multiple tables]()
+    - [SQL subqueries]()
+    - [Applications of SQL]()
     - [Practices]()
-    - [Assignment]()
-    - [Bonus: GDPR and data privacy]() 
+    - [Assignment]() 
 
 ### Week 3
 
-- [Data Visualization & Insight](lessons/data-visualization.md)
-    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
-    - [Visualization tools](./lessons/data-visualization/visualization-tools.md)
-    - [Creating basic plots]()
-    - [Insight and reporting]()
-    - [Communicating your insight]()
+- [Data Visualization & Insight]()
+    - [Data visualization]()
+    - [Basic plots with GS]()
+    - [Customising a plot]()
+    - [Intro to Looker studio]()
+    - [Data cleaning on Looker]()
+    - [Creating dashboards]()
     - [Practices]()
     - [Assignment]()
-    - [Bonus: Data story telling]()
 
 
 ### Week 4
 
-- [Intro to Machine Learning](lessons/intro-to-ml.md)
+- [Intro to Machine Learning]()
     - [Getting to know ML]()
-    - [Supervised and unsupervised]()
+    - [Supervised learning]()
     - [classification and regression]()
+    - [Unsupervised learning]()
     - [Applications of ML]()
-    - [Build your model]()
     - [Practices]()
+
+
+### Week 5
+
+- [Final Project]()
+    - [Project guideline]()
+    - [Rubrics]()
+    - [Project and Dataset]()
 
 ...
