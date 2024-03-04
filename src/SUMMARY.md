@@ -10,12 +10,13 @@
 ### Week 1
 
 - [Intro to data science](lessons/intro-to-data-science.md)
-    - [What is data science]()
-    - [DS tools and workflow]()
-    - [Data type taxonomy]()
-    - [Data and Spreadsheet]()
+    - [What is data science?](lessons/intro-to-data/what-is-data-science.md)
+    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
+    - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
+    - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
     - [Data in Google Sheet]()
     - [Data cleaning in GS]()
+    - [Data science tools]()
     - [Practices]()
     - [Assignment]()
     <!-- - [BONUS: Careers in data science]()  -->
