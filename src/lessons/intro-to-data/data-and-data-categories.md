@@ -93,4 +93,8 @@ With your knowledge of data and different data types, check your understanding b
 
 2. Do you think any of the sample data should be in more than one category?
 
-> 👉🏾 In the next section, we'll look at data science tools and explore some sample dataset.
+<aside>
+
+**➡️ In the next section...**
+- We'll look at data and spreadsheets.
+</aside>

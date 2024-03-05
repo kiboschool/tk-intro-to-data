@@ -14,9 +14,8 @@
     - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
-    - [Data in Google Sheet]()
-    - [Data cleaning in GS]()
-    - [Data science tools]()
+    - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
+    - [More DS tools]()
     - [Practices]()
     - [Assignment]()
     <!-- - [BONUS: Careers in data science]()  -->

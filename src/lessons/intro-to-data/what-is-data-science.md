@@ -120,8 +120,8 @@ Answer these questions in the padlett below.
 
 <aside> 
 
-👉🏾 **In the next section...**
+**➡️ In the next section...**
 
-- **_We'll explore what a typical data science project looks like_**, and
-- **_The tools you'll need as a beginner data scientist_**.
+- We'll look at the data science building blocks.
+- We'll also explore what a typical data science project looks like.
 </aside>
