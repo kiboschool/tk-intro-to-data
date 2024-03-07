@@ -15,7 +15,7 @@
     - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
     - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
     - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
-    - [More DS tools]()
+    - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
     - [Practices]()
     - [Assignment]()
     <!-- - [BONUS: Careers in data science]()  -->

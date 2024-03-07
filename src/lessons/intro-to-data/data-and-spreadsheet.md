@@ -41,21 +41,19 @@ To have a general background on how Google Sheet works and the features therein
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/e7xjGuGqgp-Q" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xv8RXzUMTng?si=QWaW5-gs6Fh1t8PA" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
 
-#### **A brief recap of Google Sheet...**
+<aside>
+
+**A brief recap on how to use Google Sheet...**
 - Google Sheet is a free web-based spreadsheet program create by _Google_.
 - By default, you can create and manage google sheet using your google account (i.e., your Kibo email).
-<!-- - To create a new sheet, launch your Excel app locally or use Office365.
-    - select a blank workbook or use prdefined templates.
-- Enter your data in rows and columns across the worksheet.
-- Microsoft Excel app doesn't automatically save your work, unless you configure it to do so.
-- There are predefined `built-in` functions to help you with basic and complex arithmetics. Some basic ones are;
-    - **AVG** - finds the average of a range of cells
-    - **SUM** - adds up a range of cells
-    - **MIN** - finds the minimum of a range of cells
-    - **MAX** - finds the maximum of a range of cells
-    - **COUNT** - counts the values in a range of cells -->
+- **Access Google Sheets**: Use Google apps icon or Google Drive to launch Sheets.
+- **Creating and organizing sheets**: Name sheets, choose file location, add multiple sheets, and organize with folders.
+- **Importing data**: Upload files from devices, choose import options, and convert Excel files for compatibility.
+- **Using cells, columns, and rows**: Navigate and select cells, input data, and understand cell naming conventions.
+- **Formulas and charts**: Create formulas for calculations, customize headers, and insert and customize charts.
+</aside>
 
 Next, we'll explore a sample dataset using Google Sheet. As we've learnt in the previous video, you can have more than one `worksheet` in a workbook. In this sample dataset, we have 3 worksheets with different dataset. 
 - **corona_virus** - official daily counts of COVID-19 cases, deaths and vaccine utilisation.
@@ -68,7 +66,7 @@ Next, we'll explore a sample dataset using Google Sheet. As we've learnt in the 
 > **👩🏾‍🎨 Practice: Data playground... 🎯**
 
 1. Create a copy of this **[dataset](https://docs.google.com/spreadsheets/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/edit?usp=sharing)** for your own use. 
-2. Explore each worksheet to have a sense of what the dataset represent.
+2. Explore each worksheet to have a sense of what the data represent.
 3. Attempt the following questions.
     - Which country 🏳️ has the highest number of `active` COVID-19 cases?
     - Which movie 🎞️ has the `lowest` budget?
