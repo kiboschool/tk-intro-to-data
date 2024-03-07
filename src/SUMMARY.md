@@ -47,12 +47,12 @@
 
 ### Week 4
 
-- [Intro to Machine Learning]()
-    - [Getting to know ML]()
-    - [Supervised learning]()
-    - [classification and regression]()
-    - [Unsupervised learning]()
-    - [Applications of ML]()
+- [Intro to Machine Learning](lessons/intro-to-ml.md)
+    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+    - [classification and regression](lessons/intro-to-ml/classification.md)
+    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+    - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
     - [Practices]()
 
 

@@ -32,36 +32,17 @@ At the high level, we have 3 broad categories of ML.
 
 **_<span style="color: red;"> NOTE! </span>_**
 
-This week, we are only focusing on supervised and unsupervised learning. More on these 2 categories will be discussed in subsequent lessons.
+**Notes**: This week, we are only focusing on supervised and unsupervised learning.
 
 </aside>
 
-## Applications of ML
-ML is a powerful tool that can be used to solve a wide variety of problems. As machine learning technology continues to develop, we can expect to see even more innovative applications of machine learning in the future. Here are some other examples of machine learning:
-
-- Spam filtering
-- Fraud detection
-- Weather prediction
-- Medical diagnosis
-- Recommendation systems
-- Image and speech recognition
-- Predictive maintenance.
-- Natural language processing
-- Self-driving cars
-- Environmental Monitoring
-
-Now, let's understand a use case of day-to-day application of ML in solving everyday problems. The video below talks us through finding personal moments in videos and other applications of ML.
-<br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_1QtMPuYIVw" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
-
-
 <aside>
 
-**_Lesson Summary..._**
+**_Chapter Summary..._**
 
-**_Machine learning_** is a type of artificial intelligence (AI) that allows software applications or programs to become more accurate in predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+<!-- **_Machine learning_** is a type of artificial intelligence (AI) that allows software applications or programs to become more accurate in predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
 
-It like having a smart assistant that learns and improves over time by observing and analyzing data, making it a powerful tool for solving complex problems and making accurate predictions in various fields, from recognizing images to predicting stock prices.
+It like having a smart assistant that learns and improves over time by observing and analyzing data, making it a powerful tool for solving complex problems and making accurate predictions in various fields, from recognizing images to predicting stock prices. -->
 </aside>
 
 

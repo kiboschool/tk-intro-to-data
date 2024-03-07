@@ -16,7 +16,7 @@
 ### Course Description
 Data science is applicable to a myriad of professions, and analyzing large amounts of data is a common application of computer science. This course empowers students to analyze data, and produce data-driven insights. It covers the foundational suite of concepts needed to solve data problems, including preparation (collection and processing), presentation (information visualization), and analysis (machine learning).
 
-Data analysis requires acquiring and cleaning data from various sources including the web, APIs, and databases. Students learn techniques for summarizing and exploring data with tools like spreadsheets, jupyter notebook, and Python. They also learn to create data visualizations, and practice communication with data. Finally, students are introduced to machine learning techniques of prediction and classification, which will prepare them for advanced study of data science.
+<!-- Data analysis requires acquiring and cleaning data from various sources including the web, APIs, and databases. Students learn techniques for summarizing and exploring data with tools like spreadsheets, jupyter notebook, and Python. They also learn to create data visualizations, and practice communication with data. Finally, students are introduced to machine learning techniques of prediction and classification, which will prepare them for advanced study of data science.
 
 Throughout the course, students will work with real datasets and attempt to answer questions relevant to real-life problems.
 
@@ -50,15 +50,15 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
 <!-- Emmy or instructo to record navigation walk-through video -->
 <div style="position: relative; height: 100%; width: 100%;">
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/_lvfgghhht5x4lXE" title="Lesson Page Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div> -->
 
 
 ### Instructor
 <!-- Instrustor name should be changed -->
 <aside>
 
-- John Doe
-- john.doe@kibo.school
+- Wasiu
+- wasiu.yusuf@kibo.school
 
 </aside>
 
@@ -73,6 +73,6 @@ Note: all times are shown in UTC.
 - Tools -->
 
 
-Copyright © 2022 Kibo, Inc. All Rights Reserved.
+Copyright © 2024 Kibo, Inc. All Rights Reserved.
 
 
