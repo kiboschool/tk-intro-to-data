@@ -48,12 +48,12 @@ By using colors, shapes, and patterns, data visualization allows us to identify 
 
 </aside>
 
-### 👩🏾‍🎨 Practice: The Pandemic 🎯
-Using the COVID-19 dataset you cleaned in the last practice exercise, create visualizations that provides information about the COVID-19 pandemic.
+### 👩🏾‍🎨 Practice: 
+<!-- Using the COVID-19 dataset you cleaned in the last practice exercise, create visualizations that provides information about the COVID-19 pandemic.
 1. Explore the dataset to have a sense of what it represent.
 2. Create visuals as you deemed fit. No answer is wrong!
 3. Share your visualization using **[this padlet](https://padlet.com/curriculumpad/covid-19-visualization-khrajjuimxmd7ynx)**.
-    - You can like other cool visuals on the padlet as well.
+    - You can like other cool visuals on the padlet as well. -->
 
 </aside>
 
