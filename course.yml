@@ -71,7 +71,7 @@ units:
   - name: 'Week 5: Final Project and Wrap up'
     activities:
         - name: Final Project Instructions
-          path: src/lessons/final-project.md
+          path: src/lessons/final-project-instructions.md
           publish: 2024-04-01
         - name: Final Steps
           path: src/lessons/wrapping-up-final-steps.md

@@ -37,5 +37,5 @@
 
 # Week 5: Final Project and Wrap up
 
-- [Final Project Instructions](lessons/final-project.md)
+- [Final Project Instructions](lessons/final-project-instructions.md)
 - [Final Steps](lessons/wrapping-up-final-steps.md)
