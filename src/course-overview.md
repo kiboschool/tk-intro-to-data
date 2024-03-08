@@ -13,9 +13,6 @@
     <iframe width="100%" height="600" src="https://www.youtube.com/embed/j4ilyAbjjkvsF4" title="Welcome to the web foundation course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Course Description
-Data science is applicable to a myriad of professions, and analyzing large amounts of data is a common application of computer science. This course empowers students to analyze data, and produce data-driven insights. It covers the foundational suite of concepts needed to solve data problems, including preparation (collection and processing), presentation (information visualization), and analysis (machine learning).
-
 <!-- Data analysis requires acquiring and cleaning data from various sources including the web, APIs, and databases. Students learn techniques for summarizing and exploring data with tools like spreadsheets, jupyter notebook, and Python. They also learn to create data visualizations, and practice communication with data. Finally, students are introduced to machine learning techniques of prediction and classification, which will prepare them for advanced study of data science.
 
 Throughout the course, students will work with real datasets and attempt to answer questions relevant to real-life problems.
@@ -53,26 +50,51 @@ To find lessons, click the Table of Contents (three horizontal lines) on the top
 </div> -->
 
 
-### Instructor
-<!-- Instrustor name should be changed -->
-<aside>
+## What you'll learn
 
-- Wasiu
-- wasiu.yusuf@kibo.school
+Data science is applicable to a myriad of professions, and analyzing large amounts of data is a common application of computer science. This course empowers students to analyze data, and produce data-driven insights. It covers the foundational suite of concepts needed to solve data problems, including preparation (collection and processing), presentation (information visualization), and analysis (machine learning).
 
-</aside>
+## Course Overview
 
-### Meeting Times
-Note: all times are shown in UTC.
+* Week 1: 
+* Week 2: 
+* Week 3: 
+* Week 4:
+* Week 5: 
 
-- 
-- 
+## How the course works
+
+There are multiple ways you'll learn in this course:
+
+* Read and engage with the materials on this site
+* Attend live class and complete the activities in class
+* Practice with exercises to try out the concepts
+* Complete projects to demonstrate what you have learned
+
+Active engagement is necessary for success in the course! You should try building various programs so that you can explore the concepts in a variety of ways.
+
+You are encouraged to seek out additional practice outside of the practice problems included in the course.
 
 
-<!-- This page should include:
-- Tools -->
+## Using the Kibo co-learning hub in Lagos and Abeokuta
+
+If you are in Lagos or Ogun state, Nigeria, and have indicated during the application that you would be able to visit the Kibo hub for laptop support, use the links below to book a time to visit the Kibo hub throughout the Try Kibo program
+
+- [Lagos hub](https://calendly.com/lagoshub/visit-the-kibo-hub)
+- [Ogun hub](https://calendly.com/abeokutahub/visit-the-kibo-hub)
+
+ 
+**Important Notes**
+
+- Arrive at the hub within your chosen timeslot with a means of identification
+- This invite is admits one person only. You may not come along with a friend, otherwise, they'll be asked to wait outside of the learning space
+- Each time slot allows 2 hours of hub use. Book additional slots for longer use.
+- Maintain hub cleanliness and handle all items carefully.
+- You must not visit the Kibo hub without booking a time as you will not be granted access
 
 
-Copyright © 2024 Kibo, Inc. All Rights Reserved.
+Now, you are ready to start onboarding. Mark this lesson as complete and tap "Next Lesson" below
 
+---
 
+Copyright © 2023 Kibo, Inc. All Rights Reserved.
