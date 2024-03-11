@@ -1,4 +1,3 @@
-# Overview
 
 [Course Overview](course-overview.md)
 [Live Classes]()
@@ -44,23 +43,18 @@
     - [Practices]()
     - [Assignment]()
 
+# Week 4: Intro to Machine Learning
 
-### Week 4
+- [Week 4 Overview](lessons/intro-to-ml.md)
+- [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+- [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+- [classification and regression](lessons/intro-to-ml/classification.md)
+- [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+- [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
-- [Intro to Machine Learning](lessons/intro-to-ml.md)
-    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
-    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
-    - [classification and regression](lessons/intro-to-ml/classification.md)
-    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
-    - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
-    - [Practices]()
+# Week 5: Final Project and Wrap up
 
-
-### Week 5
-
-- [Final Project]()
-    - [Project guideline]()
+- [Final Project Instructions]()
+    - [Project guidelines]()
     - [Rubrics]()
-    - [Project and Dataset]()
-
-...
+    - [Projects and Dataset]()
