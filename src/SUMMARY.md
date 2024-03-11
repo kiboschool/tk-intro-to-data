@@ -22,7 +22,7 @@
 ### Week 2
 
 - [Databases and SQL](lessons/databases-and-sql.md)
-    - [Intro to databases](lessons/databses-and-sql/intro-to-databases.md)
+    - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
     - [Why SQL?]()
     - [Data retrieval with queries]()
     - [Joining multiple tables]()

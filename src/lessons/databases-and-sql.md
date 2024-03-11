@@ -1,7 +1,5 @@
 # Databases and SQL
 
-![databases-and-sql](./databases-and-sql/databases-and-sql/databases-and-sql.png)
-
 **Welcome to week 2 of the Intro to data science course!** In the first week, we looked at data science broadly, including its building blocks and workflow, and and also understand data types, spreadsheets, and using Google for data capturing, cleaning, and visualization.
 
 This week, we'll continue the journey by looking at **databases** and **SQL**. First, we'll look at what are databses and their different types. Next, we'll deep dive into how to persist (save) and retrieve data from databases. Similarly, we'll touch on different SQL syntax and commands required to interact with the database. Finally, we'll see how SQL is being used by e-commerce and social network companies. 
