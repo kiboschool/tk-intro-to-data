@@ -23,11 +23,11 @@
 
 - [Databases and SQL](lessons/databases-and-sql.md)
     - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
-    - [Why SQL?]()
-    - [Data retrieval with queries]()
-    - [Joining multiple tables]()
-    - [SQL subqueries]()
-    - [Applications of SQL]()
+    - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
+    - [SQL: Data retrieval]()
+    - [SQL: Joining multiple tables]()
+    - [SQL: Subqueries]()
+    - [SQL in Real-world]()
     - [Practices]()
     - [Assignment]() 
 
