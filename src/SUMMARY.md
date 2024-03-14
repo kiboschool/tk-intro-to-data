@@ -24,7 +24,7 @@
 - [Databases and SQL](lessons/databases-and-sql.md)
     - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
     - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
-    - [SQL: Data retrieval]()
+    - [SQL: Data management]()
     - [SQL: Joining multiple tables]()
     - [SQL: Subqueries]()
     - [SQL in Real-world]()

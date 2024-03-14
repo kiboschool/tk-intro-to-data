@@ -6,7 +6,7 @@ SQL, or Structured Query Language, was created in 1970 to interact with database
 
 **_Definition..._** 
 
-**_SQL_**, is a standard language used for storing, updating, removing, searching, and retrieving information from a database.
+**_SQL_** is a standard language used for storing, updating, removing, searching, and retrieving information from a database.
 </aside>
 
 
@@ -32,15 +32,33 @@ SQL is now everywhere - from small businesses managing customer databases to glo
     - What kinds of data do you think these companies are managing with SQL?
 </aside>
 
-## SQL vs. NoSQL
-<!-- - **Structured vs. Unstructured Data**: SQL databases are ideal for structured data, which follows a specific format and organization (like tables with rows and columns). NoSQL databases, on the other hand, are designed for unstructured or semi-structured data such as documents, social media posts, or JSON objects.
-- **Complex Queries**: SQL databases excel at complex queries involving multiple tables and detailed conditions. NoSQL is optimized for quick data retrieval and scalability in applications where the data structure may change over time.
-- **Use Cases**: SQL is preferred for scenarios requiring complex joins, transactions, and precise data integrity (e.g., financial records, customer relationship management). NoSQL suits applications needing to store large volumes of data that don't fit neatly into tables (e.g., big data applications, real-time web apps). -->
+## SQL vs NoSQL
+To choose the right type of database, we need to look at both the relationship between the data point and the structure of the whole data. For _SQL_ databases, they organize data into well-defined tables and relationships, like a neatly arranged photo album, making them great for structured data that fits into a fixed format.
+
+![sql-vs-nosql](./databases-and-sql/sql-vs-nosql.png)
+
+However, _NoSQL_ databases offer a more flexible and scalabale approach, where data can be stored in various ways without a predefined structure. This is ideal for handling a wide range and scale of data types and relationships. Now, let's look at how these two database types differ based on structure, queries, and use cases.
 
 <aside>
 
+**_SQL vs NoSQL_...**
+- **Structured vs. Unstructured Data**: SQL databases are ideal for structured data, which follows a specific format and organization (like tables with rows and columns). NoSQL databases, on the other hand, are designed for unstructured or semi-structured data such as documents, social media posts, or JSON objects.
+
+- **Complex Queries**: SQL databases excel at complex queries involving multiple tables and detailed conditions. NoSQL is optimized for quick data retrieval and scalability in applications where the data structure may change over time.
+
+- **Use Cases**: SQL is preferred for scenarios requiring complex joins, transactions, and precise data integrity (e.g., financial records, customer relationship management). NoSQL suits applications needing to store large volumes of data that don't fit neatly into tables (e.g., big data applications, real-time web apps).
+</aside>
+
+Now that we have an idea of what SQL is and why we need it, we can then dive into writing SQL statements to define and manipulate our datases. 
+
+> **`NOTE!`**: In subsequent lessons, we'll only focus on SQL usage in a relational database context.
+
+<!-- <aside>
+
 **_Chapter summary...✍🏾_**
 
+**_SQL_** is a standard language used for storing, updating, removing, searching, and retrieving information from a database.
+</aside> -->
  
 </aside>
 
