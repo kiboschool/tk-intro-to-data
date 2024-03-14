@@ -2,7 +2,9 @@
 To manage the data in a database, we need an _SQL Query_, which are instructions you give to a database to perform specific actions, such as retrieving data, updating records, or creating new database and tables. Think of them as commands or requests to access and manipulate the data stored in your database in various ways.
 
 ## Basic SQL Commands
-Just like evry other standard language, SQL has its syntax which must adhere to before we can use it. Generally, SQL commands can be broadly categorized into _Data Definition Language_ (DDL) and _Data Manipulation Language_ (DML).
+Just like evry other standard language, SQL has its syntax which must adhere to before we can use it. Generally, SQL commands can be broadly categorized into _Data Definition Language_ (DDL) and _Data Manipulation Language_ (DML), _Data Control Language_ (DCL), and _Tranaction Control Language_ (TCL). For this lesson, we'll on only focus on DDL and DML.
+
+![sql-command-categories](./databases-and-sql/sql-command.png)
   
 ### Data Definition Language (DDL)
 DDL are set of commands that deals with the schema and structure of a database. These commands are used to create, alter, and delete databases and their objects like tables and indexes. The key operations performed by DDL commands include:
