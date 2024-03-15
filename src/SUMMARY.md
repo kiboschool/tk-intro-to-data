@@ -1,30 +1,47 @@
 
-# Try Kibo: Ontroduction to Data
+[Course Overview](course-overview.md)
+[Live Classes]()
+[Weekly Project]()
+[Final Project]()
 
+## Lessons
 
-# Introduction
+### Week 1
 
-- [Welcome](course-overview.md)
-- [Set up for class](lessons/try-kibo-onboarding.md)
-- [Community Orientation](lessons/community-orientation.md)
+- [Intro to data science](lessons/intro-to-data-science.md)
+    - [What is data science?](lessons/intro-to-data/what-is-data-science.md)
+    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
+    - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
+    - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
+    - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
+    - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
+    - [Practices]()
+    - [Assignment]()
+    <!-- - [BONUS: Careers in data science]()  -->
 
-# Week 1: Intro to Data Science
+### Week 2
 
-- [Week 1 Overview](lessons/intro-to-data-science.md)
-- [What is data science?](lessons/intro-to-data/what-is-data-science.md)
-- [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
-- [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
-- [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
-- [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
-- [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
+- [Databases and SQL](lessons/databases-and-sql.md)
+    - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
+    - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
+    - [SQL: Data management](lessons/databases-and-sql/sql-data-management.md)
+    - [SQL: Joining multiple tables]()
+    - [SQL: Subqueries]()
+    - [SQL in Real-world]()
+    - [Practices]()
+    - [Assignment]() 
 
-# Week 2: Databases and SQL
+### Week 3
 
-- [Week 2 Overview](lessons/databases-and-sql.md)
-
-# Week 3: Data Visualization and Insight
-
-- [Week 3 Overview](lessons/data-visualization.md)
+- [Data Visualization & Insight]()
+    - [Data visualization]()
+    - [Basic plots with GS]()
+    - [Customising a plot]()
+    - [Intro to Looker studio]()
+    - [Data cleaning on Looker]()
+    - [Creating dashboards]()
+    - [Practices]()
+    - [Assignment]()
 
 # Week 4: Intro to Machine Learning
 
@@ -37,5 +54,8 @@
 
 # Week 5: Final Project and Wrap up
 
-- [Final Project Instructions](lessons/final-project-instructions.md)
-- [Final Steps](lessons/wrapping-up-final-steps.md)
+- [Final Project Instructions]()
+    - [Project guidelines]()
+    - [Rubrics]()
+    - [Projects and Dataset]()
+
