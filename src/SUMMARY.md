@@ -17,7 +17,6 @@
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
     - [Practices]()
     - [Assignment]()
-    <!-- - [BONUS: Careers in data science]()  -->
 
 ### Week 2
 
@@ -25,8 +24,8 @@
     - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
     - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
     - [SQL: Data management](lessons/databases-and-sql/sql-data-management.md)
-    - [SQL: Joining multiple tables]()
-    - [SQL: Subqueries]()
+    - [SQL: Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
+    - [SQL: Subqueries](lessons/databases-and-sql/subqueries.md)
     - [SQL in Real-world]()
     - [Practices]()
     - [Assignment]() 
