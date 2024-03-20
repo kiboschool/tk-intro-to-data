@@ -111,6 +111,45 @@ Combines the results of both LEFT OUTER JOIN and RIGHT OUTER JOIN. All rows from
 | 1       | The Great Escape | 2        |
 | 2       | Enchanted Night  | 1        |
 | 4       | NULL             | 1        | <!-- No matching BookID in Books table -->
-<!-- | NULL    | Lost Horizons    | NULL     | <!-- No matching OrderID in Orders table 
+| NULL    | Lost Horizons    | NULL     | <!-- No matching OrderID in Orders table 
 
-### Practical Example: African Presidential Election (Hypothetical)
+
+
+### 👩🏾‍🎨 Practice: Hypothetical Presidential Election
+
+For a presidential election databse, imagine we have two tables: `Candidates` and `Votes`.
+
+**Task**: Using JOIN, write the SQL commands to get an overview of the election results.
+
+`Candidates`
+
+| CandidateID | Name           | Party       |
+|-------------|----------------|-------------|
+| 1           | Jane K. Doe    | Party A     |
+| 2           | John Smith     | Party B     |
+
+`Votes`
+
+| VoteID | CandidateID | Region      | NumberOfVotes |
+|--------|-------------|-------------|---------------|
+| 1      | 1           | North       | 5000          |
+| 2      | 2           | South       | 4000          |
+| 3      | 1           | East        | 6000          |
+| 4      | 2           | West        | 3000          |
+
+
+<!-- SOLUTION:
+
+```sql
+SELECT Candidates.Name, SUM(Votes.NumberOfVotes) AS TotalVotes
+FROM Candidates
+INNER JOIN Votes ON Candidates.CandidateID = Votes.CandidateID
+GROUP BY Candidates.Name;
+``` 
+-->
+
+<aside>
+
+**➡️ In the next section...**
+- We'll look at SQL subqueries.
+</aside>

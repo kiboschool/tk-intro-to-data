@@ -176,7 +176,7 @@ Understanding SQL data types is crucial for defining the type of data that can b
 - **VARCHAR**: A variable-length string.
 </aside>
 
-### 👩🏾‍🎨 **`Practice: Define a `**
+### 👩🏾‍🎨 **`Practice: Define a database schema`**
 Write a series of SQL command to...✍🏾
 
 - Create a database schema of your choice based on a hobby or interest.
