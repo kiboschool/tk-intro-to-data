@@ -43,6 +43,24 @@ units:
       - name: Week 2 Overview
         path: src/lessons/databases-and-sql.md
         publish: 2024-04-01
+      - name: Intro to databases
+        path: src/lessons/databases-and-sql/intro-to-databases.md
+        publish: 2024-04-01
+      - name: Fundamentals of SQL
+        path: src/lessons/databases-and-sql/sql.md
+        publish: 2024-04-01
+      - name: SQL - Data Management
+        path: src/lessons/databases-and-sql/sql-data-management.md
+        publish: 2024-04-01
+      - name: SQL - Joining multiple tables
+        path: src/lessons/databases-and-sql/joining-tables.md
+        publish: 2024-04-01
+      - name: SQL - Subqueries
+        path: src/lessons/databases-and-sql/subqueries.md
+        publish: 2024-04-01
+      - name: SQL in Real-world
+        path: src/lessons/databases-and-sql/subqueries.md
+        publish: 2024-04-01
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview
