@@ -1,13 +1,13 @@
 # Start Onboarding
 
 ---
-Welcome to the Try Kibo onboarding process. During this process, you will select a live class, join your class replit team, join Discord and introduce yourself, and lastly, prepare for Orientation.
+**Deadline: Wednesday, March 28 at 5pm GMT. **
 
-Note: **Complete these steps and submit the onboarding checklist by 3p.m. GMT on Thursday, October 26** to receive an orientation invite. Failure to do so results in withdrawal from the program
+Welcome to Try Kibo onboarding. You’re now ready to get set up for class. Ensure to read and understand all the information below as you will be asked some questions at the end of this process. 
 
 <aside>
 
-🚨 Watch this video before you start onboarding so you don't miss any step
+🚨 Watch this video from Emmy to see all the steps you need to complete
 
 </aside>
 
@@ -17,60 +17,103 @@ Note: **Complete these steps and submit the onboarding checklist by 3p.m. GMT on
 </div>
 
 
-## Sign up for a live class
+During this process, you will:
+* Select a live class.
+* Join your class Replit team.
+* Learn about how you will learn at Kibo.
+* Join Discord, update your profile, and introduce yourself.
+* Submit an onboarding checklist form
 
-This is a mandatory weekly Zoom class for problem-solving and learning with peers and an instructor. They are 90-minutes long, and will happen on Wednesdays and Thursdays
-
-<aside>
-
-📢 Select your preferred live class time by clicking on the link to register. You should **only sign up for one class!**
-
-</aside>
+As you get through these steps, you will complete 3 activities that will help us verify that you are ready for class.
 
 >
 
-| Time (in GMT) | Day | Sign-up Link |
+# Virtual sessions during Try Kibo
+
+While you study at Kibo, there will be weekly live events that you will attend. These events are:
+
+* **Live class(90 minutes)**: Mandatory weekly live sessions on Google Meet, led by an instructor or teaching assistant. It will include collaborative problem-solving (1 hour) and opportunities to ask questions about your lessons (30 minutes). You will select a live class time below.
+
+* **Office hours (60 minutes)**: Personalized help with your projects and lessons. This session is _optional_ and led by a Teaching Assistant.
+
+* **Community Friday (60 minutes)**: Career-focused events featuring tech professionals and mentors like software engineers, product managers, and data scientists.
+
+
+### Activity 1 - select a live class
+
+Below is a list of weekly live classes available. Submit the form below to pick a live class time that works best for you. You can only select one live class. Time is in GMT(convert to your local timezone)
+
+| Time (in GMT) | Day | Led by |
 | --- | --- | --- |
-| 4:30pm GMT | Wednesdays | <a href="https://lu.ma/fpwp10-stanley-a" target="_blank"> Live class A</a> |
-| 3:30pm GMT | Thursdays | <a href="https://lu.ma/fpwp10-stanley-b" target="_blank"> Live class B</a> |
+| 5:00pm GMT | Wednesday | Emmanuel A |
+| 2:30pm GMT | Thursdays | Wasiu Y |
+| 7:00pm GMT | Fridays | Enoch E |
+| 3:00pm GMT | Saturdays | Emmanuel O |
+
+
+<div style="width:100%;height:500px;"><iframe src="https://forms.gle/2CpWh1t37fHFTjRj7" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe>
+</div>
 
 >
 
-## Join Replit team
-<aside>
+# Learning at Kibo 
 
-🛠️ During Try Kibo, you will write your code and submit in Replit. It has everything you need to build and run computer programs in Python
+You will be learning with peers, instructors, and teaching assistants from across the continent. In this section, you will learn about the support system available to you and how you can get help.
 
-</aside>
+* **The Kibo Support System:** This includes community managers, instructors, and teaching assistants who are available to help you throughout your learning journey. Feel free to reach out and connect with any of them
 
-You have already created a Replit account during the admissions challenge. Now, you need to join the Replit team so you will be able to access your work in class. To prepare to use Replit in class:
-
-1. Go to [replit.com](https://replit.com)
-2. Select "Log in" at the top right corner to login to your account
-3. [Click this link](https://replit.com/teams/join/owybwnrmkykgiawoynfdqlktvpmroiar-tk10-fpwp) to join the Replit team for the class.
+![Screenshot 2024-03-21 194632](https://github.com/kiboschool/tk-intro-to-data/assets/88333571/8cf3a513-bc77-4719-8c8c-3e59acc23ed9)
 
 
-## Join Discord, introduce yourself, and submit the checklist form
+* **How to get help:** Even though you will have a host of people who will support you throughout your journey, you will also refine your problem-solving abilities. As a rule of thumb, if you need help with your lessons, follow these steps to get help.
+    * **Google:** Try to find answers to your questions online – a great way to polish your Google searching skills
+    * **Community:** Ask your peers in the #help channels on Discord. They might have similar questions or answer
+    * **Kibo:** If you still need assistance, contact the Kibo team—your instructor, TAs, or community managers.
 
-Discord is our community platform. It's where you will communicate and connect with your peers and instructors. Once the program starts, all communication from the Kibo team will be through Discord, so joining is mandatory.
+![Screenshot 2024-03-21 195151](https://github.com/kiboschool/tk-intro-to-data/assets/88333571/dd20d257-044a-43e8-bb96-0190741d5af0)
 
-Here are the things that you must do as soon as you join Discord:
-- Introduce yourself in the #introductions channel
-  - Your full name
-  - Your location
-  - A fun fact about you
-  - An image or gif that represents you
-- Update your Discord profile with your first name and last initial e.g., "Labake A", "Sydney W"
-- Submit the onboarding checklist form -- you will not receive an invite to orientation if you don't submit this form
+>
 
-### Now, join the Try Kibo Discord server and do the above
+# Tools for Success
 
-- If you already have a Discord account, [log in](https://discord.com/login). Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
-- Join the Kibo School Discord server: **[https://discord.gg/tptRNh8V](https://discord.gg/tptRNh8V).**
-- As you join the discord server, follow the steps until you submit the onboarding checklist
+During your class, you will use various tools for your learning. These tools are:
+
+* **Anchor:** If you can see this, you are on Anchor. All your lessons will be released on this site – bookmark this site: <a href="https://lms.kibo.school/" target="_blank"> lms.kibo.school </a>
+* **Replit:** You will write your code and submit it using. It has everything you need to build and run computer programs. You will join a replit team to access your lessons below
+* **Zoom & Google Meet:** You will use these tools to attend your live classes, office hours, and events.
+* **Discord:** This is our community platform, where you'll communicate and connect with peers and instructors. Joining Discord is mandatory once the program starts, as all communication from the Kibo team will be conducted there. You will join Discord and introduce yourself below
 
 
-We’re excited to see you at Orientation! Only those who submit the checklist form on or before **3p.m. GMT. Thursday, October 26** will get an invite to the mandatory orientation.
+### Activity 2 – Join Replit Team
 
----
-### Orientation date: Friday, 27th October from 3 - 5:30pm GMT. Mark your calendar 
+You have already created a Replit account during the admissions challenge. Now, you need to join the Replit team so you will be able to access your work in class.
+
+* Go to <a href="https://replit.com/~" target="_blank">replit.com</a>
+* Select "Log in" at the top right corner to login to your account
+* <a href="https://replit.com/teams/join/kvmzcikvodeujruofmufxhknagsyqbdd-tk11-ids" target="_blank">Click this link </a> to join the Replit team for the class.
+
+
+### Activity 3 – Join Discord and complete the onboarding checklist
+
+After the class starts, all communication from the Kibo team will occur on Discord, so joining is mandatory. Follow the steps below to join Discord, introduce yourself, update your profile, and complete the onboarding checklist form.
+
+🚨**Note:** If you witness any delays trying to join Discord, be patient and try again in a few hours. Discord may ban your account if they see multiple activities happening at one time, and it may take up to 20 days to resolve.
+
+* If you already have a Discord account, <a href="https://discord.com/login" target="_blank">log in</a>. Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
+* Join the Try Kibo Discord Server: <a href="https://discord.gg/Gn9fqzPBmA" target="_blank">https://discord.gg/Gn9fqzPBmA</a> and follow the steps until you submit the onboarding checklist
+
+    **Steps**
+    * Introduce yourself in the #introductions channel
+        * Your full name
+        * Your location(city, country)
+        * A fun fact about you
+        * An image or gif that represents you
+    *  Update your Discord name to your first name and last initial e.g., "Jessica A", "Sydney W"
+    *  Add a preferred profile picture
+    *  Submit the onboarding checklist form
+
+Once you have done all the above, you’re ready for class! You will get an invite to the mandatory orientation on or before the end of today.
+
+>
+
+### Orientation date: Thursday, 28th March from 3 - 4:30pm GMT. Mark your calendar
