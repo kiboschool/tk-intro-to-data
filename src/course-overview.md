@@ -70,7 +70,7 @@ There are multiple ways you'll learn in this class:
 
 You are encouraged to seek out additional practice outside of the practice problems included in the course. You should also try building various programs so that you can explore the concepts in a variety of ways.
 
-Now, you are ready to start onboarding. Mark this lesson as complete and tap _"Next Lesson"_ below
+Now, you are ready to start onboarding. Tap _"Next Lesson"_ below
 
 ---
 
