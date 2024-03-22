@@ -62,14 +62,14 @@ You will be learning with peers, instructors, and teaching assistants from acros
 
 * **The Kibo Support System:** This includes community managers, instructors, and teaching assistants who are available to help you throughout your learning journey. Feel free to reach out and connect with any of them
 
-![support_system](../images/support_system.png)
+![support_system](./support_system.png)
 
 * **How to get help:** Even though you will have a host of people who will support you throughout your journey, you will also refine your problem-solving abilities. As a rule of thumb, if you need help with your lessons, follow these steps to get help.
     * **Google:** Try to find answers to your questions online – a great way to polish your Google searching skills
     * **Community:** Ask your peers in the #help channels on Discord. They might have similar questions or answer
     * **Kibo:** If you still need assistance, contact the Kibo team—your instructor, TAs, or community managers.
 
-![how_to_get_help](../images/how_to_get_help.png)
+![how_to_get_help](./how_to_get_help.png)
 
 >
 
