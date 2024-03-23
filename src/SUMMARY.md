@@ -31,8 +31,8 @@
 
 ### Week 3
 
-- [Data Visualization & Insight]()
-    - [Data visualization]()
+- [Data Visualization & Insight](lessons/data-visualization.md)
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
     - [Basic plots with GS]()
     - [Customising a plot]()
     - [Intro to Looker studio]()

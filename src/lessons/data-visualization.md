@@ -2,9 +2,9 @@
 
 <img src="./data-visualization/data-viz/Data-Visualization.jpeg" width="100%" height="300px">
 
-**Welcome to week 3 of the Intro to data science course!** In the second week, we looked at different data sources and how to collect data from theses sources. We went further to explore different data cleaning techniques, and how to normalize and transform our data. 
+**Welcome to week 3 of the Intro to data science course!** In the second week, we looked at databases and SQL as a standard language for manipulating our data. We went further to explore managing data using different SQL commands and functions. 
 
-This week, we'll begin our journey of data visulization 😍 by looking at what it is, and different ways of visualizing data. Next, we'll look at methods of creating different visualization plots. Finally, we'll explore different techniques of generating insight from data, and how to communicate insight to stakeholders.
+This week, we'll begin our journey of data visulization 😍 by looking at what it is, and different ways of visualizing data. Next, we'll look at methods of creating different visualization plots. Furthermore, you'll be introduced to looker studio and how to both lead and clean your data on looker studio. Finally, we'll explore different techniques of creating dashboards using _Looker_.
 
 
 ## Learning Outcomes
@@ -12,9 +12,9 @@ This week, we'll begin our journey of data visulization 😍 by looking at what 
 After this week, you will be able to:
 
 - Understand the basics and importance of data visualization.
-- Learn how to create basic plots.
-- Learn how to generate insights from data.
-- Understand how to communicate insight to stakeholders.
+- Illustrate how to create basic plots.
+- Practice how to load and clean data on Looker.
+- Create report dashboards for data insight.
 
 
 
