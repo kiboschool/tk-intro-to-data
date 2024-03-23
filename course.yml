@@ -5,6 +5,10 @@ image_path: src/analysis.png
 units:
   - name: Introduction
     activities:
+      - name: Onboarding
+        path: src/lessons/try-kibo-onboarding.md
+        grade_weight: 100
+        publish: true
       - name: Welcome
         path: src/course-overview.md
         grade_weight: 100

@@ -1,4 +1,4 @@
-
+[Onboarding](lessons/try-kibo-onboarding.md)
 [Course Overview](course-overview.md)
 [Live Classes]()
 [Weekly Project]()
@@ -23,9 +23,9 @@
 - [Databases and SQL](lessons/databases-and-sql.md)
     - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
     - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
-    - [SQL: Data management](lessons/databases-and-sql/sql-data-management.md)
-    - [SQL: Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
-    - [SQL: Subqueries](lessons/databases-and-sql/subqueries.md)
+    - [Data management](lessons/databases-and-sql/sql-data-management.md)
+    - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
+    - [SQL function & subqueries](lessons/databases-and-sql/subqueries.md)
     - [SQL in Real-world]()
     - [Practices]()
     - [Assignment]() 
@@ -45,11 +45,11 @@
 # Week 4: Intro to Machine Learning
 
 - [Week 4 Overview](lessons/intro-to-ml.md)
-- [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
-- [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
-- [classification and regression](lessons/intro-to-ml/classification.md)
-- [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
-- [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
+    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+    - [classification and regression](lessons/intro-to-ml/classification.md)
+    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+    - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
 # Week 5: Final Project and Wrap up
 
