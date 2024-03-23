@@ -12,9 +12,9 @@ Whatever your prior expereince, this week you'll touch on basics of databases an
 After this week, you will be able to:
 
 - Explain databases and its types.
-- Use different SQL command to persist and retrive data to/from a databse.
-- Join multiple tables in a database.
-- Highlight the application of databases and SQL for modern businesses.
+- Use different SQL command to persist and retrive data to/from a database.
+- Join and retrieve data from multiple tables in a database.
+- Use different SQL functions to manipulate data in the database.
 
 
 ### An overview of this week's lesson

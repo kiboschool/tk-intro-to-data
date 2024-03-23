@@ -114,6 +114,13 @@ Combines the results of both LEFT OUTER JOIN and RIGHT OUTER JOIN. All rows from
 | NULL    | Lost Horizons    | NULL     | <!-- No matching OrderID in Orders table 
 
 
+<aside>
+
+**_Chapter summary...✍🏾_**
+
+
+</aside>
+
 
 ### 👩🏾‍🎨 Practice: Hypothetical Presidential Election
 
@@ -148,8 +155,9 @@ GROUP BY Candidates.Name;
 ``` 
 -->
 
+
 <aside>
 
 **➡️ In the next section...**
-- We'll look at SQL subqueries.
+- We'll look at different SQL functions.
 </aside>

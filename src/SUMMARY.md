@@ -25,8 +25,7 @@
     - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
     - [Data management](lessons/databases-and-sql/sql-data-management.md)
     - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
-    - [SQL function & subqueries](lessons/databases-and-sql/subqueries.md)
-    - [SQL in Real-world]()
+    - [SQL functions](lessons/databases-and-sql/sql-function.md)
     - [Practices]()
     - [Assignment]() 
 
