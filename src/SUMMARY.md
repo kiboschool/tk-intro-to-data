@@ -1,5 +1,5 @@
-
 [Course Overview](course-overview.md)
+[Onboarding](lessons/try-kibo-onboarding.md)
 [Live Classes]()
 [Weekly Project]()
 [Final Project]()
@@ -17,24 +17,22 @@
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
     - [Practices]()
     - [Assignment]()
-    <!-- - [BONUS: Careers in data science]()  -->
 
 ### Week 2
 
 - [Databases and SQL](lessons/databases-and-sql.md)
     - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
     - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
-    - [SQL: Data management](lessons/databases-and-sql/sql-data-management.md)
-    - [SQL: Joining multiple tables]()
-    - [SQL: Subqueries]()
-    - [SQL in Real-world]()
+    - [Data management](lessons/databases-and-sql/sql-data-management.md)
+    - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
+    - [SQL functions](lessons/databases-and-sql/sql-function.md)
     - [Practices]()
     - [Assignment]() 
 
 ### Week 3
 
-- [Data Visualization & Insight]()
-    - [Data visualization]()
+- [Data Visualization & Insight](lessons/data-visualization.md)
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
     - [Basic plots with GS]()
     - [Customising a plot]()
     - [Intro to Looker studio]()
@@ -46,11 +44,11 @@
 # Week 4: Intro to Machine Learning
 
 - [Week 4 Overview](lessons/intro-to-ml.md)
-- [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
-- [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
-- [classification and regression](lessons/intro-to-ml/classification.md)
-- [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
-- [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
+    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+    - [classification and regression](lessons/intro-to-ml/classification.md)
+    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+    - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
 # Week 5: Final Project and Wrap up
 

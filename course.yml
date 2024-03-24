@@ -1,10 +1,14 @@
-name: 'Try Kibo: Ontroduction to Data'
+name: 'Try Kibo: Introduction to Data'
 code: TKID
 term: TK11
 image_path: src/analysis.png
 units:
   - name: Introduction
     activities:
+      - name: Onboarding
+        path: src/lessons/try-kibo-onboarding.md
+        grade_weight: 100
+        publish: true
       - name: Welcome
         path: src/course-overview.md
         grade_weight: 100
@@ -42,38 +46,56 @@ units:
     activities:
       - name: Week 2 Overview
         path: src/lessons/databases-and-sql.md
-        publish: 2024-04-01
+        publish: 2024-04-08
+      - name: Intro to databases
+        path: src/lessons/databases-and-sql/intro-to-databases.md
+        publish: 2024-04-08
+      - name: Fundamentals of SQL
+        path: src/lessons/databases-and-sql/sql.md
+        publish: 2024-04-08
+      - name: SQL - Data Management
+        path: src/lessons/databases-and-sql/sql-data-management.md
+        publish: 2024-04-08
+      - name: SQL - Joining multiple tables
+        path: src/lessons/databases-and-sql/joining-tables.md
+        publish: 2024-04-08
+      - name: SQL functions
+        path: src/lessons/databases-and-sql/sql-function.md
+        publish: 2024-04-08
+      - name: SQL in Real-world
+        path: src/lessons/databases-and-sql/subqueries.md
+        publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview
         path: src/lessons/data-visualization.md
-        publish: 2024-04-01
+        publish: 2024-04-15
   - name: 'Week 4: Intro to Machine Learning'
     activities:
       - name: Week 4 Overview
         path: src/lessons/intro-to-ml.md
-        publish: 2024-04-01
+        publish: 2024-04-22
       - name: Getting to know ML
         path: src/lessons/intro-to-ml/getting-to-know-ml.md
-        publish: 2024-04-01
+        publish: 2024-04-22
       - name: Supervised learning
         path: src/lessons/intro-to-ml/supervised-learning.md
-        publish: 2024-04-01
+        publish: 2024-04-22
       - name: classification and regression
         path: src/lessons/intro-to-ml/classification.md
-        publish: 2024-04-01
+        publish: 2024-04-22
       - name: Unsupervised learning
         path: src/lessons/intro-to-ml/unsupervised-learning.md
-        publish: 2024-04-01
+        publish: 2024-04-22
       - name: Applications of ML
         path: src/lessons/intro-to-ml/applications-of-ml.md
-        publish: 2024-04-01
+        publish: 2024-04-22
   - name: 'Week 5: Final Project and Wrap up'
     activities:
         - name: Final Project Instructions
           path: src/lessons/final-project-instructions.md
-          publish: 2024-04-01
+          publish: 2024-04-22
         - name: Final Steps
           path: src/lessons/wrapping-up-final-steps.md
-          publish: 2024-04-01
+          publish: 2024-04-22
 

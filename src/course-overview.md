@@ -9,9 +9,11 @@
 
 </aside>
 
-<div style="position: relative; height: 100%; width: 100%;">
-    <iframe width="100%" height="600" src="https://www.youtube.com/embed/j4ilyAbjjkvsF4" title="Welcome to the web foundation course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<!-- <div style="position: relative; height: 100%; width: 100%;">
+    <iframe width="100%" height="600" src="https://www.loom.com/share/192b957de3b549d2b95109169a154805?sid=a1a6d3c4-0a6e-4e10-a242-195c80b58168" title="Welcome to the web foundation course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> -->
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/192b957de3b549d2b95109169a154805?sid=d57f76b9-3736-4a0b-81dd-d5b791d55598" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <!-- Data analysis requires acquiring and cleaning data from various sources including the web, APIs, and databases. Students learn techniques for summarizing and exploring data with tools like spreadsheets, jupyter notebook, and Python. They also learn to create data visualizations, and practice communication with data. Finally, students are introduced to machine learning techniques of prediction and classification, which will prepare them for advanced study of data science.
 
