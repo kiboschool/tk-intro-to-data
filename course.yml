@@ -59,8 +59,8 @@ units:
       - name: SQL - Joining multiple tables
         path: src/lessons/databases-and-sql/joining-tables.md
         publish: 2024-04-08
-      - name: SQL - Subqueries
-        path: src/lessons/databases-and-sql/subqueries.md
+      - name: SQL functions
+        path: src/lessons/databases-and-sql/sql-function.md
         publish: 2024-04-08
       - name: SQL in Real-world
         path: src/lessons/databases-and-sql/subqueries.md
