@@ -62,9 +62,6 @@ units:
       - name: SQL functions
         path: src/lessons/databases-and-sql/sql-function.md
         publish: 2024-04-08
-      - name: SQL in Real-world
-        path: src/lessons/databases-and-sql/subqueries.md
-        publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview
