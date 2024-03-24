@@ -7,9 +7,11 @@ units:
     activities:
       - name: Onboarding
         path: src/lessons/try-kibo-onboarding.md
+        grade_weight: 50
         publish: true
       - name: Welcome
         path: src/course-overview.md
+        grade_weight: 50
         publish: true
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
