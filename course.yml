@@ -5,10 +5,6 @@ image_path: src/analysis.png
 units:
   - name: Introduction
     activities:
-      - name: Onboarding
-        path: src/lessons/try-kibo-onboarding.md
-        grade_weight: 50
-        publish: true
       - name: Welcome
         path: src/course-overview.md
         grade_weight: 50
@@ -16,9 +12,6 @@ units:
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
         publish: true
-      - name: Community Orientation
-        path: src/lessons/community-orientation.md
-        publish: 2024-03-29
   - name: 'Week 1: Intro to Data Science'
     activities:
       - name: Week 1 Overview
@@ -53,10 +46,10 @@ units:
       - name: Fundamentals of SQL
         path: src/lessons/databases-and-sql/sql.md
         publish: 2024-04-08
-      - name: SQL - Data Management
+      - name: Data Management
         path: src/lessons/databases-and-sql/sql-data-management.md
         publish: 2024-04-08
-      - name: SQL - Joining multiple tables
+      - name: Joining multiple tables
         path: src/lessons/databases-and-sql/joining-tables.md
         publish: 2024-04-08
       - name: SQL functions

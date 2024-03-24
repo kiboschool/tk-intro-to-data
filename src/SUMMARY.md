@@ -1,8 +1,5 @@
-[Course Overview](course-overview.md)
-[Onboarding](lessons/try-kibo-onboarding.md)
-[Live Classes]()
-[Weekly Project]()
-[Final Project]()
+[Welcome](course-overview.md)
+[Setup for class](lessons/try-kibo-onboarding.md)
 
 ## Lessons
 
