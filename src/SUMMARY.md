@@ -1,5 +1,5 @@
-[Onboarding](lessons/try-kibo-onboarding.md)
 [Course Overview](course-overview.md)
+[Onboarding](lessons/try-kibo-onboarding.md)
 [Live Classes]()
 [Weekly Project]()
 [Final Project]()
