@@ -11,6 +11,7 @@ units:
         publish: true
       - name: Set up for class
         path: src/lessons/try-kibo-onboarding.md
+        grade_weight: 50
         publish: true
   - name: 'Week 1: Intro to Data Science'
     activities:
