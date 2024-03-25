@@ -4,21 +4,23 @@ From decsion making to performance monitoring and customer insights, data visual
 ## Visualisation tools
 Visualization tools and libraries play a vital role in data science by enabling data scientists to visually explore, analyze, and communicate insights from data. These tools offer various options for customization, interactivity, and data manipulation, allowing users to create interactive visualizations, apply statistical analysis, and combine multiple data sources. They often support different types of visualizations, such as scatter plots, bar charts, heatmaps, network graphs, and geographic maps, among others. 
 
-Similarly, they can be standalone applications or integrated into programming languages like Python and R through dedicated libraries. In this section, we'll explore 4 visualization tools - `Power BI`, `Tableau`, `Matplotlib`, and `Seaborn`.
+Similarly, they can be standalone applications or integrated into programming languages like Python and R through dedicated libraries. In this section, we'll explore 4 visualization or business intelligence tools. 
+- `Power BI` 
+- `Tableau`
+- `Looker Studio`
 
-### Power BI
+### 1. Power BI
 
 <aside>
 
 **_Definition..._**
 
-_Power BI_ is a user-friendly and powerful data visualization tool that allows you to transform raw data into interactive and visually appealing reports and dashboards. It is designed to help you analyze and present data in a way that is easy to understand and enables data-driven decision-making.
-
+**_Power BI_** is a user-friendly and powerful data visualization tool that allows you to transform raw data into interactive and visually appealing reports and dashboards. 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/nkmHqs1I_z0" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yKTSLffVGbk?si=QWk7aw7CiNpDFr4q" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
-In summary, Power BI allows you to...
+It is designed by Microsoft to help you analyze and present data in a way that is easy to understand and enables data-driven decision-making. In summary, Power BI allows you to...
 - Connect to various data sources, including Excel spreadsheets, databases, and APIs.
 - Retrieve and combine data from different sources within Power BI.
 - Create visualizations such as charts, tables, and maps using a drag-and-drop interface.
@@ -28,6 +30,10 @@ In summary, Power BI allows you to...
 - Power BI offers a wide range of visualization options.
 - Create visually appealing and interactive charts, tables, and maps.
 
+<aside>
+
+**`OPTIONAL...`**
+
 To futher explore Power BI, you download it using the link below.
 <details>
   <summary>Download Power BI for desktop!</summary>
@@ -35,55 +41,46 @@ To futher explore Power BI, you download it using the link below.
   **[https://powerbi.microsoft.com/en-us/desktop/](https://powerbi.microsoft.com/en-us/desktop/)**
 </details>
 
+</aside>
 
-### Tableau
+### 2. Tableau
 
 <aside>
 
 **_Definition..._**
 
-**_Tableau_** is a popular data visualization tool that allows novice data scientists to easily create interactive and visually compelling visualizations from raw data. It provides a user-friendly interface that enables users to explore and analyze data without the need for extensive programming skills.
-
+**_Tableau_** is a popular data visualization tool that allows novice data scientists to easily create interactive and visually compelling visualizations from raw data. 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/6xv1KvCMF1Q" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/YrwT3V2RWIQ?si=7l6tE51mZTOcM1W7" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
-In summary... 
-- Tableau is a beginner-friendly data visualization tool
-- It empowers novice and expert data scientists to explore, analyze, and communicate data through interactive and visually appealing visualizations. 
-- It provides a user-friendly interface, a wide range of visualization options, and ample learning resources to support your journey in data visualization and analysis.
-- It provides the ability to create dynamic dashboards, making it an ideal choice for data analysis and communication.
+Tableau provides a user-friendly interface that enables users to explore and analyze data without the need for extensive programming skills. In summary... 
+- It is a beginner-friendly data visualization tool
+- Empowers novice and expert data scientists to explore, analyze, and communicate data through interactive and visually appealing visualizations. 
+- Provides a user-friendly interface, a wide range of visualization options, and ample learning resources to support your journey in data visualization and analysis.
+- Has the ability to create dynamic dashboards, making it an ideal choice for data analysis and communication.
 
 
-### Seaborn
+### 3. Looker studio
 
 <aside>
 
 **_Definition..._**
 
-**Seaborn** is a Python data visualization library that makes it easier to create visually appealing and informative statistical graphics. It provides a high-level interface and a set of predefined themes and color palettes that enhance the aesthetics of your visualizations.
-
+**_Looker studio_** Looker Studio is a free data visualization tool that allows users to transform their data into informative, easy-to-read, and easy-to-share reports and dashboards. 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/6xv1KvCMjkF1Q" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
-
-In summary...
-- Seaborn is a library for data visualization that offers more functionality than Matplotlib.
-- Seaborn has built-in datasets, such as the penguins dataset, which contains information about penguins' characteristics.
-- One-variable plots in Seaborn can be created for continuous values using histogram-like plots called "displots."
-- Categorical columns can be visualized using Seaborn's `countplot` to display the count of each category.
-- Seaborn's `displot` can also be used to visualize the distribution of a continuous variable by different categories using the "hue" parameter. Additionally, the plot can be smoothed using the "kde" parameter.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZBoFvaWr-Dk?si=nvTHk_Evp34gTpM1" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 
+ ### 👩🏾‍🎨 Practice: Setup Looker Studio... 🎯
+- Sign up for **[Looker Studio](https://lookerstudio.google.com/)** and explore the interface.
+- Identify at least two types of data sources that can be connected to Looker Studio.
 
- ### 👩🏾‍🎨 Practice: Visualize with Power BI... 🎯
+<br>
 
-<!-- In this lesson, we've seen how to read data from CSV and API, and how to get a view of our data using `head()` function. Now you need to explore other Pandas functions.
-1. Using the DataFrame you loaded from the CSV, what type of information do you get when you use `describe()` and `tail()` function?
-2. Share your answer using the padlet below.
-    
-    **[https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)** -->
+<aside>
 
- <br><br>
-
-> ➡️ In the next section, you'll learn how to create basic charts and graphs 🎯.
+**➡️ In the next section...**
+- We'll explore looker studio 🎯.
+</aside>

@@ -14,7 +14,7 @@ After this week, you will be able to:
 - Understand the basics and importance of data visualization.
 - Illustrate how to create basic plots.
 - Practice how to load and clean data on Looker.
-- Create report dashboards for data insight.
+- Create report dashboards for data insight and reporting.
 
 
 
