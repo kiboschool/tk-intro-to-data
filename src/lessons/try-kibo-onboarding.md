@@ -1,7 +1,7 @@
 # Start Onboarding
 
 ---
-**Deadline: Wednesday, March 28 at 5pm GMT.**
+**Deadline: Wednesday, March 27 at 5pm GMT.**
 
 Welcome to Try Kibo onboarding. You’re now ready to get set up for class. Ensure to read and understand all the information below as you will be asked some questions at the end of this process. 
 
