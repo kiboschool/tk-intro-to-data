@@ -31,9 +31,9 @@
 - [Data Visualization & Insight](lessons/data-visualization.md)
     - [Data visualization](lessons/data-visualization/what-is-visualization.md)
     - [Visualization tools](lessons/data-visualization/visualization-tools.md)
-    - [Intro to Looker studio]()
-    - [Data cleaning on Looker]()
-    - [Creating dashboards]()
+    - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
+    - [Data cleaning on Looker](lessons/data-visualization/data-cleaning-looker-studio.md)
+    - [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
     - [Practices]()
     - [Assignment]()
 
