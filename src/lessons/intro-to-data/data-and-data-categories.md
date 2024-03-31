@@ -78,20 +78,27 @@ In its raw form, _data_ can be categorized into **qualitative** and **quantitati
 - Qualitative data, on the other hand, refers to non-numerical data that cannot be expressed in terms of numbers, such as opinions, attitudes, and beliefs.
  -->
 
-> **👩🏾‍🎨 Practice: Check your understanding**
+> **👩🏾‍🎨 Practice: Group the data**
 
-With your knowledge of data and different data types, check your understanding by attempting the foling questions: 
+With your knowledge of data and different data types, check your understanding by attempting the following questions: 
 1. Group the following sample data into their suitable data types.
-    - age
-    - incomeGPS coordinates or 
-    - maps
-    - product type
-    - stock prices
-    - web traffic
-    - moview reviews
-    - ethnicity
+    - Age
+    - Income
+    - GPS coordinates
+    - Maps
+    - Product type
+    - Stock prices
+    - Web traffic
+    - Moview reviews
+    - Ethnicity
 
-2. Do you think any of the sample data should be in more than one category?
+2. Do you think any of the sample data should be in more than one category? If yes, list them.
+
+> **[Group the data](https://padlet.com/curriculumpad/data-types-classification-72jfmpmwr7yzpzf1)**
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-types-classification-72jfmpmwr7yzpzf1" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
 
 <aside>
 

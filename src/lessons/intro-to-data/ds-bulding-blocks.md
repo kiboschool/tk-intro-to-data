@@ -90,9 +90,8 @@ Some ideas to include in your image: statistics, computer science, and domain ex
 - Draw using whatever tool you like (such as paper, [tldraw](https://www.tldraw.com/), or the built-in Padlet draw tool)
 - Take a screenshot, a phone picture, or export the image if you use a drawing tool
 - Upload the image to the Padlet (click the + button in the bottom-right, then add your image)
-- You can also choose to Draw from the Padlet "more" menu.
 
-> [https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)
+> **[Draw your building block](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox)**
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4ox" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 

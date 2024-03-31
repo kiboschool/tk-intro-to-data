@@ -1,14 +1,14 @@
 # Data Visualization
 Data visualization is important for individuals as it enhances understanding, improves decision-making, and facilitates communication. For businesses, data visualization provides data-driven insights, effective communication of complex information, improved efficiency, and compelling presentations. By using the power of data visualization, individuals and businesses can unlock the value of their data and gain a competitive advantage in the digital era.
 
-So, what do we mean when we say the word _data visualization_?
+So, what do we mean when we say the word  _visualization_?
 
 ### What is data visualization?
 <aside>
 
 **_Definition..._**
 
-_Data visualization_ is the graphical representation of data to convey information and insights effectively. It involves creating visual representations such as charts, graphs, maps, and infographics to explore, analyze, and communicate data.
+**_Data visualization_** is the graphical representation of data to convey information and insights effectively. It involves creating visual representations such as charts, graphs, maps, and infographics to explore, analyze, and communicate data.
 
 </aside>
 

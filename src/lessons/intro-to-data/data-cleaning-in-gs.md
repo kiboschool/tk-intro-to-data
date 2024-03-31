@@ -46,7 +46,7 @@ As a data scientist, there are many ways of dealing with missing values in a dat
 - Pause and practice along with the tutor.
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/H0tRB7fgM4VI8" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/U4yigiawIEU?si=1lpX9p6zIZiGUiLN" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
 
 #### 2. Removing Duplicates
 
@@ -157,7 +157,7 @@ A smaller sample of the global COVID-19 dataset is provided **[here](https://doc
     - Handle blank space
     - Convert the column from text to number
     - Implement other cleaning techniques of your choice
-4. Submit this exercise using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSe6D2X-nK8KpDzRUqq5-aci-sbFQTXrFv1wtZBqaLFrYu8pjg/viewform?usp=sharing)**.
+4. Submit this exercise using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPzM5PuSYIC8sQOZhPmSWAC5ufmFANOzKNJMLmKQetiiQw/viewform)**.
 
 </aside>
 

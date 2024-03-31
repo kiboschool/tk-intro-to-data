@@ -26,7 +26,7 @@ _Data science_ is a multidisciplinary field that involves using statistical and 
 
 **In summary...**
 
-- Data science is an multidisciplinary field that involves the processes, tools, and techniques needed to uncover insight from raw data.
+- Data science is a multidisciplinary field that involves the processes, tools, and techniques needed to uncover insight from raw data.
 - It plays a critical role in enabling businesses to leverage their data assets and stay competitive in today's data-driven economy.
 
 Now that you have an idea of what data science is, we need to understand why data science is important, and its role in modern businesses.
@@ -116,7 +116,9 @@ A _data scientist_ is a professional who uses statistical and computational meth
 
 Answer these questions in the padlett below.
 
-**[Data and Businesses](https://padlet.com/curriculumpad/draw-the-building-blocks-b1yn0aft11t9n4oxW)** 
+**[Data and Businesses](https://padlet.com/curriculumpad/data-and-business-r572syobazt6m56p)** 
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-and-business-r572syobazt6m56p" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 <aside> 
 

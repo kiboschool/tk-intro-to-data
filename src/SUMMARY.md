@@ -12,8 +12,8 @@
     - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
     - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
-    - [Practices]()
-    - [Assignment]()
+    - [Practices](lessons/intro-to-data/practice.md)
+    - [Assignment](lessons/intro-to-data/assignment.md)
 
 ### Week 2
 
@@ -30,11 +30,10 @@
 
 - [Data Visualization & Insight](lessons/data-visualization.md)
     - [Data visualization](lessons/data-visualization/what-is-visualization.md)
-    - [Basic plots with GS]()
-    - [Customising a plot]()
-    - [Intro to Looker studio]()
-    - [Data cleaning on Looker]()
-    - [Creating dashboards]()
+    - [Visualization tools](lessons/data-visualization/visualization-tools.md)
+    - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
+    - [Data cleaning on Looker](lessons/data-visualization/data-cleaning-looker-studio.md)
+    - [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
     - [Practices]()
     - [Assignment]()
 
