@@ -1,6 +1,6 @@
-# Assignment
+## Assignment - COVID-19 Visualization
 
-## Data Cleaning and Visualization with a COVID-19 Dataset
+![covid-19](./intro-to-data/covid_19.png)
 
 #### Dataset Description:
 You have been provided with a **[COVID-19 dataset](https://docs.google.com/spreadsheets/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/edit?usp=sharing)** containing the following columns:
