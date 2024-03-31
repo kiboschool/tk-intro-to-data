@@ -48,15 +48,44 @@ By using colors, shapes, and patterns, data visualization allows us to identify 
 
 </aside>
 
-### 👩🏾‍🎨 Practice: 
-<!-- Using the COVID-19 dataset you cleaned in the last practice exercise, create visualizations that provides information about the COVID-19 pandemic.
-1. Explore the dataset to have a sense of what it represent.
-2. Create visuals as you deemed fit. No answer is wrong!
-3. Share your visualization using **[this padlet](https://padlet.com/curriculumpad/covid-19-visualization-khrajjuimxmd7ynx)**.
-    - You can like other cool visuals on the padlet as well. -->
+### 👩🏾‍🎨 Practice: Data Visualization Using Google Sheets
 
+#### Dataset Description:
+You have been provided with a dataset containing data on the sales performance of a company. The dataset contains the following columns:
+- **Date**: Date of the sale.
+- **Product**: Name of the product sold.
+- **Units Sold**: Number of units sold for each product.
+- **Revenue**: Revenue generated from the sale.
+
+```markdown
+| Date       | Product   | Units Sold | Revenue |
+|------------|-----------|------------|---------|
+| 2024-01-01 | Product A | 50         | 2500    |
+| 2024-01-01 | Product B | 30         | 1500    |
+| 2024-01-02 | Product A | 45         | 2250    |
+| 2024-01-02 | Product B | 35         | 1750    |
+| 2024-01-03 | Product A | 55         | 2750    |
+| 2024-01-03 | Product B | 40         | 2000    |
+| 2024-01-04 | Product A | 60         | 3000    |
+| 2024-01-04 | Product B | 50         | 2500    |
+| 2024-01-05 | Product A | 65         | 3250    |
+| 2024-01-05 | Product B | 45         | 2250    |
+| 2024-01-06 | Product A | 70         | 3500    |
+| 2024-01-06 | Product B | 55         | 2750    |
+```
+
+### Task
+1. Create a google sheet and enter the data.
+2. Create at least two different types of visualizations (e.g., bar chart, line chart, pie chart) to answer the following questions:
+    - Which product has the highest sales revenue?
+    - How does the sales revenue vary over time?
+    - Add appropriate titles, labels, and legends to each visualization to enhance clarity and understanding.
+3. Submit your google sheet using the **[link]()**
+
+
+
+<aside>
+
+**➡️ In the next section...**
+- We'll attempt a practice exercise.
 </aside>
-
-<br>
-
-> 👉🏾 Next, we'll explore some common tools in data science.

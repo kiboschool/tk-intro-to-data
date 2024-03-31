@@ -12,8 +12,8 @@
     - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
     - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
-    - [Practices]()
-    - [Assignment]()
+    - [Practices](lessons/intro-to-data/practice.md)
+    - [Assignment](lessons/intro-to-data/assignment.md)
 
 ### Week 2
 

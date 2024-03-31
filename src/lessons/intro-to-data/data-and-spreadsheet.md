@@ -49,6 +49,7 @@ To have a general background on how Google Sheet works and the features therein
 - Google Sheet is a free web-based spreadsheet program create by _Google_.
 - By default, you can create and manage google sheet using your google account (i.e., your Kibo email).
 - **Access Google Sheets**: Use Google apps icon or Google Drive to launch Sheets.
+    - Alrternatively, just type `sheets.new` in your browser and hit _Enter_
 - **Creating and organizing sheets**: Name sheets, choose file location, add multiple sheets, and organize with folders.
 - **Importing data**: Upload files from devices, choose import options, and convert Excel files for compatibility.
 - **Using cells, columns, and rows**: Navigate and select cells, input data, and understand cell naming conventions.
@@ -57,10 +58,8 @@ To have a general background on how Google Sheet works and the features therein
 
 Next, we'll explore a sample dataset using Google Sheet. As we've learnt in the previous video, you can have more than one `worksheet` in a workbook. In this sample dataset, we have 3 worksheets with different dataset. 
 - **corona_virus** - official daily counts of COVID-19 cases, deaths and vaccine utilisation.
-- **movies** - contains information about movies, including their names, release dates, user ratings, genres, overviews, and others.
-- **emissions** - contains information about methane gas emissions globally.
-
-> **[Data playground - practice dataset](https://docs.google.com/spreadsheets/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/edit?usp=sharing)**
+- **movies** - information about movies, including their names, release dates, user ratings, genres, overviews, and others.
+- **emissions** - information about methane gas emissions globally.
 
 
 > **👩🏾‍🎨 Practice: Data playground... 🎯**
@@ -74,6 +73,9 @@ Next, we'll explore a sample dataset using Google Sheet. As we've learnt in the 
     - Try to change the 🔴 colour of each workbook.
 
 **Note:** Remember to use the built-in functions where neccessary.
+
+#### Submission
+Once you completed the task above, submit the URL to your google sheet using this **[submission form](https://docs.google.com/forms/d/e/1FAIpQLSdUVITs28jpj5aQZUCJRuBQHJInV0WlBaX1obIBeQWxHziJKQ/viewform)**
 
 <aside>
 
