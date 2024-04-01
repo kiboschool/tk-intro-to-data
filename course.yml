@@ -45,6 +45,7 @@ units:
         path: src/lessons/intro-to-data/assignment.md
         type: assignment
         kind: ASSIGNMENT
+        due: 2024-04-07
         publish: 2024-04-01
   - name: 'Week 2: Databases and SQL'
     activities:
