@@ -38,14 +38,9 @@ units:
         publish: 2024-04-01
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
-        type: assignment
-        kind: ASSIGNMENT
         publish: 2024-04-01
       - name: Assignment
         path: src/lessons/intro-to-data/assignment.md
-        type: assignment
-        kind: ASSIGNMENT
-        due: 2024-04-07
         publish: 2024-04-01
   - name: 'Week 2: Databases and SQL'
     activities:
