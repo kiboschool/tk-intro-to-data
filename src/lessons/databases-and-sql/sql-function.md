@@ -28,14 +28,17 @@ In our bookstore example, we can use this function to count the total number of 
 SELECT COUNT(*) AS TotalBooks, 
 COUNT(DISTINCT Genre) AS TotalGenres FROM Books;
 ```
-> **'`*`'** means EVERYTHING or ALL
+
+**<a href="https://onecompiler.com/mysql/429ktre2n" target="_blank"> Try IT! </a>**
+
 
 **Output**:
 ```
-TotalBooks | TotalGenres
------------|------------
-3          | 3
-------------------------
+----------------------------
+| TotalBooks | TotalGenres |
+----------------------------
+|          6 |           5 |
+----------------------------
 ```
 
 #### SUM()
@@ -45,12 +48,15 @@ In our bookstore example, we can use this function to calculate the total quanti
 SELECT SUM(Quantity) AS TotalQuantitySold, 
 COUNT(OrderID) AS TotalOrders FROM Orders;
 ```
-**Output**:
+
+**<a href="https://onecompiler.com/mysql/429kv3qe3" target="_blank"> Try IT! </a>**
+
 ```
-TotalQuantitySold | TotalOrders
-------------------|------------
-4                 | 3
--------------------------------
+-----------------------------------
+| TotalQuantitySold | TotalOrders |
+-----------------------------------
+|                 4 |           3 |
+-----------------------------------
 ```
 
 ### AVG()

@@ -24,9 +24,9 @@ There are different ways we can join multiple tables depending on why we need th
 
 To illustrate how these join work on multiple tables, let's consider two simplified tables from our bookstore database.
 
-![book-order-tables](./databases-and-sql/tables.png)
+<!-- ![book-order-tables](./databases-and-sql/tables.png) -->
 
-<!-- `Books`
+`Books`
 
 | BookID | Title            |
 |--------|------------------|
@@ -40,7 +40,15 @@ To illustrate how these join work on multiple tables, let's consider two simplif
 |---------|--------|----------|
 | 1       | 1      | 2        |
 | 2       | 2      | 1        |
-| 4       | 4      | 1        |  <!-- Note: BookID 4 does not match any BookID in the Books table -->
+| 3       | 3      | 1        |  
+
+
+<!-- | OrderID | Title            | Quantity |
+|---------|------------------|----------|
+|       1 | The Great Escape |        2 |
+|       2 | Enchanted Night  |        1 |
+|       3 | Lost Horizons    |        1 | -->
+
 
 #### 1. INNER JOIN
 This is the most common type of JOIN you'll come across. Inner join combines multiple tables by retrieving records that have matching values in both tables (in the common column).  Following up with our bookstore example, let's look at how we can get data from both `Orders` and `Books` tables.
@@ -52,12 +60,16 @@ FROM Orders
 INNER JOIN Books ON Orders.BookID = Books.BookID;
 ```
 
+**<a href="https://onecompiler.com/mysql/429ks4tb6" target="_blank"> Try IT! </a>**
+
+
 **Result**:
 
 | OrderID | Title            | Quantity |
 |---------|------------------|----------|
-| 1       | The Great Escape | 2        |
-| 2       | Enchanted Night  | 1        |
+|       1 | The Great Escape |        2 |
+|       2 | Enchanted Night  |        1 |
+|       3 | Lost Horizons    |        1 |
 
 #### 2. LEFT OUTER JOIN
 Also called _LEFT JOIN_, it returns all records from the left table, and the matching records from the right table. For the bookstore database, it'll return all rows from the left table (`Orders`), and the matched rows from the right table (`Books`). If there's no match, the result from the right table is _NULL_.
