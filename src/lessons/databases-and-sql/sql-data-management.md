@@ -8,7 +8,15 @@ To manage the data in a database, we need an _SQL Query_, which are instructions
 **_SQL Query_** is a request made to a database to perform a specific action on the data it contains. This action can range from retrieving data, inserting new records, updating existing data, or deleting records.
 </aside>
 
-SQL queries are written using SQL (as expected 🎯), which is designed to manage and manipulate relational databases. A simple SQL query typically follows this basic structure:
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDdBG-yP4?si=Z-nD8ZGZXabOKLqm" title="SQL Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+In summary, we now understand the following about SQL.
+- SQL interacts with databases using relational database management systems (RDBMS), such as MySQL.
+- W have seen how to download and install `MySQL`, a popular and free RDBMS.
+- Using _MySQL Workbench_, we can create a database, import data, and execute SQL queries to analyze the data.
+- We have also seen SQL operations like SELECT, filtering, aggregate functions, and exporting data to Excel or PowerBI.
+
+Now, let's look at some of the above points in details. Since SQL queries are written to manage and manipulate relational databases, a simple SQL query typically follows this basic structure:
 
 1. **SELECT**: This is a clause that specifies the columns to be returned in the query result.
 2. **FROM**: This is a clause that indicates the table from where to retrieve the data.
@@ -18,13 +26,13 @@ SQL queries are written using SQL (as expected 🎯), which is designed to manag
 To further undertand the structure of a query, imagine you have a database for a bookstore and you want to find the titles and prices of all books in the "_Fantasy_" genre that are priced under _$20_, ordered by their _publication date_. The SQL query for this request would look something like this:
 
 ```sql
-
 SELECT Title, Price
 FROM Books
 WHERE Genre = 'Fantasy' AND Price < 20
 ORDER BY PublishDate DESC;
-
 ```
+**<a href="https://onecompiler.com/mysql/429kdde5j" target="_blank"> TRY IT! </a>**
+
 
 In the above query, here is a breakdown of the query...
 - The **SELECT** clause selects the `Title` and `Price` columns.
@@ -57,7 +65,7 @@ This command is used to create new tables, databases, and other database objects
     Price DECIMAL
   );
   ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429kcxdy2" target="_blank"> Try IT! </a>**
 
 #### <ins>2. ALTER</ins>
 Modifies the structure of existing database objects, for example, adding or removing columns from a table. 
@@ -67,7 +75,7 @@ Modifies the structure of existing database objects, for example, adding or remo
   ```sql
   ALTER TABLE Books ADD Genre VARCHAR(100);
   ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429kh4j6x" target="_blank"> Try IT! </a>**
 
 #### <ins>3. DROP</ins>
 This deletes databases, tables, or other objects completely from the database. 
@@ -77,7 +85,6 @@ This deletes databases, tables, or other objects completely from the database.
   ```sql
   DROP TABLE TempSales;
   ```
-**<a href="" target="_blank"> RUN IT! </a>**
 
 #### <ins>4. TRUNCATE</ins>
 We can use `TRUNCATE` to reset a table by removing all its data while retaining the table's structure, making it ready for new data without the need to recreate the table schema.
@@ -87,7 +94,6 @@ We can use `TRUNCATE` to reset a table by removing all its data while retaining 
 ```sql
 TRUNCATE TABLE MonthlyDeals;
 ```
-**<a href="" target="_blank"> RUN IT! </a>**
 
 <aside>
 
@@ -116,18 +122,22 @@ This retrieves specific data from one or more tables, allowing for conditions to
 SELECT Title, PublishDate FROM Books 
 WHERE Genre = 'Fantasy' AND PublishDate > '2015-01-01';
 ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429khv9yb" target="_blank"> Try IT! </a>**
 
 #### <ins>2. INSERT</ins>
 Adds new records to a table by specifying values for each column in the new row.
 
-**Use case**: A customer purchases a new title from the online bookstore, "_The Enchanted Forest_" by _Jane Doe_, priced at _$15.99_ in the "_Fantasy_" genre. The bookstore uses the `INSERT` statement to add this book to the Books table.
+**Use case**: A customer purchases a new title from the online bookstore, "_The Lost Kingdom_" by _Jane Smith, priced at _$12.50_ in the "Adventure" genre. The bookstore uses the `INSERT` statement to add this book and many others to the Books table.
 
 ```sql
 INSERT INTO Books (Title, Author, Price, Genre, PublishDate)
-VALUES ('The Enchanted Forest', 'Jane Doe', 15.99, 'Fantasy', '2023-03-15');
+VALUES 
+('The Lost Kingdom', 'John Smith', 12.50, 'Adventure', '2023-04-01'),
+('Mystery Mansion', 'Emily Brown', 10.99, 'Mystery', '2023-02-20'),
+('The Secret Garden', 'Sarah Johnson', 9.99, 'Children', '2023-05-10'),
+('The Hidden Treasure', 'David Lee', 14.50, 'Adventure', '2023-03-25');
 ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429kkfpzu" target="_blank"> Try IT! </a>**
 
 #### <ins>3. UPDATE</ins>
 This command modifies existing records in a table based on specified criteria, by allowing for one or more columns to be updated.
@@ -138,7 +148,7 @@ This command modifies existing records in a table based on specified criteria, b
 UPDATE Books SET Price = 13.99 
 WHERE Title = 'The Enchanted Forest';
 ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429kktgg2" target="_blank"> Try IT! </a>**
 
 #### <ins>4. DELETE</ins>
 It removes records from a table that match **specified criteria** by effectively deleting the data from the database.
@@ -147,9 +157,9 @@ It removes records from a table that match **specified criteria** by effectively
 
 ```sql
 DELETE FROM Books 
-WHERE Title = 'Mystic River';
+WHERE Title = 'Mystery Mansion';
 ```
-**<a href="" target="_blank"> RUN IT! </a>**
+**<a href="https://onecompiler.com/mysql/429km6vx3" target="_blank"> Try IT! </a>**
 
 ### Data Types
 Understanding SQL data types is crucial for defining the type of data that can be stored in each column of a table. These data types help ensure that the data stored in a database is _accurate_, _consistent_, and in a format that can be effectively used for analysis. Using the bookstore example, you'll notice the use of `INTEGER` and `VARCHAR` in the previous SQL commands. Let's look at what they actually indicate.
@@ -181,8 +191,15 @@ Write a series of SQL command to...✍🏾
 
 - Create a database schema of your choice based on a hobby or interest.
 - Add atleast 2 different tables in the databse.
-- Add at least 4 columns with appropriate data types.
+- Add at least 4 columns with appropriate data types in each table.
 - Modify the tables by adding an additional column.
+- Insert minimum of 4 records in each table.
+- Delete one record each from each table
+
+#### Submission
+- Write your SQL queries using _OneCompiler_ or any SQL environment of your choice.
+- Copy all your SQL queries
+- Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-Data-management)**.
 
 <aside>
 

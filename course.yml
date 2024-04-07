@@ -62,6 +62,12 @@ units:
       - name: SQL functions
         path: src/lessons/databases-and-sql/sql-function.md
         publish: 2024-04-08
+      - name: Practice
+        path: src/lessons/databases-and-sql/practice.md
+        publish: 2024-04-08
+      - name: Assignment
+        path: src/lessons/databases-and-sql/assignment.md
+        publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview

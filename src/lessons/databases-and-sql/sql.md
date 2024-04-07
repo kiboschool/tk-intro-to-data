@@ -9,6 +9,9 @@ SQL, or Structured Query Language, was created in 1970 to interact with database
 **_SQL_** is a standard language used for storing, updating, removing, searching, and retrieving information from a database.
 </aside>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/27axs9dO7AE?si=xM1ApBJMh-kSLqmj" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 
 Over the years, SQL became a standard way to query and manipulate several databases. Hence, making it possible to use SQL across different _database systems_. Database systems or Database Management System (DBMS) is a piece of software that uses SQL behind the scenes to manage the data in a database.
 
@@ -22,7 +25,9 @@ Example DBMS are _Oracle_, _Postgres_, SQL Server, and _MySQL_. Using SQL with d
 
 SQL is now everywhere - from small businesses managing customer databases to global companies analyzing vast amounts of data. Its standardization and reliability have made it a foundational tool in data management and analysis. 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cA4c0ydal8Hs?si=6NHHJxo1Q_nbBQNQ" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDidBG-yP4?si=Z-nD8ZGZXabOKLqm" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
