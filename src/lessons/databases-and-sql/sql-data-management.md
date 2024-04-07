@@ -8,7 +8,15 @@ To manage the data in a database, we need an _SQL Query_, which are instructions
 **_SQL Query_** is a request made to a database to perform a specific action on the data it contains. This action can range from retrieving data, inserting new records, updating existing data, or deleting records.
 </aside>
 
-SQL queries are written using SQL (as expected 🎯), which is designed to manage and manipulate relational databases. A simple SQL query typically follows this basic structure:
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDdBG-yP4?si=Z-nD8ZGZXabOKLqm" title="SQL Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+In summary, we now understand the following about SQL.
+- SQL interacts with databases using relational database management systems (RDBMS), such as MySQL.
+- W have seen how to download and install `MySQL`, a popular and free RDBMS.
+- Using _MySQL Workbench_, we can create a database, import data, and execute SQL queries to analyze the data.
+- We have also seen SQL operations like SELECT, filtering, aggregate functions, and exporting data to Excel or PowerBI.
+
+Now, let's look at some of the above points in details. Since SQL queries are written to manage and manipulate relational databases, a simple SQL query typically follows this basic structure:
 
 1. **SELECT**: This is a clause that specifies the columns to be returned in the query result.
 2. **FROM**: This is a clause that indicates the table from where to retrieve the data.

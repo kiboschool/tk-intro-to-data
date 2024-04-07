@@ -23,8 +23,8 @@
     - [Data management](lessons/databases-and-sql/sql-data-management.md)
     - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
     - [SQL functions](lessons/databases-and-sql/sql-function.md)
-    - [Practices]()
-    - [Assignment]() 
+    - [Practices](lessons/databases-and-sql/practice.md)
+    - [Assignment](lessons/databases-and-sql/assignment.md) 
 
 ### Week 3
 

@@ -86,7 +86,7 @@ The following are the TODOs...✍🏾
 - Draw a simple table for a `Pets` database.
 - Use *pet_id*, *name*, *pet_type* (e.g., dog, cat), and *owner_id* as columns. 
 - Use Tldraw or other drawing tools.
-- Upload the drawing/sketch to [this paddlet]().
+- Upload the drawing/sketch to **[this paddlet](https://padlet.com/curriculumpad/database-assignment-designing-a-pets-database-fxbhtw90cm9k003v)**.
 
 <aside>
 
