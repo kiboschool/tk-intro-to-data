@@ -57,8 +57,15 @@ For this assignment, you are expected to use **[OneCompiler](https://onecompiler
      - Extract the month and year from the '`Transaction_Date`' column.
      - Concatenate the '`Product_Name`' and '`Country`' columns to create a new column 'Product_Location'.
 
-**Submission Guidelines:**
+### Submission Guidelines
 - Compile all your SQL queries and commands into a single SQL script file (_.sql_).
 - Include comments in your script to explain each query and its purpose.
 - Copy your SQL queries from _OneCompiler_ paste into your **[replit project](https://replit.com/team/tk11-ids/Week-2-Online-Retail-Sales-Analysis)** 
 - **Click submit on replit**.
+
+<aside>
+
+**_NOTE..!_**
+
+You'll need a bit of googling and researching online to complete this assignment
+</aside>
