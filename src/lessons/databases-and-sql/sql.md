@@ -21,13 +21,8 @@ Example DBMS are _Oracle_, _Postgres_, SQL Server, and _MySQL_. Using SQL with d
 
 ![sql-dbms](./databases-and-sql/sql-dbms.png)
 
-## SQL for Businesses
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/OqjJjpjDRLc?si=vPU-gbYGMEoqQv13" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-SQL is now everywhere - from small businesses managing customer databases to global companies analyzing vast amounts of data. Its standardization and reliability have made it a foundational tool in data management and analysis. 
-
-<br>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDidBG-yP4?si=Z-nD8ZGZXabOKLqm" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 
@@ -35,6 +30,7 @@ SQL is now everywhere - from small businesses managing customer databases to glo
 
     - Look up one local and one global company...
     - What kinds of data do you think these companies are managing with SQL?
+    - Which type of database system do they use in storing their data?
 </aside>
 
 ## SQL vs NoSQL
