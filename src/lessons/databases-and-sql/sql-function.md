@@ -1,5 +1,3 @@
-# SQL Function
-
 ## SQL Functions
 SQL functions are built-in operations in SQL that allow for processing and manipulation of data directly within your queries. With these, we can perform calculations, convert data types, and many more, by simplifying complex tasks into manageable commands.
 
@@ -28,14 +26,17 @@ In our bookstore example, we can use this function to count the total number of 
 SELECT COUNT(*) AS TotalBooks, 
 COUNT(DISTINCT Genre) AS TotalGenres FROM Books;
 ```
-> **'`*`'** means EVERYTHING or ALL
+
+**<a href="https://onecompiler.com/mysql/429ktre2n" target="_blank"> Try IT! </a>**
+
 
 **Output**:
 ```
-TotalBooks | TotalGenres
------------|------------
-3          | 3
-------------------------
+----------------------------
+| TotalBooks | TotalGenres |
+----------------------------
+|          6 |           5 |
+----------------------------
 ```
 
 #### SUM()
@@ -45,12 +46,15 @@ In our bookstore example, we can use this function to calculate the total quanti
 SELECT SUM(Quantity) AS TotalQuantitySold, 
 COUNT(OrderID) AS TotalOrders FROM Orders;
 ```
-**Output**:
+
+**<a href="https://onecompiler.com/mysql/429kv3qe3" target="_blank"> Try IT! </a>**
+
 ```
-TotalQuantitySold | TotalOrders
-------------------|------------
-4                 | 3
--------------------------------
+-----------------------------------
+| TotalQuantitySold | TotalOrders |
+-----------------------------------
+|                 4 |           3 |
+-----------------------------------
 ```
 
 ### AVG()
@@ -60,12 +64,17 @@ In our bookstore example, we can use this function to determine the average pric
 SELECT AVG(Price) AS AveragePrice, 
 COUNT(BookID) AS TotalBooks FROM Books;
 ```
+
+**<a href="https://onecompiler.com/mysql/429mtmmtd" target="_blank"> Try IT! </a>**
+
+
 **Output**:
 ```
-AveragePrice | TotalBooks
--------------|-----------
-17.33        | 3
--------------------------
++--------------+------------+
+| AveragePrice | TotalBooks |
++--------------+------------+
+|      12.5000 |          6 |
++--------------+------------+
 ```
 
 ### MAX() and MIN()
@@ -76,12 +85,15 @@ SELECT MAX(Price) AS HighestPrice,
 MIN(Price) AS LowestPrice FROM Books;
 ```
 
+**<a href="https://onecompiler.com/mysql/429mu26hp" target="_blank"> Try IT! </a>**
+
 **Output**:
 ```
-HighestPrice | LowestPrice
--------------|------------
-20           | 10
---------------------------
++--------------+-------------+
+| HighestPrice | LowestPrice |
++--------------+-------------+
+|        15.99 |        9.99 |
++--------------+-------------+
 ```
 
 ### String Functions
@@ -100,14 +112,21 @@ In our bookstore example, this function will converts book titles to uppercase a
 SELECT UPPER(Title) AS UppercaseTitle, 
 LOWER(Author) AS LowercaseAuthor FROM Books;
 ```
+
+**<a href="https://onecompiler.com/mysql/429muv4y5" target="_blank"> Try IT! </a>**
+
 **Output**:
 ```
-UppercaseTitle  | LowercaseAuthor
-----------------|----------------
-THE GREAT ESCAPE| john doe
-ENCHANTED NIGHT | jane smith
-LOST HORIZONS   | emily brontë
----------------------------------
++----------------------+-----------------+
+| UppercaseTitle       | LowercaseAuthor |
++----------------------+-----------------+
+| THE ENCHANTED FOREST | jane doe        |
+| THE FOREST           | tal kil         |
+| THE LOST KINGDOM     | john smith      |
+| MYSTERY MANSION      | emily brown     |
+| THE SECRET GARDEN    | sarah johnson   |
+| THE HIDDEN TREASURE  | david lee       |
++----------------------+-----------------+
 ```
 
 ### LENGTH() and TRIM()
@@ -137,21 +156,29 @@ Date and time functions allow you to manipulate and extract portions of dates an
 
 
 ### YEAR(), MONTH(), and DAY()
-These functions extracts the year, month, and day from publication dates. Below is an example of how to use these functions in our bookstore example
+These functions extracts the year, month, and day from a date. Below is an example of how to use these functions in our bookstore example
 
 ```sql
-SELECT Title, YEAR(PublishDate) AS PublicationYear, 
+SELECT Title, PublishDate AS OriginalDate,
+YEAR(PublishDate) AS PublicationYear, 
 MONTH(PublishDate) AS PublicationMonth, 
 DAY(PublishDate) AS PublicationDay FROM Books;
 ```
+
+**<a href="https://onecompiler.com/mysql/429mv3tt4" target="_blank"> Try IT! </a>**
+
 **Output**:
 ```
-Title            | PublicationYear | PublicationMonth | PublicationDay
------------------|-----------------|------------------|----------------
-The Great Escape | 2018            | 5                | 15
-Enchanted Night  | 2020            | 7                | 22
-Lost Horizons    | 2017            | 3                | 8
------------------------------------------------------------------------
++----------------------+--------------+-----------------+------------------+----------------+
+| Title                | OriginalDate | PublicationYear | PublicationMonth | PublicationDay |
++----------------------+--------------+-----------------+------------------+----------------+
+| The Enchanted Forest | 2023-03-15   |            2023 |                3 |             15 |
+| The Forest           | 2023-03-15   |            2023 |                3 |             15 |
+| The Lost Kingdom     | 2023-04-01   |            2023 |                4 |              1 |
+| Mystery Mansion      | 2023-02-20   |            2023 |                2 |             20 |
+| The Secret Garden    | 2023-05-10   |            2023 |                5 |             10 |
+| The Hidden Treasure  | 2023-03-25   |            2023 |                3 |             25 |
++----------------------+--------------+-----------------+------------------+----------------+
 ```
 
 ## Numeric/Mathematical Functions
@@ -169,14 +196,21 @@ Below is an example showing how to use these functions in our bookstore example.
 SELECT Title, ROUND(Price, 0) AS RoundedPrice, CEIL(Price) AS CeilPrice, 
 FLOOR(Price) AS FloorPrice FROM Books;
 ```
+
+**<a href="https://onecompiler.com/mysql/429mvdcnx" target="_blank"> Try IT! </a>**
+
 **Output** (sample prices are assumed):
 ```
-Title            | RoundedPrice | CeilPrice | FloorPrice
------------------|--------------|-----------|-----------
-The Great Escape | 15           | 15        | 14
-Enchanted Night  | 20           | 20        | 19
-Lost Horizons    | 12           | 12        | 11
---------------------------------------------------------
++----------------------+--------------+-----------+------------+
+| Title                | RoundedPrice | CeilPrice | FloorPrice |
++----------------------+--------------+-----------+------------+
+| The Enchanted Forest |           16 |        16 |         15 |
+| The Forest           |           10 |        10 |          9 |
+| The Lost Kingdom     |           13 |        13 |         12 |
+| Mystery Mansion      |           11 |        11 |         10 |
+| The Secret Garden    |           10 |        10 |          9 |
+| The Hidden Treasure  |           15 |        15 |         14 |
++----------------------+--------------+-----------+------------+
 ```
 
 
@@ -192,15 +226,38 @@ So, if you're trying to figure out something tricky with your data, like finding
 **_Subqueries_** are basically a query inside another query. They allow for more complex operations and can be used in _INSERT, UPDATE,  DELETE, SELECT, FROM_, and _WHERE_ clauses among others.
 </aside> --> 
 
-<aside>
 
-**_Chapter summary...✍🏾_**
-
-
-</aside>
 
 ### 👩🏾‍🎨 **`Practice: SQL Functions`**
 
+Consider the following student table:
+
+**Students**
+
+```
++-----------+-----------+-----+-------+
+| StudentID | Name      | Age | Grade |
+|-----------|-----------|-----|-------|
+| 1         | John      | 18  | 85    |
+| 2         | Alice     | 17  | 92    |
+| 3         | Michael   | 19  | 78    |
+| 4         | Emily     | 16  | 88    |
+| 5         | Chris     | 18  | 95    |
++-----------+-----------+-----+-------+
+```
+
+Using this `Students` table, write SQL queries to perform the following tasks:
+
+1. Calculate the average age of all students.
+2. Count the number of students who are older than 17 years
+3. Find the maximum grade achieved by any student.
+4. Calculate the sum of all grades.
+5. Retrieve the name and grade of the top-performing student.
+
+#### Submission
+- Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-SQL-Functions)**
+
+<br>
 
 <aside>
 
