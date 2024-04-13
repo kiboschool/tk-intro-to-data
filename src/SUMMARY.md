@@ -13,7 +13,7 @@
     - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
     - [Practices](lessons/intro-to-data/practice.md)
-    - [Assignment](lessons/intro-to-data/assignment.md)
+    - [Week 1 Assignment](lessons/intro-to-data/assignment.md)
 
 ### Week 2
 
@@ -24,7 +24,7 @@
     - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
     - [SQL functions](lessons/databases-and-sql/sql-function.md)
     - [Practices](lessons/databases-and-sql/practice.md)
-    - [Assignment](lessons/databases-and-sql/assignment.md) 
+    - [Week 2 Assignment](lessons/databases-and-sql/assignment.md) 
 
 ### Week 3
 
@@ -34,7 +34,7 @@
     - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
     - [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
     - [Practice](lessons/data-visualization/dashboard-projects.md)
-    - [Assignment]()
+    - [Week 3 Assignment](lessons/data-visualization/assignment.md)
 
 # Week 4: Intro to Machine Learning
 

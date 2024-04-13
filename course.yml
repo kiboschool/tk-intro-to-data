@@ -39,7 +39,7 @@ units:
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
         publish: 2024-04-01
-      - name: Assignment
+      - name: Week 1 Assignment
         path: src/lessons/intro-to-data/assignment.md
         publish: 2024-04-01
   - name: 'Week 2: Databases and SQL'
@@ -65,30 +65,35 @@ units:
       - name: Practice
         path: src/lessons/databases-and-sql/practice.md
         publish: 2024-04-08
-      - name: Assignment
+      - name: Week 2 Assignment
         path: src/lessons/databases-and-sql/assignment.md
         publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
+    blocking_assignment: Week 2 Assignment
     activities:
       - name: Week 3 Overview
         path: src/lessons/data-visualization.md
         publish: 2024-04-15
-      - name: Week 3 Overview
-        path: src/lessons/data-visualization.md
+      - name: Data visualization
+        path: src/lessons/data-visualization/what-is-visualization.md
         publish: 2024-04-15
-      - name: Week 3 Overview
-        path: src/lessons/data-visualization.md
+      - name: Visualization tools
+        path: src/lessons/data-visualization/visualization-tools.md
         publish: 2024-04-15
-      - name: Week 3 Overview
-        path: src/lessons/data-visualization.md
+      - name: Explore Looker studio
+        path: src/lessons/data-visualization/explore-looker-studio.md
         publish: 2024-04-15
-      - name: Week 3 Overview
-        path: src/lessons/data-visualization.md
+      - name: Creating dashboards
+        path: src/lessons/data-visualization/dashboard-looker-studio.md
         publish: 2024-04-15
-      - name: Week 3 Overview
-        path: src/lessons/data-visualization.md
+      - name: Practice
+        path: src/lessons/data-visualization/dashboard-projects.md
+        publish: 2024-04-15
+      - name: Week 3 Assignment
+        path: src/lessons/data-visualization/assignment.md
         publish: 2024-04-15
   - name: 'Week 4: Intro to Machine Learning'
+    blocking_assignment: Week 3 Assignment
     activities:
       - name: Week 4 Overview
         path: src/lessons/intro-to-ml.md
