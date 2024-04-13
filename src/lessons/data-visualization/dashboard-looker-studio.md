@@ -20,18 +20,45 @@ In the same way, Looker dashboards display key metrics and insights from your da
 - Charts can be adjusted to display different metrics, such as impressions, clicks, conversions, return-on-investment (ROI), average order value, etc.
 - Some chart types are more suitable for specific purposes, such as scorecards for displaying KPIs, time series charts for tracking trends over time, and scatter charts for observing relationships.
 
-### Pivot Tables
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PsJB60u9E8o?si=8oScl9qTqzTTVSTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+That's a lots of chart to master 🤔 at this level. Don't worry, we'll only be focusing on a few important ones.
 
-### KPIs
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98-NQxW3xHg?si=YMyxcOaqDotP3ozF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### 1. KPIs
+Imagine you're driving a car and you have a dashboard that shows your _speed_, _fuel level_, and _distance traveled_. KPIs are like the numbers on that dashboard which tells you how well you're doing at a glance. For example, if you're aiming to drive at `60 mph`, the KPI would show your current speed compared to that target.
+
+KPIs (Key Performance Indicators) provide a high-level overview of important metrics or performance indicators, typically displayed as numeric values or gauges. They offer a quick snapshot of performance against predefined targets or benchmarks. Let's practice through the video below how we can create _KPIs_ as part of our reports.
+
+> **How can i create _KPIs_ as part of my reports?**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/98-NQxW3xHg?si=YMyxcOaqDotP3ozF" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
+### Bar Chart
+Picture a bar graph at a candy store showing how many of each candy bar they've sold. Each candy bar has its own bar, and the taller the bar, the more of that candy was sold. It's an easy way to see which candy is the most popular without having to count every single sale.
+
+Bar charts are commonly used to compare categorical data by representing values as rectangular bars of varying lengths. They are effective for visualizing **differences** or **trends** across different categories or groups. Let's practice through the video below how we can create _Bar charts_ as part of our reports.
+
+> **How can i create _Bar charts_ as part of my reports?**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/TwWFqr_OguI?si=PNAG4tSjAwuwwCCD" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
+
+### Scatter Plots
+Imagine you're tracking the height and weight of different animals at the zoo. Each animal is a dot on a graph, with their weight on one side and their height on the other. Scatter plots help you see if there's a connection between weight and height—if bigger animals tend to be taller, for example.
+
+Scatter plots are used to visualize the relationship between two variables by plotting individual data points on a graph with horizontal and vertical axes. They help identify patterns, correlations, or outliers within the data. Let's practice through the video below how we can create _Scatter plots_ as part of our reports.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LSjQ9-shcso?si=qYzbxJ8wRg0RU-Pn" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
+
+### Pivot Tables
+Think of a pivot table like a big box of Lego bricks. You can rearrange the bricks in different ways to build different things. With a pivot table, you can rearrange your data to see it from different angles. For example, you might organize sales data by month to see which months had the most sales, or by product to see which products sold the best.
+
+Pivot tables allow users to summarize and analyze large datasets by dynamically reorganizing rows and columns to view data from different perspectives. It offer flexibility in aggregating and exploring data across multiple dimensions.
+
+> **How can i create _Scatter plots_ as part of my reports?**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/PsJB60u9E8o?si=8oScl9qTqzTTVSTO" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
 
 ### Maps
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-FtqT-n0T8?si=JMBYjspsg-BGcMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Bar Chart
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwWFqr_OguI?si=PNAG4tSjAwuwwCCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Scatter Plots
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LSjQ9-shcso?si=qYzbxJ8wRg0RU-Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
