@@ -46,6 +46,8 @@ Imagine you're tracking the height and weight of different animals at the zoo. E
 
 Scatter plots are used to visualize the relationship between two variables by plotting individual data points on a graph with horizontal and vertical axes. They help identify patterns, correlations, or outliers within the data. Let's practice through the video below how we can create _Scatter plots_ as part of our reports.
 
+> **How can i create _Scatter plots_ as part of my reports?**
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LSjQ9-shcso?si=qYzbxJ8wRg0RU-Pn" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 
@@ -54,11 +56,17 @@ Think of a pivot table like a big box of Lego bricks. You can rearrange the bric
 
 Pivot tables allow users to summarize and analyze large datasets by dynamically reorganizing rows and columns to view data from different perspectives. It offer flexibility in aggregating and exploring data across multiple dimensions.
 
-> **How can i create _Scatter plots_ as part of my reports?**
+> **How can i create _Pivot tables_ ?**
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/PsJB60u9E8o?si=8oScl9qTqzTTVSTO" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 
 ### Maps
+
+> **How can i create _Geo location_ or _Maps_ as part of my Report?**
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/N-FtqT-n0T8?si=JMBYjspsg-BGcMIc" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-FtqT-n0T8?si=JMBYjspsg-BGcMIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
