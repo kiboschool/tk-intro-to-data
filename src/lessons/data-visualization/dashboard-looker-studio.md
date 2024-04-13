@@ -62,9 +62,11 @@ Pivot tables allow users to summarize and analyze large datasets by dynamically 
 
 
 ### Maps
+Maps are like the ones you see in a GPS devic which shows you where things are located in the world. In data visualization, maps can show you where your customers are located, where your stores are located, or any other geographic information you might have. 
+
+They are useful for displaying regional patterns, trends, or distributions within the data.
 
 > **How can i create _Geo location_ or _Maps_ as part of my Report?**
-
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/N-FtqT-n0T8?si=JMBYjspsg-BGcMIc" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
