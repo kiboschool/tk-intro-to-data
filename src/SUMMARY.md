@@ -33,8 +33,7 @@
     - [Visualization tools](lessons/data-visualization/visualization-tools.md)
     - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
     - [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
-    - [Dashboard Projects](lessons/data-visualization/dashboard-projects.md)
-    - [Practices]()
+    - [Practice](lessons/data-visualization/dashboard-projects.md)
     - [Assignment]()
 
 # Week 4: Intro to Machine Learning
