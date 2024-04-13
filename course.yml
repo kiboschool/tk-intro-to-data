@@ -73,6 +73,21 @@ units:
       - name: Week 3 Overview
         path: src/lessons/data-visualization.md
         publish: 2024-04-15
+      - name: Week 3 Overview
+        path: src/lessons/data-visualization.md
+        publish: 2024-04-15
+      - name: Week 3 Overview
+        path: src/lessons/data-visualization.md
+        publish: 2024-04-15
+      - name: Week 3 Overview
+        path: src/lessons/data-visualization.md
+        publish: 2024-04-15
+      - name: Week 3 Overview
+        path: src/lessons/data-visualization.md
+        publish: 2024-04-15
+      - name: Week 3 Overview
+        path: src/lessons/data-visualization.md
+        publish: 2024-04-15
   - name: 'Week 4: Intro to Machine Learning'
     activities:
       - name: Week 4 Overview
