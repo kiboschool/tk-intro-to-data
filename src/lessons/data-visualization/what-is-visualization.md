@@ -26,7 +26,7 @@ Humans are highly visual beings, and we process visual information more efficien
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jbkSRLYSojo" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
-I'm sure you're wondering right now how that was done, but the interesting part is the fact that the visualization you just watched was done 13 years ago 😱 - that is the power of visualization. 
+I'm sure you're wondering right now how that was done, but the interesting part is the fact that the visualization you just watched was done 14 years ago 😱 - that is the power of visualization. 
 
 The possibilies are endless when it comes to communicating insight through visualization. However, with these posibilities comes **misrepresentation** of data in visualization, if not used correctly. To wrap up this intro section on data visualization, let's look at the next video to understand what misrepresentation is, and how we can avoid it in visual contents.
 
@@ -41,4 +41,10 @@ In summary, data visualization is essential because it enables us to explore and
 # Data visualization for businesses
 From decsion making to performance monitoring and customer insights, data visualization plays a crucial role in businesses across various industries. By leveraging visualizations, we can unlock the value of data, gain insights, and drive success in a competitive market landscape.  -->
 <br><br>
-> ➡️ In the next section, you'll explore different data visualization tools.
+
+<aside>
+
+**➡️ In the next section...**
+- You'll explore different data visualization tools.
+</aside>
+
