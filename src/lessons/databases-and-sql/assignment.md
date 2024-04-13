@@ -22,7 +22,6 @@ For this assignment, you are expected to use **[OneCompiler](https://onecompiler
 
 1. **Data Setup:**
 
-   - In your SQL environment, create a database called `retail transaction`.
    - Create a table `transactions`.
    - Insert the dataset into the transactions table by using **[this script](https://onecompiler.com/mysql/429k6yn35)**
 
