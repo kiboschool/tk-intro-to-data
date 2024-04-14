@@ -34,9 +34,7 @@ In summary, connecting your data in google sheet to looker studio is just a few 
 Once you have your data successfully loaded your data into _Looker_, we can now explore different things we can do with the data. Let's start with cleaning our data.
 <!-- Simple Practice: Connect a Google Sheet that contains sample book sales data from your bookstore example to Looker Studio and visualize the number of books sold. -->
 
-## Data Cleaning in Looker
-
-### 1. Handling missing values
+### Data Cleaning in Looker
 
 Just like sorting through your clothes to remove any wrinkles or stains, data cleaning in Looker involves identifying and fixing any errors, inconsistencies, or missing values in your data. This ensures that when you analyze your data, you can trust the results and make informed decisions based on accurate information.
 
@@ -53,14 +51,14 @@ To summarise data cleaning functionalities in Looker studio, remember to note th
 - **Data types**
     - Incorrect data types, such as treating numeric values as text, can lead to wrong conclusions; ensure proper data type assignment for accurate analysis.
 
-### 2. Removing duplicates
+<!-- ### 2. Removing duplicates
 
 Just like removing duplicates entries in your phone contacts, removing duplicates using Looker ensures that each record is unique by streamlining and simplifying the dataset to eliminate redundant information.
 
 <br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-GEcAvj8kLj4?si=o46583ST3HLlxJQp" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
-
+ -->
 
 
 <aside>
@@ -84,7 +82,7 @@ Imagine you are a data analyst at a retail company, and your team is interested 
 
 **Submission**:
 - Take a snippet of your Looker studio inface after importing data from all the sources
-- Upload the screenshot/snippet to **[this padlett]()**.
+- Upload the screenshot/snippet to **[this padlett](https://padlet.com/curriculumpad/showcase-your-looker-studio-insights-fedtq1ttpesamw0y)**.
 
 
 <aside>
