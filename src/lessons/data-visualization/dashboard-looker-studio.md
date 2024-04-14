@@ -1,6 +1,8 @@
 # Creating dashboards
 Creating dashboards in Looker is like building a control panel for your data — it gives you a clear, organized view of important information all in one place. Imagine you're driving a car and your dashboard shows you everything you need to know about your journey — like speed, fuel level, and navigation. 
 
+![custom-dashboard-gif.gif](./data-viz/custom-dashboard-gif.gif)
+
 In the same way, Looker dashboards display key metrics and insights from your data, helping you make informed decisions and steer a business in the right direction through data. To create a dashboard, `Charts` are an important component we can piece together to tell different stories and reveal valuable insights about a data.
 
 ## Charts in Looker
@@ -13,7 +15,7 @@ In the same way, Looker dashboards display key metrics and insights from your da
 </aside>
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8Pg0yO6Ijos?si=gWXsE4cKeRUZHXFk" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/661c5a1905809bf236e5070c/watch" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 In summary...
 - Looker Studio offers various types of charts for data visualization, including tables, pie charts, time series charts, interactive bar charts, geo charts, line charts, scatter charts, pivot tables, bullet charts, treemap charts, and so on.

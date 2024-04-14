@@ -6,7 +6,8 @@ Imagine you have different storage places for your data, like a big library with
 In Looker Studio, these connectors work like magical bridges between your data sources (like databases, spreadsheets, or cloud services) and Looker, making it simple for you to access and explore your data without having to do any heavy lifting. 
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/e181FzYG_9I?si=wSXo3gFuU5d4nV9x" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/661c4972b10f47a72e265bfd/watch" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
 
 Now that you have an understanding of what connectors are and different ones available in Looker studio, we'll now focus on using Google Sheet connector in this lesson. 
 
@@ -39,7 +40,8 @@ Once you have your data successfully loaded your data into _Looker_, we can now 
 Just like sorting through your clothes to remove any wrinkles or stains, data cleaning in Looker involves identifying and fixing any errors, inconsistencies, or missing values in your data. This ensures that when you analyze your data, you can trust the results and make informed decisions based on accurate information.
 
 Conseuently, data cleaning in Looker is essential because it helps make our data more reliable and easier to work with, ultimately leading to better insights and smarter decision-making. It's like giving your data a makeover, so it's polished and presentable for analysis 🥰.
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/dOAIHX5Re7U?si=bSCU7lBhUZlw_5Lq" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/661c53f140c3b7b8c284b2f0/watch" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 To summarise data cleaning functionalities in Looker studio, remember to note the following points:
 - **Identifying missing values**
