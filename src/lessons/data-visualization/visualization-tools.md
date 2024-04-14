@@ -67,7 +67,7 @@ Tableau provides a user-friendly interface that enables users to explore and ana
 
 **_Definition..._**
 
-**_Looker studio_** Looker Studio is a free data visualization tool that allows users to transform their data into informative, easy-to-read, and easy-to-share reports and dashboards. 
+**_Looker studio_** (formerly Google Data Studio) is a free data visualization tool that allows users to transform their data into informative, easy-to-read, and easy-to-share reports and dashboards. 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ZBoFvaWr-Dk?si=nvTHk_Evp34gTpM1" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
