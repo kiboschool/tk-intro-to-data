@@ -1,5 +1,7 @@
 # Exploring Looker Studio
 
+<img src="./data-viz/looker-studio.png" width="90%" height="350">
+
 ## Data Connectors
 Imagine you have different storage places for your data, like a big library with lots of books. Now, think of data connectors as special tools that help you easily find and bring those books from different shelves in the library to your desk, so you can read and analyze them. 
 
