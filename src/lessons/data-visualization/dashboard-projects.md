@@ -35,3 +35,9 @@ Let's get started by exploring each dashboard project in detail and learning how
 ### Submission
 - Save your completed dashboard project and get a shareable link.
 - Submit your dashboard link to **[here](https://docs.google.com/forms/d/e/1FAIpQLScfRMYewcJf1SEwjKDm22T3ZP-Ph3TdPROsjYa6Udreslkr-w/viewform?usp=sharing)**
+
+<aside>
+
+**➡️ In the next section...**
+- We'll look at this week's assignment.
+</aside>

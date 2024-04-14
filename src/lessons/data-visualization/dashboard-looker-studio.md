@@ -70,3 +70,9 @@ They are useful for displaying regional patterns, trends, or distributions withi
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/N-FtqT-n0T8?si=JMBYjspsg-BGcMIc" title="Data Visualization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
+
+<aside>
+
+**➡️ In the next section...**
+- We'll look at some practice exercises on how to create cool dashboards.
+</aside>
