@@ -39,7 +39,7 @@ units:
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
         publish: 2024-04-01
-      - name: Week 1 Assignment
+      - name: Assignment
         path: src/lessons/intro-to-data/assignment.md
         publish: 2024-04-01
   - name: 'Week 2: Databases and SQL'
@@ -65,7 +65,7 @@ units:
       - name: Practice
         path: src/lessons/databases-and-sql/practice.md
         publish: 2024-04-08
-      - name: Week 2 Assignment
+      - name: Assignment
         path: src/lessons/databases-and-sql/assignment.md
         publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
@@ -88,11 +88,10 @@ units:
       - name: Practice
         path: src/lessons/data-visualization/dashboard-projects.md
         publish: 2024-04-15
-      - name: Week 3 Assignment
+      - name: Assignment
         path: src/lessons/data-visualization/assignment.md
         publish: 2024-04-15
   - name: 'Week 4: Intro to Machine Learning'
-    blocking_assignment: Week 3 Assignment
     activities:
       - name: Week 4 Overview
         path: src/lessons/intro-to-ml.md
