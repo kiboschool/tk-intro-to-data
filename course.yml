@@ -69,7 +69,6 @@ units:
         path: src/lessons/databases-and-sql/assignment.md
         publish: 2024-04-08
   - name: 'Week 3: Data Visualization and Insight'
-    blocking_assignment: Week 2 Assignment
     activities:
       - name: Week 3 Overview
         path: src/lessons/data-visualization.md
