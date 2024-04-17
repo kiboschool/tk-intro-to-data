@@ -31,7 +31,7 @@ In summary, connecting your data in google sheet to looker studio is just a few 
     - Grant the necessary permissions if prompted.
 
 - Choose Your Spreadsheet:
-    - Select the spreadsheet that contains your bookstore data. Then, select the specific worksheet.
+    - Select the spreadsheet that contains your bookstore data or any other dataset you have on google sheet. Then, select the specific worksheet.
     - Click on the Connect button in the top right corner to establish the connection between your Google Sheet and Looker Studio.
 
 Once you have your data successfully loaded your data into _Looker_, we can now explore different things we can do with the data. Let's start with cleaning our data.
