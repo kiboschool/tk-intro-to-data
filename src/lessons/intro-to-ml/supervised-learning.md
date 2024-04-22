@@ -85,4 +85,4 @@ Suppose you want to develop a supervised machine learning model to predict wheth
 
 <br>
 
-> ➡️ Next, we'll look at `classification and regression`... 🎯
+> ➡️ Next, we'll look at `Classification in ML`... 🎯
