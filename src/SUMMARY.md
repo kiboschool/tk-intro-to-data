@@ -41,12 +41,13 @@
 - [Intro to Machine Learning](lessons/intro-to-ml.md)
     - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
     - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
-    - [classification and regression](lessons/intro-to-ml/classification.md)
+    - [Classification](lessons/intro-to-ml/classification.md)
+    - [Regression](lessons/intro-to-ml/regression.md)
     - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
     - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
 ### Week 5
 
 - [Final Project and Wrap up](final-project.md)
-    - [Wrapping up]()
+    - [Wrapping up](lessons/wrapping-up-final-steps.md)
 
