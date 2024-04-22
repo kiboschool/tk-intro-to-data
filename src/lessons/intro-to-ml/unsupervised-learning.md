@@ -52,4 +52,4 @@ This way, unsupervised learning can be great for discovering hidden insights in 
     - K-Means clustering is not suitable for datasets with a large number of features.
 <br>
 
-> ➡️ Next, we'll look at `Reinforcement learning`... 🎯
+> ➡️ Next, we'll look at `Applications of ML`... 🎯
