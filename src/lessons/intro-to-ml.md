@@ -23,4 +23,4 @@ After this week, you will be able to:
 Watch the video below to get an overview of this week.
 
 </aside>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/JZC2o8ISLbmbFw?si=u4N2zMLCzBlbhjKvdwP" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.loom.com/embed/b15e2bb64d5d48da895180a9ad3cd8f1?sid=9ae0db5d-3ce7-4b04-a82d-8897e4a6c1f6" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
