@@ -15,7 +15,7 @@ In machine learning, classification is like having a smart assistant that can au
 _Classification_ is a technique used in finding the right model or pattern that can separate a data into predefined categories or classes. This is done by deriving a mapping function between the `dependent` and `independent` features.
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8TuRJg76sW8" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/6625c01344fbd0d78fc4fc64/watch" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 In classification, the model is trained on a set of labeled data, which means that the data has been pre-classified into different categories, such as plastic, glass, paper, metal, and organic. 
 
@@ -42,6 +42,14 @@ Binary classification is a task where the model is only trained to predict one o
 The main difference between binary classification and multi-class classification is the number of categories that the model is trained to predict. In binary classification, the model is only trained to predict one of two categories, while in multi-class classification, the model is trained to predict one of more than two categories.
 
 Here is a code snippet of a binary classification model that classifies whether a student will pass or fail. Play around with the `new_student_df` to test and see the changes.
+
+<aside>
+
+**Note**:
+
+- You don't need to understand how the code works.
+- Just play with it to have an idea of how classification works
+</aside>
 
 <iframe src="https://trinket.io/embed/python3/8617dc97c2?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 

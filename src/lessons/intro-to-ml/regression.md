@@ -12,7 +12,7 @@ In contrast, classification is only used when the outcome is a categorical varia
 _Regression_ consists of models that predict a continuous outcome _(y)_ (dependent feature) based on the value of one or more predictor variables _(x)_ (independent features). The model is trained on a set of labeled data, which means that the data has been pre-classified into different categories. 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XA3OaoW86R8" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/6625c1c114c93f35370db385/watch" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 However, unlike classification, the categories in regression are _continuous values_, such as height, weight, or price. Imagine you want to estimate how much time it will take for you to reach a friend's house based on the distance you have to travel and the average speed at which you drive.
 
@@ -39,6 +39,14 @@ Imagine you have a dataset that includes information about several houses, such 
 Linear regression works by finding a straight line (a mathematical equation) that best fits the relationship between the features (size, bedrooms, age) and the house prices. The goal is to find a line that minimizes the difference between the actual house prices and the predicted prices given by the line.
 
 Here is a code snippet of a linear regression model that predict the price of house using a simulated data. Play around with the `new_house` values and see how the predicted house price changes.
+
+<aside>
+
+**Note**:
+
+- You don't need to understand how the code works.
+- Just play with it to have an idea of how regression works
+</aside>
 
 <iframe src="https://trinket.io/embed/python3/c78c82cc46?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
