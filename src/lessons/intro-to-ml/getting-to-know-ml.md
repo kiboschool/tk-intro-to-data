@@ -19,7 +19,7 @@ For these ML algorithms, the more examples they see, the better they get at maki
 In ML, the type of data we have and the problem we plan to solve largely determines the type of ML to use. Watch this video from IBM on different categories of ML.
 
 <br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/9gGnTQTYNaE?start=82" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/6625beee4ee52c4881d1e344/watch" title="Machine Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 2px solid grey;"></iframe></div>
 
 At the high level, we have 3 broad categories of ML.
 - Supervised learning
