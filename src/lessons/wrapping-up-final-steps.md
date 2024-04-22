@@ -1,12 +1,8 @@
-# Wrapping up: Final steps for Future Proof with Python
-
-
-Congratulations on **_almost_** finishing your FPWP journey. Below is what you need to do to finish strong.
+# Wrapping up: Final Steps for IDS
+Congratulations on **_almost_** finishing your IDS journey. Below is what you need to do to finish strong.
 
 ## Earn Your Certificate
-
 You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 1**
-
 
 - Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
 - Complete the **[Final Project](https://lms.kibo.school/course/tkfpwp_oct_2023/week_5_final_project_and_wrap_up/final_project_instructions)**
@@ -14,7 +10,7 @@ You have worked really hard and we want to recognize that work with a certificat
 
 ---
 
-## Study computer science at Kibo in 2024
+<!-- ## Study computer science at Kibo in 2024
 
 ![Mar 2023 Degree Promo - Twitter (1)](/images/1.png)
 
@@ -22,7 +18,7 @@ From software engineering and product management to data science and academia, y
 
 If you would like to build a career of impact as a world-class technologist at Kibo, learn more and indicate your interest here <a href="https://kibo.school/degree/" target="_blank">here </a>
 
-Application opens in 2024!
+Application opens in 2024! -->
 
 
 ## Share your experience and give us permission to share
