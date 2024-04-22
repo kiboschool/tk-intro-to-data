@@ -2,7 +2,7 @@
 
 <img src="./intro-to-ml/ml/Intro-to-ml.jpeg" width="96%" height="300px">
 
-**Welcome to week 4 of the Intro to data science course!** In the third week, we looked at data visualization using Looker studio. We went further to understand different ways we can create basic plots and dashboards and communicate data insight effectively. 
+**Welcome to week 4 of the Intro to data science course!** In the third week, we looked at data visualization using Looker studio. We went further to understand different ways we can create _charts_ and dashboards to report insight effectively. 
 
 This week, we'll begin our journey of machine learning 😍 by looking at what it is, and why it is so important for individual and businesses. Next, we'll look at different machine learning techniques - `supervised` and `unsupervised` learning. Also, we'll learn about classification and regresion, and finally explore some practical applications of machine learning 😍.
 

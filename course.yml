@@ -102,8 +102,11 @@ units:
       - name: Supervised learning
         path: src/lessons/intro-to-ml/supervised-learning.md
         publish: 2024-04-22
-      - name: classification and regression
+      - name: Classification
         path: src/lessons/intro-to-ml/classification.md
+        publish: 2024-04-22
+      - name: Regression
+        path: src/lessons/intro-to-ml/regression.md
         publish: 2024-04-22
       - name: Unsupervised learning
         path: src/lessons/intro-to-ml/unsupervised-learning.md

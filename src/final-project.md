@@ -44,7 +44,7 @@ able to complete.
 Here are sample projects you can choose from for your final projects. Remember, the sample projects are optional, hence, your team can decide to work on projects outside the samples provided below.
 
 ### Dataset Guideline
-- Click on the dataset link of your preferred project, this should open up a list of possible dataset on [Kaggle](https://www.kaggle.com/), a data science platform.
+- Click on the dataset link of your preferred project, this should open up a list of possible dataset on [Kaggle](https://www.kaggle.com/), a data science platform. You'll need to create an account if you don't have one.
 - Explore each dataset by clicking on it and getting to know what the dataset is about.
   - Only choose a dataset that that is useful for your team's project
 - Download the dataset using the download button at the top-right part of the dataset page.

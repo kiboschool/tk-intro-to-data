@@ -2,10 +2,10 @@
 Congratulations on **_almost_** finishing your IDS journey. Below is what you need to do to finish strong.
 
 ## Earn Your Certificate
-You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, Dec 1**
+You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, May 3**
 
-- Complete the assignments from Weeks 1 through 3, and submit in Replit. (Note: these are the assignments on the “Project” pages of each lesson)
-- Complete the **[Final Project](https://lms.kibo.school/course/tkfpwp_oct_2023/week_5_final_project_and_wrap_up/final_project_instructions)**
+- Complete the assignments from Weeks 1 through 3, and submit as described on the assignment page. (Note: these are the **[week 1](./intro-to-data/assignment.md)**, **[week 2](./databases-and-sql/assignment.md)**, and **[week 3](./data-visualization/assignment.md)** assignments)
+- Complete the **[Final Project](https://lms.kibo.school/course/tkid_tk11/week_5_final_project_and_wrap_up/final_project_and_wrap_up)**
 - Complete the <a href="https://forms.gle/dBRKYm9dorm1mmPY9" target="_blank">**Program Feedback Survey**</a>
 
 ---
@@ -57,13 +57,7 @@ Remember that programming is a long journey and what matters is to learn well, n
 
 - Finish the practice assignments from this course, if there are any that you didn’t get to during these five weeks.
 - Practice more python problems:
-  - [https://www.hackerrank.com/](https://www.hackerrank.com/)
-  - [https://leetcode.com/](https://leetcode.com/)
-  - [https://exercism.io/](https://exercism.io/)
-- Study more programming online
-  - [https://www.freecodecamp.org/learn/data-analysis-with-python/](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-  - [https://www.edx.org/course/computing-in-python-iii-data-structures](https://www.edx.org/course/computing-in-python-iii-data-structures)
-  - [https://cs50.harvard.edu/x/2022/](https://cs50.harvard.edu/x/2022/)
+  - [https://www.kaggle.com/](https://www.kaggle.com/)
 
 ---
 
