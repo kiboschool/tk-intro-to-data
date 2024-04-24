@@ -114,7 +114,7 @@ units:
       - name: Applications of ML
         path: src/lessons/intro-to-ml/applications-of-ml.md
         publish: 2024-04-22
-  - name: 'Week 5: Final Project and Wrap up'
+  - name: 'Week 5: Final Project'
     activities:
         - name: Final Project Instructions
           path: src/final-project.md
