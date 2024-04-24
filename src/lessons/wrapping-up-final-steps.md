@@ -4,8 +4,8 @@ Congratulations on **_almost_** finishing your IDS journey. Below is what you ne
 ## Earn Your Certificate
 You have worked really hard and we want to recognize that work with a certificate you can share digitally. To earn your certificate, **you need to complete the following by Friday, May 3**
 
-- Complete the assignments from Weeks 1 through 3, and submit as described on the assignment page. (Note: these are the **[week 1](./intro-to-data/assignment.md)**, **[week 2](./databases-and-sql/assignment.md)**, and **[week 3](./data-visualization/assignment.md)** assignments)
-- Complete the **[Final Project](https://lms.kibo.school/course/tkid_tk11/week_5_final_project_and_wrap_up/final_project_and_wrap_up)**
+- Complete the assignments from Weeks 1 through 3, and submit as described on the assignment page. (Note: these are the **[week 1](https://lms.kibo.school/course/tkid_tk11/week_1_intro_to_data_science/assignment)**, **[week 2](https://lms.kibo.school/course/tkid_tk11/week_2_databases_and_sql/assignment)**, and **[week 3](https://lms.kibo.school/course/tkid_tk11/week_3_data_visualization_and_insight/assignment)** assignments)
+- Complete the **[Final Project](https://lms.kibo.school/course/tkid_tk11/week_5_final_project/final_project_instructions)**
 - Complete the <a href="https://forms.gle/83aiK13VoM4yptok6" target="_blank">**Program Feedback Survey**</a>
 
 ---
