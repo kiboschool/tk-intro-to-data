@@ -31,8 +31,6 @@ We would love to highlight your story to other young Africans just like you. Her
 
 You can read/watch testimonials from other Try Kibo alumni on <a href="https://www.linkedin.com/posts/aziz-chebil-5743731b7_kibo-onlinelearning-africa-activity-7044623279298351105-FyBw?" target = "_blank">LinkedIn</a> and <a href="https://www.youtube.com/watch?v=f7araLLjUWo&list=PLEApm5XV23vX9E6diwGxZKqVReU8-0Q-9" target = "_blank">YouTube </a>
 
-![Tips For Pets Keeping YouTube Thumbnail (5)](/images/2.png)
-
 ---
 
 ## Stay in the Kibo family
@@ -65,6 +63,3 @@ Remember that this is a long journey and what matters is to learn well, not fast
 
 Kibo would not be the same without your participation. We are so grateful that you joined us.
 
-![image (6)](/images/6.png)
-
-![image (7)](/images/7.png)
