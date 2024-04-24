@@ -1,6 +1,6 @@
 name: 'Try Kibo: Introduction to Data'
-code: TKID
-term: TK11
+code: TKIDS
+term: TK12
 image_path: src/analysis.png
 units:
   - name: Introduction
