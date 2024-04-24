@@ -39,7 +39,6 @@ Include the following visualization components in your dashboard:
 - A bar chart comparing the distribution of purchase values across different payment methods.
 - A pie chart illustrating the gender distribution of customers.
 - Additional visualizations as needed to showcase other relevant insights.
-- A map visualization displaying the geographical distribution of customers based on their locations.
 - A scatter plot showing the relationship between age and purchase value.
 - A KPI scorecard summarizing key performance indicators such as total revenue, average purchase value, and number of purchases.
      
