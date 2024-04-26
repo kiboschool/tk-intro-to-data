@@ -13,7 +13,7 @@ Welcome to Try Kibo onboarding. You’re now ready to get set up for class. Ensu
 
 
 <div style="position: relative; height: 100%; width: 100%;">
-  <iframe width="100%" height="600" src="https://www.loom.com/embed/f965a5f4f099400bae02e20de28b0785?sid=3b6b566b-5cda-4cb8-9e15-b79b251808a6" title="Onboarding for Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="100%" height="600" src="https://www.loom.com/embed/1447d55fec064aa4bdea524c5f57eb09?sid=3693661d-7f8e-4974-ae43-01a7941a999c" title="Onboarding for Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
