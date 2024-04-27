@@ -17,109 +17,109 @@ units:
     activities:
       - name: Week 1 Overview
         path: src/lessons/intro-to-data-science.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: What is data science?
         path: src/lessons/intro-to-data/what-is-data-science.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Building blocks and workflow
         path: src/lessons/intro-to-data/ds-bulding-blocks.md
-        publish: 2024-04-26
+        publish: 2024-05-06
       - name: Data type taxonomy
         path: src/lessons/intro-to-data/data-and-data-categories.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Data and Spreadsheet
         path: src/lessons/intro-to-data/data-and-spreadsheet.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Data cleaning in GS
         path: src/lessons/intro-to-data/data-cleaning-in-gs.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Visualization with GS
         path: src/lessons/intro-to-data/data-viz-with-gs.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
-        publish: 2024-04-01
+        publish: 2024-05-06
       - name: Assignment
         path: src/lessons/intro-to-data/assignment.md
-        publish: 2024-04-01
+        publish: 2024-05-06
   - name: 'Week 2: Databases and SQL'
     activities:
       - name: Week 2 Overview
         path: src/lessons/databases-and-sql.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Intro to databases
         path: src/lessons/databases-and-sql/intro-to-databases.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Fundamentals of SQL
         path: src/lessons/databases-and-sql/sql.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Data Management
         path: src/lessons/databases-and-sql/sql-data-management.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Joining multiple tables
         path: src/lessons/databases-and-sql/joining-tables.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: SQL functions
         path: src/lessons/databases-and-sql/sql-function.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Practice
         path: src/lessons/databases-and-sql/practice.md
-        publish: 2024-04-08
+        publish: 2024-05-13
       - name: Assignment
         path: src/lessons/databases-and-sql/assignment.md
-        publish: 2024-04-08
+        publish: 2024-05-13
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview
         path: src/lessons/data-visualization.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Data visualization
         path: src/lessons/data-visualization/what-is-visualization.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Visualization tools
         path: src/lessons/data-visualization/visualization-tools.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Explore Looker studio
         path: src/lessons/data-visualization/explore-looker-studio.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Creating dashboards
         path: src/lessons/data-visualization/dashboard-looker-studio.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Practice
         path: src/lessons/data-visualization/dashboard-projects.md
-        publish: 2024-04-15
+        publish: 2024-05-20
       - name: Assignment
         path: src/lessons/data-visualization/assignment.md
-        publish: 2024-04-15
+        publish: 2024-05-20
   - name: 'Week 4: Intro to Machine Learning'
     activities:
       - name: Week 4 Overview
         path: src/lessons/intro-to-ml.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Getting to know ML
         path: src/lessons/intro-to-ml/getting-to-know-ml.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Supervised learning
         path: src/lessons/intro-to-ml/supervised-learning.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Classification
         path: src/lessons/intro-to-ml/classification.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Regression
         path: src/lessons/intro-to-ml/regression.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Unsupervised learning
         path: src/lessons/intro-to-ml/unsupervised-learning.md
-        publish: 2024-04-22
+        publish: 2024-05-27
       - name: Applications of ML
         path: src/lessons/intro-to-ml/applications-of-ml.md
-        publish: 2024-04-22
+        publish: 2024-05-27
   - name: 'Week 5: Final Project'
     activities:
         - name: Final Project Instructions
           path: src/final-project.md
-          publish: 2024-04-22
+          publish: 2024-05-27
         - name: Wrapping up
           path: src/lessons/wrapping-up-final-steps.md
-          publish: 2024-04-26
+          publish: 2024-05-27
 
