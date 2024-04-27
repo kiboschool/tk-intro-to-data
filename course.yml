@@ -23,7 +23,7 @@ units:
         publish: 2024-04-01
       - name: Building blocks and workflow
         path: src/lessons/intro-to-data/ds-bulding-blocks.md
-        publish: 2024-04-01
+        publish: 2024-04-26
       - name: Data type taxonomy
         path: src/lessons/intro-to-data/data-and-data-categories.md
         publish: 2024-04-01
