@@ -99,7 +99,7 @@ After the class starts, all communication from the Kibo team will occur on Disco
 🚨**Note:** If you witness any delays trying to join Discord, be patient and try again in a few hours. Discord may ban your account if they see multiple activities happening at one time, and it may take up to 20 days to resolve.
 
 * If you already have a Discord account, <a href="https://discord.com/login" target="_blank">log in</a>. Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
-* Join the Try Kibo Discord Server: <a href="https://discord.gg/fkQKtYd33z" target="_blank">https://discord.gg/fkQKtYd33z</a> and follow the steps until you submit the onboarding checklist
+* Join the Try Kibo Discord Server: <a href="https://discord.gg/skbZYFttNP" target="_blank">https://discord.gg/skbZYFttNP</a> and follow the steps until you submit the onboarding checklist
 
     **Steps**
     * Introduce yourself in the #introductions channel
