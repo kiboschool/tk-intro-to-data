@@ -1,7 +1,7 @@
 # Start Onboarding
 
 ---
-**Deadline: Wednesday, March 27 at 5pm GMT.**
+**Deadline: Thursday, May 2 at 12pm GMT.**
 
 Welcome to Try Kibo onboarding. You’re now ready to get set up for class. Ensure to read and understand all the information below as you will be asked some questions at the end of this process. 
 
@@ -13,7 +13,7 @@ Welcome to Try Kibo onboarding. You’re now ready to get set up for class. Ensu
 
 
 <div style="position: relative; height: 100%; width: 100%;">
-  <iframe width="100%" height="600" src="https://www.loom.com/embed/f965a5f4f099400bae02e20de28b0785?sid=3b6b566b-5cda-4cb8-9e15-b79b251808a6" title="Onboarding for Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="100%" height="600" src="https://www.loom.com/embed/69ea685579874a0b84ae5ae218632abc?sid=a1eeae96-f748-4bec-8310-3164b5086437" title="Onboarding for Try Kibo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 
@@ -34,7 +34,7 @@ While you study at Kibo, there will be weekly live events that you will attend. 
 
 * **Live class(90 minutes)**: Mandatory weekly live sessions on Google Meet, led by an instructor or teaching assistant. It will include collaborative problem-solving (1 hour) and opportunities to ask questions about your lessons (30 minutes). You will select a live class time below.
 
-* **Office hours (60 minutes)**: Personalized help with your projects and lessons. This session is _optional_ and led by a Teaching Assistant.
+* **Office hours (60 minutes)**: Personalized help with your projects and lessons. This session is _optional_ and led by a teaching assistant.
 
 * **Community Friday (60 minutes)**: Career-focused events featuring tech professionals and mentors like software engineers, product managers, and data scientists.
 
@@ -89,7 +89,7 @@ You have already created a Replit account during the admissions challenge. Now, 
 
 * Go to <a href="https://replit.com/~" target="_blank">replit.com</a>
 * Select "Log in" at the top right corner to login to your account
-* <a href="https://replit.com/teams/join/kvmzcikvodeujruofmufxhknagsyqbdd-tk11-ids" target="_blank">Click this link </a> to join the Replit team for the class.
+* <a href="https://replit.com/teams/join/vnkaintherfcjouxwgumkaoqtrexztiw-tk12-ids" target="_blank">Click this link </a> to join the Replit team for the class.
 
 
 ### Activity 3 – Join Discord and complete the onboarding checklist
@@ -99,7 +99,7 @@ After the class starts, all communication from the Kibo team will occur on Disco
 🚨**Note:** If you witness any delays trying to join Discord, be patient and try again in a few hours. Discord may ban your account if they see multiple activities happening at one time, and it may take up to 20 days to resolve.
 
 * If you already have a Discord account, <a href="https://discord.com/login" target="_blank">log in</a>. Otherwise, create an account and verify it via email. Check your spam folder if the email is not in your inbox
-* Join the Try Kibo Discord Server: <a href="https://discord.gg/Gn9fqzPBmA" target="_blank">https://discord.gg/Gn9fqzPBmA</a> and follow the steps until you submit the onboarding checklist
+* Join the Try Kibo Discord Server: <a href="https://discord.gg/skbZYFttNP" target="_blank">https://discord.gg/skbZYFttNP</a> and follow the steps until you submit the onboarding checklist
 
     **Steps**
     * Introduce yourself in the #introductions channel
@@ -115,4 +115,4 @@ Once you have done all the above, you’re ready for class! You will get an invi
 
 >
 
-### Orientation date: Thursday, 28th March from 3 - 4:30pm GMT. Mark your calendar
+### Orientation date: Friday, 3rd May from 2 - 3:30pm GMT. Mark your calendar
