@@ -39,7 +39,7 @@ units:
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
         publish: 2024-05-06
-      - name: Assignment
+      - name: Project
         path: src/lessons/intro-to-data/assignment.md
         type: assignment
         kind: ASSIGNMENT
@@ -67,7 +67,7 @@ units:
       - name: Practice
         path: src/lessons/databases-and-sql/practice.md
         publish: 2024-05-13
-      - name: Assignment
+      - name: Project
         path: src/lessons/databases-and-sql/assignment.md
         publish: 2024-05-13
   - name: 'Week 3: Data Visualization and Insight'
@@ -90,7 +90,7 @@ units:
       - name: Practice
         path: src/lessons/data-visualization/dashboard-projects.md
         publish: 2024-05-20
-      - name: Assignment
+      - name: Project
         path: src/lessons/data-visualization/assignment.md
         publish: 2024-05-20
   - name: 'Week 4: Intro to Machine Learning'
