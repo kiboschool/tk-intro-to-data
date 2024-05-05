@@ -38,7 +38,9 @@ units:
         publish: 2024-05-06
       - name: Practice
         path: src/lessons/intro-to-data/practice.md
-        publish: 2024-05-06
+        type: assignment
+        kind: ASSIGNMENT
+        publish: true
       - name: Project
         path: src/lessons/intro-to-data/assignment.md
         type: assignment
