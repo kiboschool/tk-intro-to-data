@@ -13,7 +13,7 @@ After this week, you will be able to:
 - Explain what data science is and its importance.
 - Describe some data science tools.
 - Experiment with data using Google sheet
-- Apply different data cleaning techniques on a dataset.
+- Apply different data cleaning and visualization techniques on a dataset.
 
 ### An overview of this week's lesson
 
