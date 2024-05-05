@@ -35,6 +35,18 @@ Your task is to **clean** the dataset and **create visualizations** to explore t
    - Add appropriate titles and labels to each chart to provide context and clarity.
    - Customize the appearance of the charts by adjusting colors, fonts, and styles to improve readability.
 
-5. **Submission**:
-   - Write a brief summary of your findings based on the visualizations in the same google sheet document by creating a new worksheet.
-   - Submit the URL to your Google Sheets using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSfiRMuyhHe9gqLhzvE_mnCyWhWM9XUreXDIJwdF2gOlrvIDQw/viewform)**.
+5. #### Submission Guidelines:
+- Download your google sheet file to your computer.
+  - Click on `File`
+  - Select `download`
+- Attach it below and submit.
+   <!-- (https://docs.google.com/forms/d/e/1FAIpQLSfiRMuyhHe9gqLhzvE_mnCyWhWM9XUreXDIJwdF2gOlrvIDQw/viewform)**. -->
+
+
+   <!-- <div style="position: relative; padding-bottom: 56.25%; height: 250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfiRMuyhHe9gqLhzvE_mnCyWhWM9XUreXDIJwdF2gOlrvIDQw/viewform" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div> -->
+
+<aside>
+
+**➡️ In the next section...**
+- You'll work on the week 1 project.
+</aside>

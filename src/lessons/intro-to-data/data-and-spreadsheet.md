@@ -74,8 +74,8 @@ Next, we'll explore a sample dataset using Google Sheet. As we've learnt in the 
 
 **Note:** Remember to use the built-in functions where neccessary.
 
-#### Submission
-Once you completed the task above, submit the URL to your google sheet using this **[submission form](https://docs.google.com/forms/d/e/1FAIpQLSdUVITs28jpj5aQZUCJRuBQHJInV0WlBaX1obIBeQWxHziJKQ/viewform)**
+<!-- #### Submission
+Once you completed the task above, submit the URL to your google sheet using this **[submission form](https://docs.google.com/forms/d/e/1FAIpQLSdUVITs28jpj5aQZUCJRuBQHJInV0WlBaX1obIBeQWxHziJKQ/viewform)** -->
 
 <aside>
 
