@@ -2,22 +2,24 @@
 # Try Kibo: Introduction to Data
 
 
-# Introduction
+## Lessons
 
-- [Welcome](course-overview.md)
-- [Set up for class](lessons/try-kibo-onboarding.md)
+- [Introduction]()
+    - [Welcome](course-overview.md)
+    - [Set up for class](lessons/try-kibo-onboarding.md)
 
-# Week 1: Intro to Data Science
 
-- [Week 1 Overview](lessons/intro-to-data-science.md)
-- [What is data science?](lessons/intro-to-data/what-is-data-science.md)
-- [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
-- [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
-- [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
-- [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
-- [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
-- [Practice](lessons/intro-to-data/practice.md)
-- [Assignment](lessons/intro-to-data/assignment.md)
+## Week 1
+
+- [Intro to Data Science](lessons/intro-to-data-science.md)
+    - [What is data science?](lessons/intro-to-data/what-is-data-science.md)
+    - [Building blocks and workflow](lessons/intro-to-data/ds-bulding-blocks.md)
+    - [Data type taxonomy](lessons/intro-to-data/data-and-data-categories.md)
+    - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
+    - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
+    - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
+    - [Practice](lessons/intro-to-data/practice.md)
+    - [Project](lessons/intro-to-data/assignment.md)
 
 # Week 2: Databases and SQL
 
@@ -28,17 +30,17 @@
 - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
 - [SQL functions](lessons/databases-and-sql/sql-function.md)
 - [Practice](lessons/databases-and-sql/practice.md)
-- [Assignment](lessons/databases-and-sql/assignment.md)
+- [Project](lessons/databases-and-sql/assignment.md)
 
 # Week 3: Data Visualization and Insight
 
 - [Week 3 Overview](lessons/data-visualization.md)
-- [Data visualization](lessons/data-visualization/what-is-visualization.md)
-- [Visualization tools](lessons/data-visualization/visualization-tools.md)
-- [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
-- [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
-- [Practice](lessons/data-visualization/dashboard-projects.md)
-- [Assignment](lessons/data-visualization/assignment.md)
+    - [Data visualization](lessons/data-visualization/what-is-visualization.md)
+    - [Visualization tools](lessons/data-visualization/visualization-tools.md)
+    - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
+    - [Creating dashboards](lessons/data-visualization/dashboard-looker-studio.md)
+    - [Practice](lessons/data-visualization/dashboard-projects.md)
+    - [Project](lessons/data-visualization/assignment.md)
 
 # Week 4: Intro to Machine Learning
 
@@ -50,7 +52,8 @@
 - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
 - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
-# Week 5: Final Project
+# Week 5: 
 
-- [Final Project Instructions](final-project.md)
-- [Wrapping up](lessons/wrapping-up-final-steps.md)
+- [Final Project]()
+    - [Final Project Instructions](final-project.md)
+    - [Wrapping up](lessons/wrapping-up-final-steps.md)

@@ -122,6 +122,13 @@ This retrieves specific data from one or more tables, allowing for conditions to
 SELECT Title, PublishDate FROM Books 
 WHERE Genre = 'Fantasy' AND PublishDate > '2015-01-01';
 ```
+
+<iframe
+ frameBorder="1"
+ height="300px"  src="https://onecompiler.com/embed/javascript/429khv9yb" 
+ width="100%"
+ ></iframe>
+
 **<a href="https://onecompiler.com/mysql/429khv9yb" target="_blank"> Try IT! </a>**
 
 #### <ins>2. INSERT</ins>
@@ -200,6 +207,13 @@ Write a series of SQL command to...✍🏾
 - Write your SQL queries using _OneCompiler_ or any SQL environment of your choice.
 - Copy all your SQL queries
 - Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-Data-management)**.
+
+<iframe
+ frameBorder="0"
+ height="300px"  src="https://onecompiler.com/embed/python" 
+ width="100%"
+ ></iframe>
+
 
 <aside>
 
