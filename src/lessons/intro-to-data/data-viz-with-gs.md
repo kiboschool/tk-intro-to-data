@@ -80,7 +80,7 @@ You have been provided with a dataset containing data on the sales performance o
     - Which product has the highest sales revenue?
     - How does the sales revenue vary over time?
     - Add appropriate titles, labels, and legends to each visualization to enhance clarity and understanding.
-3. Submit your google sheet using the **[link](https://docs.google.com/forms/d/e/1FAIpQLScV6wAbY17G_5O9RoAlengUpzYvGcoi_oUJSfw8YSFPwzYoBg/viewform)**
+<!-- 3. Submit your google sheet using the **[link](https://docs.google.com/forms/d/e/1FAIpQLScV6wAbY17G_5O9RoAlengUpzYvGcoi_oUJSfw8YSFPwzYoBg/viewform)** -->
 
 
 

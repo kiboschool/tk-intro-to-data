@@ -20,6 +20,7 @@
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
     - [Practice](lessons/intro-to-data/practice.md)
     - [Project](lessons/intro-to-data/assignment.md)
+    - [Wrap up](lessons/intro-to-data/wrap-up.md)
 
 # Week 2: Databases and SQL
 

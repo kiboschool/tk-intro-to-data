@@ -44,6 +44,9 @@ units:
         type: assignment
         kind: ASSIGNMENT
         publish: 2024-05-06
+      - name: Wrap up
+        path: src/lessons/intro-to-data/wrap-up.md
+        publish: 2024-05-06
   - name: 'Week 2: Databases and SQL'
     activities:
       - name: Week 2 Overview

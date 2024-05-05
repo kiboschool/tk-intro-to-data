@@ -24,21 +24,34 @@ Your task is to clean the dataset and create visualizations to explore the globa
 
 #### Assignment Tasks:
 1. **Data Cleaning**:
-   - Identify and handle missing or erroneous data:
-     - Check for any blank cells or "N/A" entries in the dataset.
-     - Replace any missing or erroneous values with appropriate data (e.g., mean or median values).
+   - Identify and handle missing or erroneous data by checking for any blank cells or "N/A" entries in the dataset.
+      - Select the range of cells you want to check.
+      - Go to the "Format" menu, choose "Conditional formatting".
+      - Set up a rule to format cells with blank values or `N/A` text differently (e.g., highlight them in red).
+      - Replace any missing or erroneous values with appropriate data (e.g., mean or median values).
    - Ensure consistent formatting:
      - Convert any text values to numbers if necessary.
      - Remove any extra spaces or special characters from the data.
 
 2. **Data Visualization**:
    - Create visualizations to explore the distribution of COVID-19 cases, deaths, and recoveries across different countries.
-   - Use appropriate chart types such as bar charts, pie charts, or choropleth maps to visualize the data.
-   - Add titles, labels, and legends to the visualizations to provide context and clarity.
+    - Choose the columns containing COVID-19 cases, deaths, and recoveries data, as well as the corresponding countries.
+    - Use appropriate chart types such as bar charts, pie charts, or choropleth maps to visualize the data.
+      - For comparing values across countries, consider using a bar chart or a column chart.
+      - If you want to show the proportion of cases, deaths, and recoveries for each country, a pie chart could be suitable.
+      - To visualize geographic distribution, use a choropleth map where countries are shaded based on the intensity of COVID-19 metrics.
+      Create Your Chart:
+      - Select the data range.
+      - Go to the "Insert" menu and choose the chart type you want to use.
+      - Customize your chart by adding titles, axis labels, and legends to provide context.
 
 #### Submission Guidelines:
-- Submit your assignment as a Google Sheets document using **[this form](https://docs.google.com/forms/d/e/1FAIpQLScZDkMXq0IrsyS4L8Y7ayfyVFTkn7HCDdykQV7bTj_wMC4-AQ/viewform)**.
-- Include some explanations and comments for each step of the data cleaning process and for each visualization in a new worksheet.
+- Download your google sheet file to your computer.
+  - Click on `File`
+  - Select `download`
+- Attach it below and submit.
+<!-- (https://docs.google.com/forms/d/e/1FAIpQLScZDkMXq0IrsyS4L8Y7ayfyVFTkn7HCDdykQV7bTj_wMC4-AQ/viewform)**. -->
 
-#### Additional Resources:
-- **[Link to Dataset](https://docs.google.com/spreadsheets/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/edit?usp=sharing)**
+<!-- <br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZDkMXq0IrsyS4L8Y7ayfyVFTkn7HCDdykQV7bTj_wMC4-AQ/viewform" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div> -->

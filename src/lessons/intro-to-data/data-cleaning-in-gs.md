@@ -136,10 +136,11 @@ With GS Smart Cleanup feature, we can do many things in an easier manner. Let's 
 > 📺 Watch the video below on using Smart Cleanup and practice along.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tihtx5AS_k8?si=xTapE5uupvEFl1cq" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+
 <aside>
 
 
-**_Chapter summary...✍🏾_**
+**_Lesson summary...✍🏾_**
 
 _Data cleaning_ involves the process of identifying and rectifying errors, inconsistencies, and missing values in a dataset. We can start by examining the data for any obvious mistakes or inconsistencies and then use GS's functions and tools to clean the data. This may include removing duplicates, handling missing values, correcting formatting issues, and ensuring data consistency and accuracy. 
 
@@ -153,13 +154,16 @@ A smaller sample of the global COVID-19 dataset is provided **[here](https://doc
 1. Create a copy of the dataset for your own use. 
 2. Explore the dataset to have a sense of what the it represent.
 3. By leveraging your data cleaning skills, attempt the following...
-    - Remove duplicate data if exist
-    - Handle blank space
-    - Convert the column from text to number
-    - Implement other cleaning techniques of your choice
-4. Submit this exercise using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPzM5PuSYIC8sQOZhPmSWAC5ufmFANOzKNJMLmKQetiiQw/viewform)**.
+    - Remove duplicate data if exist.
+    - Handle blank space.
+    - Convert the column from text to number.
+    - Implement other cleaning techniques of your choice.
+<!-- 4. Submit this exercise using **[this form](https://docs.google.com/forms/d/e/1FAIpQLSd5HPzM5PuSYIC8sQOZhPmSWAC5ufmFANOzKNJMLmKQetiiQw/viewform)**. -->
 
+
+
+<aside>
+
+**➡️ In the next lesson...**
+- We'll deep dive into creating cool visualization with Excel.
 </aside>
-
-
-> 👉🏾 Next, we'll deep dive into creating cool visualization with Excel.

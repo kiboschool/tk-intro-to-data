@@ -94,9 +94,9 @@ With your knowledge of data and different data types, check your understanding b
 
 2. Do you think any of the sample data should be in more than one category? If yes, list them.
 
-> **[Group the data](https://padlet.com/curriculumpad/data-types-classification-72jfmpmwr7yzpzf1)**
+<!-- > **[Group the data](https://padlet.com/curriculumpad/data-types-classification-72jfmpmwr7yzpzf1)** -->
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-types-classification-72jfmpmwr7yzpzf1" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-types-classification-jhtjkw7c9nn5aixk" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
 
