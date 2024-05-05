@@ -100,7 +100,7 @@ A _data scientist_ is a professional who uses statistical and computational meth
 
 <aside>
 
-**_Chapter summary...✍🏾_**
+**_Lesson summary...✍🏾_**
 
 **`Data science`** is a rapidly evolving field that involves extracting insights and knowledge from data using statistical and computational methods. It plays a crucial role in today's businesses, where vast amounts of data are generated and collected. It enables organizations to analyze and interpret this data to make informed decisions, identify trends and patterns, and gain a competitive edge. 
 
@@ -116,9 +116,9 @@ A _data scientist_ is a professional who uses statistical and computational meth
 
 Answer these questions in the padlett below.
 
-**[Data and Businesses](https://padlet.com/curriculumpad/data-and-business-r572syobazt6m56p)** 
+<!-- **[Data and Businesses](https://padlet.com/curriculumpad/data-and-business-r572syobazt6m56p)**  -->
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/data-and-business-r572syobazt6m56p" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/remake-of-data-and-business-ssej1h5e21lfhjpp" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 <aside> 
 
