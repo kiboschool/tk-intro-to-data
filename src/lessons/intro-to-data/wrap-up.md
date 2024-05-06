@@ -17,4 +17,4 @@ Feedback is a gift! We use your feedback to improve our lessons for future stude
 Thank you!
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeutHiSzcNoPEcqLrIIco0zWUGlCaErd-mfBLUrmXfskb8xyg/viewform" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 350px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeutHiSzcNoPEcqLrIIco0zWUGlCaErd-mfBLUrmXfskb8xyg/viewform" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div>
