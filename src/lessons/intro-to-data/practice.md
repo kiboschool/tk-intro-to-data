@@ -45,8 +45,3 @@ Your task is to **clean** the dataset and **create visualizations** to explore t
 
    <!-- <div style="position: relative; padding-bottom: 56.25%; height: 250px;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfiRMuyhHe9gqLhzvE_mnCyWhWM9XUreXDIJwdF2gOlrvIDQw/viewform" title="Web Scrapping Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid grey;"></iframe></div> -->
 
-<aside>
-
-**➡️ In the next section...**
-- You'll work on the week 1 project.
-</aside>
