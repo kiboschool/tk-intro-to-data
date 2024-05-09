@@ -50,6 +50,7 @@ Your task is to clean the dataset and create visualizations to explore the globa
   - Click on `File`
   - Select `download`
 - Attach it below and submit.
+  - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
 <!-- (https://docs.google.com/forms/d/e/1FAIpQLScZDkMXq0IrsyS4L8Y7ayfyVFTkn7HCDdykQV7bTj_wMC4-AQ/viewform)**. -->
 
 <!-- <br>
