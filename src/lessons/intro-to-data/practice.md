@@ -40,6 +40,7 @@ Your task is to **clean** the dataset and **create visualizations** to explore t
   - Click on `File`
   - Select `download`
 - Attach it below and submit.
+  - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
    <!-- (https://docs.google.com/forms/d/e/1FAIpQLSfiRMuyhHe9gqLhzvE_mnCyWhWM9XUreXDIJwdF2gOlrvIDQw/viewform)**. -->
 
 
