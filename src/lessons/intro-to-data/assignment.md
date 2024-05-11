@@ -3,7 +3,7 @@
 ![covid-19](./intro-to-data/covid_19.png)
 
 #### Dataset Description:
-You have been provided with a **[COVID-19 dataset](https://docs.google.com/spreadsheets/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/edit?usp=sharing)** containing the following columns:
+You have been provided with a **[COVID-19 dataset](https://docs.google.com/spreadsheets/u/2/d/1skQFAP9whhf9di2ncRxwZalgLPGF6Lrqxa8Jfi0njXQ/copy)** containing the following columns:
 - **Country**: Name of the country.
 - **Total Cases**: Total number of confirmed COVID-19 cases.
 - **New Cases**: Number of new COVID-19 cases reported.
