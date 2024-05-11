@@ -86,7 +86,9 @@ The following are the TODOs...✍🏾
 - Draw a simple table for a `Pets` database.
 - Use *pet_id*, *name*, *pet_type* (e.g., dog, cat), and *owner_id* as columns. 
 - Use Tldraw or other drawing tools.
-- Upload the drawing/sketch to **[this paddlet](https://padlet.com/curriculumpad/database-assignment-designing-a-pets-database-fxbhtw90cm9k003v)**.
+- Upload the drawing/sketch to **_Padlet_** below.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 350px;"><iframe src="https://padlet.com/curriculumpad/design-a-pets-database-zw85tqtscca87egf" title="Sample Data Science Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 

@@ -22,32 +22,32 @@ Aggregate functions are used for calculations on a set of values where they retu
 #### COUNT() 
 In our bookstore example, we can use this function to count the total number of books and total genres. For example,
 
-```sql
-SELECT COUNT(*) AS TotalBooks, 
-COUNT(DISTINCT Genre) AS TotalGenres FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429ktre2n" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429ktre2n" target="_blank"> Try IT! </a>**
 
-
-**Output**:
+<!-- **Output**:
 ```
 +------------+-------------+
 | TotalBooks | TotalGenres |
 +------------+-------------+
 |          6 |           5 |
 +------------+-------------+
-```
+``` -->
 
 #### SUM()
 In our bookstore example, we can use this function to calculate the total quantity of books sold, alongside the total number of orders. For example,
 
-```sql
-SELECT SUM(Quantity) AS TotalQuantitySold, 
-COUNT(OrderID) AS TotalOrders FROM Orders;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429kv3qe3" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429kv3qe3" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429kv3qe3" target="_blank"> Try IT! </a>**
 
 ```
 +-------------------+-------------+
@@ -55,17 +55,18 @@ COUNT(OrderID) AS TotalOrders FROM Orders;
 +-------------------+-------------+
 |                 4 |           3 |
 +-------------------+-------------+
-```
+``` -->
 
 ### AVG()
 In our bookstore example, we can use this function to determine the average price of books, alongside the count (i.e., total number) of books. For example,
 
-```sql
-SELECT AVG(Price) AS AveragePrice, 
-COUNT(BookID) AS TotalBooks FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429mtmmtd" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429mtmmtd" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429mtmmtd" target="_blank"> Try IT! </a>**
 
 
 **Output**:
@@ -75,17 +76,18 @@ COUNT(BookID) AS TotalBooks FROM Books;
 +--------------+------------+
 |      12.5000 |          6 |
 +--------------+------------+
-```
+``` -->
 
 ### MAX() and MIN()
 In our bookstore example, we can use this function to find the highest and lowest price of books. For example,
 
-```sql
-SELECT MAX(Price) AS HighestPrice, 
-MIN(Price) AS LowestPrice FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429mu26hp" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429mu26hp" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429mu26hp" target="_blank"> Try IT! </a>**
 
 **Output**:
 ```
@@ -94,7 +96,7 @@ MIN(Price) AS LowestPrice FROM Books;
 +--------------+-------------+
 |        15.99 |        9.99 |
 +--------------+-------------+
-```
+``` -->
 
 ### String Functions
 String functions are used to manipulate, examine, or handle text data (strings). Below are the different types of functions in this category. To understand this, let's look at different string functions and how to use them in the context of our bookstore example.
@@ -108,12 +110,13 @@ String functions are used to manipulate, examine, or handle text data (strings).
 ### UPPER() and LOWER()
 In our bookstore example, this function will converts book titles to uppercase and author names to lowercase. For example,
 
-```sql
-SELECT UPPER(Title) AS UppercaseTitle, 
-LOWER(Author) AS LowercaseAuthor FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429muv4y5" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429muv4y5" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429muv4y5" target="_blank"> Try IT! </a>**
 
 **Output**:
 ```
@@ -126,8 +129,7 @@ LOWER(Author) AS LowercaseAuthor FROM Books;
 | MYSTERY MANSION      | emily brown     |
 | THE SECRET GARDEN    | sarah johnson   |
 | THE HIDDEN TREASURE  | david lee       |
-+----------------------+-----------------+
-```
++----------------------+-----------------+ -->
 
 ### LENGTH() and TRIM()
 For our bookstore example, this function will get the length of book titles and trims authors' names. For example,
@@ -158,14 +160,13 @@ Date and time functions allow you to manipulate and extract portions of dates an
 ### YEAR(), MONTH(), and DAY()
 These functions extracts the year, month, and day from a date. Below is an example of how to use these functions in our bookstore example
 
-```sql
-SELECT Title, PublishDate AS OriginalDate,
-YEAR(PublishDate) AS PublicationYear, 
-MONTH(PublishDate) AS PublicationMonth, 
-DAY(PublishDate) AS PublicationDay FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429mv3tt4" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429mv3tt4" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429mv3tt4" target="_blank"> Try IT! </a>**
 
 **Output**:
 ```
@@ -179,7 +180,7 @@ DAY(PublishDate) AS PublicationDay FROM Books;
 | The Secret Garden    | 2023-05-10   |            2023 |                5 |             10 |
 | The Hidden Treasure  | 2023-03-25   |            2023 |                3 |             25 |
 +----------------------+--------------+-----------------+------------------+----------------+
-```
+``` -->
 
 ## Numeric/Mathematical Functions
 These functions perform mathematical calculations on numeric data. Below are the different types of functions in this category. To understand this, let's look at different numeric/mathematical functions and how to use them in the context of our bookstore example.
@@ -192,12 +193,13 @@ These functions perform mathematical calculations on numeric data. Below are the
 ### ROUND(), CEIL(), and FLOOR()
 Below is an example showing how to use these functions in our bookstore example.
 
-```sql
-SELECT Title, ROUND(Price, 0) AS RoundedPrice, CEIL(Price) AS CeilPrice, 
-FLOOR(Price) AS FloorPrice FROM Books;
-```
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429mvdcnx" 
+ width="100%"
+ ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429mvdcnx" target="_blank"> Try IT! </a>**
+<!-- **<a href="https://onecompiler.com/mysql/429mvdcnx" target="_blank"> Try IT! </a>**
 
 **Output** (sample prices are assumed):
 ```
@@ -211,7 +213,7 @@ FLOOR(Price) AS FloorPrice FROM Books;
 | The Secret Garden    |           10 |        10 |          9 |
 | The Hidden Treasure  |           15 |        15 |         14 |
 +----------------------+--------------+-----------+------------+
-```
+``` -->
 
 
 <!-- ## Subqueries
@@ -254,9 +256,11 @@ Using this `Students` table, write SQL queries to perform the following tasks:
 4. Calculate the sum of all grades.
 5. Retrieve the name and grade of the top-performing student.
 
-#### Submission
-- Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-SQL-Functions)**
-
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
+ width="100%"
+ ></iframe>
 <br>
 
 <aside>

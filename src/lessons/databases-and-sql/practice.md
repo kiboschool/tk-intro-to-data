@@ -12,19 +12,25 @@ The dataset contains information about social media posts including...
 6. **Shares**: Number of shares received on the post.
 7. **Timestamp**: Date and time when the post was shared on social media.
 
-You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/d/1Dwxp4EH9MAy3CbJeEhT0YTCP9KvixWx57xzJHE0h75M/edit?usp=sharing)**
+You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/d/1Dwxp4EH9MAy3CbJeEhT0YTCP9KvixWx57xzJHE0h75M/copy)**
 
 
 ### Instructions
-For this assignment, you are expected to use **[OneCompiler](https://onecompiler.com/mysql/)** to write and run your SQL queries.
+For this assignment, you are expected to use the _SQL_ editor below to write and run your SQL queries.
 1. Explore the provided dataset to have an idea of what it represent.
-2. Create a database called `social media` and a table called `engagement`.
-3. Insert the dataset into the _engagements_ table by copying and using **[this command](https://onecompiler.com/mysql/429kbswqw)**
+2. Create a table called `engagement`.
+3. Insert the dataset into the _engagements_ table by copying and using **[this insert command](https://onecompiler.com/mysql/429kbswqw)**
 4. Analyze the engagement metrics (likes, comments, shares) of the social media posts using SQL queries.
     - Calculate total likes, average comments per post, and total shares for each post type
+5. Include comments in your script to explain each query and its purpose.
+
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
+ width="100%"
+ ></iframe>
 
 ### Submission Guidelines
-- Compile all your SQL queries and commands into a single SQL script file (_.sql_).
-- Include comments in your script to explain each query and its purpose.
-- Copy your SQL queries from _OneCompiler_ paste into your **[replit project](https://replit.com/team/tk11-ids/Week-2-social-medial-engagement-analysis)** 
+- Copy your SQL queries into your **[replit project](https://replit.com/team/tk12-ids/Week-2-Social-medial-engagement-analysis)**
+    - This doesn't need to run successfully on replit.
 - **Click submit on replit**.

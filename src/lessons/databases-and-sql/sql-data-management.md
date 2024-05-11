@@ -31,7 +31,6 @@ FROM Books
 WHERE Genre = 'Fantasy' AND Price < 20
 ORDER BY PublishDate DESC;
 ```
-**<a href="https://onecompiler.com/mysql/429kdde5j" target="_blank"> TRY IT! </a>**
 
 
 In the above query, here is a breakdown of the query...
@@ -56,26 +55,25 @@ DDL are set of commands that deals with the schema and structure of a database. 
 This command is used to create new tables, databases, and other database objects. Let's look at a use case scenario.
 
 **Use case**: A new online bookstore wants to manage information about its books and customers. They decided to start by creating two tables - one for Books and another for Customers. The `CREATE TABLE` statement can be used to establish these table structure in the database with appropriate columns for storing book details (like _title, author_, and _price_) and customer information (such as _name, email_, and _purchase history_).
+  
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429kcxdy2" 
+ width="100%">
+</iframe>
 
-  ```sql
-  CREATE TABLE Books (
-    BookID INTEGER PRIMARY KEY,
-    Title VARCHAR(255),
-    Author VARCHAR(100),
-    Price DECIMAL
-  );
-  ```
-**<a href="https://onecompiler.com/mysql/429kcxdy2" target="_blank"> Try IT! </a>**
+`NOTE: Running the code above will not output or display anything`
 
 #### <ins>2. ALTER</ins>
 Modifies the structure of existing database objects, for example, adding or removing columns from a table. 
 
 **Use case**: After a few months of operations, the bookstore realizes that they need to track each book's _genre_ to make recommendations to customers. They decide to add a _Genre_ column to the Books table. The `ALTER` command is used to modify the Books table to include this new column without losing any existing data.
 
-  ```sql
-  ALTER TABLE Books ADD Genre VARCHAR(100);
-  ```
-**<a href="https://onecompiler.com/mysql/429kh4j6x" target="_blank"> Try IT! </a>**
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429kh4j6x" 
+ width="100%">
+</iframe>
 
 #### <ins>3. DROP</ins>
 This deletes databases, tables, or other objects completely from the database. 
@@ -118,55 +116,47 @@ This retrieves specific data from one or more tables, allowing for conditions to
 
 **Use case**: To analyze sales trends, the online bookstore wants to create a report of _all books in the "Fantasy" genre published after January 1, 2015,_ . Here, we can use the `SELECT` statement to query the Books table by retrieving titles and publication dates that match these criteria.
 
-```sql
-SELECT Title, PublishDate FROM Books 
-WHERE Genre = 'Fantasy' AND PublishDate > '2015-01-01';
-```
-
 <iframe
  frameBorder="1"
- height="300px"  src="https://onecompiler.com/embed/javascript/429khv9yb" 
+ height="400px"  src="https://onecompiler.com/embed/mysql/429khv9yb" 
  width="100%"
  ></iframe>
 
-**<a href="https://onecompiler.com/mysql/429khv9yb" target="_blank"> Try IT! </a>**
 
 #### <ins>2. INSERT</ins>
 Adds new records to a table by specifying values for each column in the new row.
 
 **Use case**: A customer purchases a new title from the online bookstore, "_The Lost Kingdom_" by _Jane Smith, priced at _$12.50_ in the "Adventure" genre. The bookstore uses the `INSERT` statement to add this book and many others to the Books table.
 
-```sql
-INSERT INTO Books (Title, Author, Price, Genre, PublishDate)
-VALUES 
-('The Lost Kingdom', 'John Smith', 12.50, 'Adventure', '2023-04-01'),
-('Mystery Mansion', 'Emily Brown', 10.99, 'Mystery', '2023-02-20'),
-('The Secret Garden', 'Sarah Johnson', 9.99, 'Children', '2023-05-10'),
-('The Hidden Treasure', 'David Lee', 14.50, 'Adventure', '2023-03-25');
-```
-**<a href="https://onecompiler.com/mysql/429kkfpzu" target="_blank"> Try IT! </a>**
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429kkfpzu" 
+ width="100%">
+</iframe>
 
 #### <ins>3. UPDATE</ins>
 This command modifies existing records in a table based on specified criteria, by allowing for one or more columns to be updated.
 
 **Use case**: After a pricing review, the bookstore decides to reduce the price of "_The Enchanted Forest_" by _$2_. Here, the `UPDATE` statement is used to adjust the _Price_ column in the _Books_ table for this title.
 
-```sql
-UPDATE Books SET Price = 13.99 
-WHERE Title = 'The Enchanted Forest';
-```
-**<a href="https://onecompiler.com/mysql/429kktgg2" target="_blank"> Try IT! </a>**
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429kktgg2" 
+ width="100%">
+</iframe>
+
 
 #### <ins>4. DELETE</ins>
 It removes records from a table that match **specified criteria** by effectively deleting the data from the database.
 
 **Use case**: The bookstore decides to discontinue selling a poorly reviewed book titled "_Mystic River_" that hasn't sold any copies. here, we can use the `DELETE` statement to remove all records of this book from the _Books_ table.
 
-```sql
-DELETE FROM Books 
-WHERE Title = 'Mystery Mansion';
-```
-**<a href="https://onecompiler.com/mysql/429km6vx3" target="_blank"> Try IT! </a>**
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/429km6vx3" 
+ width="100%">
+</iframe>
+
 
 ### Data Types
 Understanding SQL data types is crucial for defining the type of data that can be stored in each column of a table. These data types help ensure that the data stored in a database is _accurate_, _consistent_, and in a format that can be effectively used for analysis. Using the bookstore example, you'll notice the use of `INTEGER` and `VARCHAR` in the previous SQL commands. Let's look at what they actually indicate.
@@ -193,24 +183,23 @@ Understanding SQL data types is crucial for defining the type of data that can b
 - **VARCHAR**: A variable-length string.
 </aside>
 
-### 👩🏾‍🎨 **`Practice: Define a database schema`**
-Write a series of SQL command to...✍🏾
+### 👩🏾‍🎨 **`Practice: SQL Playground...`**
+Using the _SQL_ editor below, write a series of SQL command to...✍🏾 
 
-- Create a database schema of your choice based on a hobby or interest.
-- Add atleast 2 different tables in the databse.
+- Create atleast 2 different tables in the databse.
 - Add at least 4 columns with appropriate data types in each table.
 - Modify the tables by adding an additional column.
 - Insert minimum of 4 records in each table.
 - Delete one record each from each table
 
-#### Submission
-- Write your SQL queries using _OneCompiler_ or any SQL environment of your choice.
-- Copy all your SQL queries
-- Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-Data-management)**.
+<!-- #### Submission
+- Practice using the editor below.
+<!-- - Copy all your SQL queries
+- Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-Data-management)**. -->
 
 <iframe
  frameBorder="0"
- height="300px"  src="https://onecompiler.com/embed/python" 
+ height="300px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
  width="100%"
  ></iframe>
 

@@ -140,6 +140,12 @@ For a presidential election databse, imagine we have two tables: `Candidates` an
 | 4      | 2           | West        | 3000          |
 
 
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
+ width="100%"
+ ></iframe>
+
 <!-- SOLUTION:
 
 ```sql
