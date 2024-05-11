@@ -1,4 +1,6 @@
-## Wrap up
+# Wrap up
+
+![wrap.png](./intro-to-data/wrap-up.png)
 
 ### Weekly objectives
 Looking back at what you've done this week, do you think you have achieved the objectives for this week? Here are the objectives.

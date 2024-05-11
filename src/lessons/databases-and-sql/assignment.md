@@ -15,10 +15,10 @@ The dataset contains information about online retail sales transactions. It incl
 9. **Country**: Country where the transaction took place.
 10. **Payment_Method**: Payment method used for the transaction.
 
-You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/d/1vzuWTlXqI56-K7twJcJek4pt0K65JkJUg9NOl3cI6LI/edit?usp=sharing)**.
+You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/d/1vzuWTlXqI56-K7twJcJek4pt0K65JkJUg9NOl3cI6LI/copy)**.
 
 ### Instructions
-For this assignment, you are expected to use **[OneCompiler](https://onecompiler.com/mysql/)** to write and run your SQL queries.
+For this assignment, you are expected to use the SQL editor below to write and run your SQL queries.
 
 1. **Data Setup:**
 
@@ -40,9 +40,13 @@ For this assignment, you are expected to use **[OneCompiler](https://onecompiler
 3. **Data Management:**
 
    - Create a new table named `customer_info` with columns for customer details such as '*Customer_ID*', '*Customer_Name*', and '_Email_'.
+      - Use the `CREATE TABLE` command for this.
    - Insert sample customer data into the newly created table.
+      - Use the `INSERT INTO` command for this.
    - Update the dataset to include a new column 'Discount' and calculate a `10%` discount for each transaction.
+      - Use the `UPDATE` command for this.
    - Delete transactions with a quantity of `0` or _negative_ values.
+      - Use the `DELETE` command for this.
 
 4. **Joining Tables:**
 
@@ -56,15 +60,21 @@ For this assignment, you are expected to use **[OneCompiler](https://onecompiler
      - Extract the month and year from the '`Transaction_Date`' column.
      - Concatenate the '`Product_Name`' and '`Country`' columns to create a new column 'Product_Location'.
 
+
+<iframe
+ frameBorder="0"
+ height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
+ width="100%"
+ ></iframe>
+
 ### Submission Guidelines
-- Compile all your SQL queries and commands into a single SQL script file (_.sql_).
-- Include comments in your script to explain each query and its purpose.
-- Copy your SQL queries from _OneCompiler_ paste into your **[replit project](https://replit.com/team/tk11-ids/Week-2-Online-Retail-Sales-Analysis)** 
+- Copy your SQL queries into your **[replit project](https://replit.com/team/tk12-ids/Week-2-Online-Retail-Sales-Analysis)**
+    - This doesn't need to run successfully on replit.
 - **Click submit on replit**.
 
 <aside>
 
 **_NOTE..!_**
 
-You'll need a bit of googling and researching online to complete this assignment
+You might need a bit of googling to complete this assignment
 </aside>

@@ -22,20 +22,21 @@
     - [Project](lessons/intro-to-data/assignment.md)
     - [Wrap up](lessons/intro-to-data/wrap-up.md)
 
-# Week 2: Databases and SQL
+## Week 2
 
-- [Week 2 Overview](lessons/databases-and-sql.md)
-- [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
-- [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
-- [Data Management](lessons/databases-and-sql/sql-data-management.md)
-- [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
-- [SQL functions](lessons/databases-and-sql/sql-function.md)
-- [Practice](lessons/databases-and-sql/practice.md)
-- [Project](lessons/databases-and-sql/assignment.md)
+- [Databases and SQL](lessons/databases-and-sql.md)
+    - [Intro to databases](lessons/databases-and-sql/intro-to-databases.md)
+    - [Fundamentals of SQL](lessons/databases-and-sql/sql.md)
+    - [Data Management](lessons/databases-and-sql/sql-data-management.md)
+    - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
+    - [SQL functions](lessons/databases-and-sql/sql-function.md)
+    - [Practice](lessons/databases-and-sql/practice.md)
+    - [Project](lessons/databases-and-sql/assignment.md)
+    - [Wrap up](lessons/databases-and-sql/wrap-up.md)
 
-# Week 3: Data Visualization and Insight
+## Week 3
 
-- [Week 3 Overview](lessons/data-visualization.md)
+- [Data Visualization and Insight](lessons/data-visualization.md)
     - [Data visualization](lessons/data-visualization/what-is-visualization.md)
     - [Visualization tools](lessons/data-visualization/visualization-tools.md)
     - [Explore Looker studio](lessons/data-visualization/explore-looker-studio.md)
@@ -43,17 +44,17 @@
     - [Practice](lessons/data-visualization/dashboard-projects.md)
     - [Project](lessons/data-visualization/assignment.md)
 
-# Week 4: Intro to Machine Learning
+## Week 4
 
-- [Week 4 Overview](lessons/intro-to-ml.md)
-- [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
-- [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
-- [Classification](lessons/intro-to-ml/classification.md)
-- [Regression](lessons/intro-to-ml/regression.md)
-- [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
-- [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
+- [Intro to Machine Learning](lessons/intro-to-ml.md)
+    - [Getting to know ML](lessons/intro-to-ml/getting-to-know-ml.md)
+    - [Supervised learning](lessons/intro-to-ml/supervised-learning.md)
+    - [Classification](lessons/intro-to-ml/classification.md)
+    - [Regression](lessons/intro-to-ml/regression.md)
+    - [Unsupervised learning](lessons/intro-to-ml/unsupervised-learning.md)
+    - [Applications of ML](lessons/intro-to-ml/applications-of-ml.md)
 
-# Week 5: 
+## Week 5 
 
 - [Final Project]()
     - [Final Project Instructions](final-project.md)

@@ -75,6 +75,9 @@ units:
       - name: Project
         path: src/lessons/databases-and-sql/assignment.md
         publish: 2024-05-13
+      - name: Wrap up
+        path: src/lessons/databases-and-sql/wrap-up.md
+        publish: 2024-05-13
   - name: 'Week 3: Data Visualization and Insight'
     activities:
       - name: Week 3 Overview
