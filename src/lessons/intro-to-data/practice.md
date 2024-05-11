@@ -3,7 +3,7 @@
 ## Data Cleaning and Visualization Using Google Sheets
 
 ### Dataset Description:
-You have been provided with a **[dataset](https://drive.google.com/file/d/1U0bElpR3UMnuqtd3RgdbqVX2VkgRGtlV/view?usp=sharing)** containing the following columns:
+You have been provided with a **[dataset](https://docs.google.com/spreadsheets/u/2/d/1uLxxl1njnmI0UxlZKnBiK5L5kiz-vH_wC5irO8H5BhA/copy)** containing the following columns:
 - **Country**: Name of the country.
 - **Income per Person**: Average income per person in the country.
 - **Internet Use Rate**: Percentage of the population using the internet.
