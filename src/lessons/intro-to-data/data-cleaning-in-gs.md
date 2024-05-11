@@ -150,7 +150,7 @@ GS provides features such as filters, conditional formatting, find and replace, 
 </aside>
 
 ### 👩🏾‍🎨 Practice: Clean the smell... 🎯
-A smaller sample of the global COVID-19 dataset is provided **[here](https://docs.google.com/spreadsheets/d/1FxxX9wSUMJwsa0xuw8EALSDG4eQcQpxRDCRpAIeDXUY/edit?usp=sharing)** for this exrcise.
+A smaller sample of the global COVID-19 dataset is provided **[here](https://docs.google.com/spreadsheets/u/2/d/1FxxX9wSUMJwsa0xuw8EALSDG4eQcQpxRDCRpAIeDXUY/copy)** for this exrcise.
 1. Create a copy of the dataset for your own use. 
 2. Explore the dataset to have a sense of what the it represent.
 3. By leveraging your data cleaning skills, attempt the following...
