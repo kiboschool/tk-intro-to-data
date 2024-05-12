@@ -10,7 +10,7 @@ A **_database_** is like a digital filing cabinet where we store all sorts of in
 **_Databases_** are organized collections of data that allow for the efficient storage, retrieval, and manipulation of information. They're like digital filing cabinets where data is stored in a structured way so that it can easily be found and used.
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cA4c0yda8Hs?si=6NHHJxo1Q_nbBQNQ" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://edpuzzle.com/embed/assignments/66411a415c035b9da587b3c9/watch" title="What are databases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 With this little understanding of databases, you might be asking _why do we need databases_? Businesses use databases to manage everything from customer information and inventory levels to employee records and financial transactions. They help in making informed decisions by providing quick access to important data.
