@@ -8,7 +8,7 @@ To manage the data in a database, we need an _SQL Query_, which are instructions
 **_SQL Query_** is a request made to a database to perform a specific action on the data it contains. This action can range from retrieving data, inserting new records, updating existing data, or deleting records.
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDdBG-yP4?si=Z-nD8ZGZXabOKLqm" title="SQL Fundamentals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wmiDdBG-yP4?si=Z-nD8ZGZXabOKLqm" title="SQL Fundamentals" frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 In summary, we now understand the following about SQL.
 - SQL interacts with databases using relational database management systems (RDBMS), such as MySQL.
@@ -41,7 +41,7 @@ In the above query, here is a breakdown of the query...
 
 Next, we need to look at different SQL commands in detail to have a better understanding of how it works behind the scene using a sample scenario of a book store.
 
-<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/1GhghjgJTuanORg0" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
+<!-- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/1GhghjgJTuanORg0" title="Linking your CSS" frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div> -->
 
 ## Basic SQL Commands
 Just like evry other standard language, SQL has its syntax which must adhere to before we can use it. Generally, SQL commands can be broadly categorized into _Data Definition Language_ (DDL) and _Data Manipulation Language_ (DML), _Data Control Language_ (DCL), and _Transaction Control Language_ (TCL). For this lesson, we'll on only focus on DDL and DML.
@@ -57,7 +57,7 @@ This command is used to create new tables, databases, and other database objects
 **Use case**: A new online bookstore wants to manage information about its books and customers. They decided to start by creating two tables - one for Books and another for Customers. The `CREATE TABLE` statement can be used to establish these table structure in the database with appropriate columns for storing book details (like _title, author_, and _price_) and customer information (such as _name, email_, and _purchase history_).
   
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429kcxdy2" 
  width="100%">
 </iframe>
@@ -70,7 +70,7 @@ Modifies the structure of existing database objects, for example, adding or remo
 **Use case**: After a few months of operations, the bookstore realizes that they need to track each book's _genre_ to make recommendations to customers. They decide to add a _Genre_ column to the Books table. The `ALTER` command is used to modify the Books table to include this new column without losing any existing data.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429kh4j6x" 
  width="100%">
 </iframe>
@@ -129,7 +129,7 @@ Adds new records to a table by specifying values for each column in the new row.
 **Use case**: A customer purchases a new title from the online bookstore, "_The Lost Kingdom_" by _Jane Smith, priced at _$12.50_ in the "Adventure" genre. The bookstore uses the `INSERT` statement to add this book and many others to the Books table.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429kkfpzu" 
  width="100%">
 </iframe>
@@ -140,7 +140,7 @@ This command modifies existing records in a table based on specified criteria, b
 **Use case**: After a pricing review, the bookstore decides to reduce the price of "_The Enchanted Forest_" by _$2_. Here, the `UPDATE` statement is used to adjust the _Price_ column in the _Books_ table for this title.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429kktgg2" 
  width="100%">
 </iframe>
@@ -152,7 +152,7 @@ It removes records from a table that match **specified criteria** by effectively
 **Use case**: The bookstore decides to discontinue selling a poorly reviewed book titled "_Mystic River_" that hasn't sold any copies. here, we can use the `DELETE` statement to remove all records of this book from the _Books_ table.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429km6vx3" 
  width="100%">
 </iframe>
@@ -198,7 +198,7 @@ Using the _SQL_ editor below, write a series of SQL command to...✍🏾
 - Submit your SQL queries using **[this repl](https://replit.com/team/tk11-ids/Practice-Data-management)**. -->
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="300px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
  width="100%"
  ></iframe>
