@@ -11,7 +11,7 @@ In our bookstore example, imagine we need to generate reports showing not just w
 **_JOIN_** merges records from two tables by comparing the values of columns in one table with the values of columns in the other table.
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/nivyaiCeWjs?si=D2xuTaTWFZBF2PeX" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/nivyaiCeWjs?si=D2xuTaTWFZBF2PeX" title="Linking your CSS" frameBorder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Joins are crucial in relational databases because they allow for the combination of data from two or more tables based on a related column between them. This is essential for creating comprehensive datasets that can answer complex queries by pulling together relevant information from different tables.
 
@@ -141,7 +141,7 @@ For a presidential election databse, imagine we have two tables: `Candidates` an
 
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
  width="100%"
  ></iframe>

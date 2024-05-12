@@ -25,7 +25,7 @@ For this assignment, you are expected to use the _SQL_ editor below to write and
 5. Include comments in your script to explain each query and its purpose.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
  width="100%"
  ></iframe>

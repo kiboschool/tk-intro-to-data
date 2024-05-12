@@ -23,7 +23,7 @@ Aggregate functions are used for calculations on a set of values where they retu
 In our bookstore example, we can use this function to count the total number of books and total genres. For example,
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429ktre2n" 
  width="100%"
  ></iframe>
@@ -42,7 +42,7 @@ In our bookstore example, we can use this function to count the total number of 
 In our bookstore example, we can use this function to calculate the total quantity of books sold, alongside the total number of orders. For example,
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429kv3qe3" 
  width="100%"
  ></iframe>
@@ -61,7 +61,7 @@ In our bookstore example, we can use this function to calculate the total quanti
 In our bookstore example, we can use this function to determine the average price of books, alongside the count (i.e., total number) of books. For example,
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429mtmmtd" 
  width="100%"
  ></iframe>
@@ -82,7 +82,7 @@ In our bookstore example, we can use this function to determine the average pric
 In our bookstore example, we can use this function to find the highest and lowest price of books. For example,
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429mu26hp" 
  width="100%"
  ></iframe>
@@ -111,7 +111,7 @@ String functions are used to manipulate, examine, or handle text data (strings).
 In our bookstore example, this function will converts book titles to uppercase and author names to lowercase. For example,
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429muv4y5" 
  width="100%"
  ></iframe>
@@ -161,7 +161,7 @@ Date and time functions allow you to manipulate and extract portions of dates an
 These functions extracts the year, month, and day from a date. Below is an example of how to use these functions in our bookstore example
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429mv3tt4" 
  width="100%"
  ></iframe>
@@ -194,7 +194,7 @@ These functions perform mathematical calculations on numeric data. Below are the
 Below is an example showing how to use these functions in our bookstore example.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/429mvdcnx" 
  width="100%"
  ></iframe>
@@ -257,7 +257,7 @@ Using this `Students` table, write SQL queries to perform the following tasks:
 5. Retrieve the name and grade of the top-performing student.
 
 <iframe
- frameBorder="0"
+ frameBorder="1"
  height="400px"  src="https://onecompiler.com/embed/mysql/42cvvbnzg" 
  width="100%"
  ></iframe>
