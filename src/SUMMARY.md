@@ -18,8 +18,8 @@
     - [Data and Spreadsheet](lessons/intro-to-data/data-and-spreadsheet.md)
     - [Data cleaning in GS](lessons/intro-to-data/data-cleaning-in-gs.md)
     - [Visualization with GS](lessons/intro-to-data/data-viz-with-gs.md)
-    - [Practice](lessons/intro-to-data/practice.md)
-    - [Project](lessons/intro-to-data/assignment.md)
+    - [Practice - Intro to DS](lessons/intro-to-data/practice.md)
+    - [Project - Intro to DS](lessons/intro-to-data/assignment.md)
     - [Wrap up](lessons/intro-to-data/wrap-up.md)
 
 ## Week 2
@@ -30,8 +30,8 @@
     - [Data Management](lessons/databases-and-sql/sql-data-management.md)
     - [Joining multiple tables](lessons/databases-and-sql/joining-tables.md)
     - [SQL functions](lessons/databases-and-sql/sql-function.md)
-    - [Practice](lessons/databases-and-sql/practice.md)
-    - [Project](lessons/databases-and-sql/assignment.md)
+    - [Practice - Databases and SQL](lessons/databases-and-sql/practice.md)
+    - [Project - Databases and SQL](lessons/databases-and-sql/assignment.md)
     - [Wrap up](lessons/databases-and-sql/wrap-up.md)
 
 ## Week 3
