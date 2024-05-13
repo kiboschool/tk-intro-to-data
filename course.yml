@@ -71,9 +71,13 @@ units:
         publish: 2024-05-13
       - name: Practice
         path: src/lessons/databases-and-sql/practice.md
+        type: assignment
+        kind: ASSIGNMENT
         publish: 2024-05-13
       - name: Project
         path: src/lessons/databases-and-sql/assignment.md
+        type: assignment
+        kind: ASSIGNMENT
         publish: 2024-05-13
       - name: Wrap up
         path: src/lessons/databases-and-sql/wrap-up.md

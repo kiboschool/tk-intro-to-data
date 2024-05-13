@@ -30,7 +30,11 @@ For this assignment, you are expected to use the _SQL_ editor below to write and
  width="100%"
  ></iframe>
 
-### Submission Guidelines
-- Copy your SQL queries into your **[replit project](https://replit.com/team/tk12-ids/Week-2-Social-medial-engagement-analysis)**
-    - This doesn't need to run successfully on replit.
-- **Click submit on replit**.
+#### Submission Guidelines:
+- Download your SQL query file to your computer.
+  - Click on `elipsis` icon at the top-right of your _onecompiler_ editor and select `download`.
+  ![./databases-and-sql/download.png](./databases-and-sql/download.png)
+  
+- Attach the downloaded file below and **submit**.
+  - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
+
