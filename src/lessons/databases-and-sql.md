@@ -24,7 +24,9 @@ After this week, you will be able to:
 Watch the video below to get an overview of the coming week.
 
 </aside>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://edpuzzle.com/embed/assignments/66134b16ab0e5603uc8f3d197/watch" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.loom.com/embed/b505baa6fd9740ad8976865d3c00c863?sid=e3a4917b-f7c5-4c8b-9669-be7da52b2743" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<!-- 
+<div style="position: relative; padding-bottom: 55.729166666666664%; height: 0;"><iframe src="https://www.loom.com/embed/b505baa6fd9740ad8976865d3c00c863?sid=e3a4917b-f7c5-4c8b-9669-be7da52b2743" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> -->
 
 <!-- <iframe width="470" height="402" src="https://edpuzzle.com/embed/assignments/66134b16ab0e5603c8f3d197/watch" frameborder="0" allowfullscreen></iframe> -->
 
