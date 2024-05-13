@@ -36,12 +36,12 @@ units:
       - name: Visualization with GS
         path: src/lessons/intro-to-data/data-viz-with-gs.md
         publish: 2024-05-06
-      - name: Practice
+      - name: Practice - Intro to DS
         path: src/lessons/intro-to-data/practice.md
         type: assignment
         kind: ASSIGNMENT
         publish: 2024-05-06
-      - name: Project
+      - name: Project - Intro to DS
         path: src/lessons/intro-to-data/assignment.md
         type: assignment
         kind: ASSIGNMENT
@@ -69,12 +69,12 @@ units:
       - name: SQL functions
         path: src/lessons/databases-and-sql/sql-function.md
         publish: 2024-05-13
-      - name: Practice
+      - name: Practice - Databases and SQL
         path: src/lessons/databases-and-sql/practice.md
         type: assignment
         kind: ASSIGNMENT
         publish: 2024-05-13
-      - name: Project
+      - name: Project - Databases and SQL
         path: src/lessons/databases-and-sql/assignment.md
         type: assignment
         kind: ASSIGNMENT
