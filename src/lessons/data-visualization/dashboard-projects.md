@@ -31,10 +31,12 @@ Let's get started by exploring each dashboard project in detail and learning how
 - **[Icon download](https://www.iconsdb.com/)**
 
 
-
-### Submission
-- Save your completed dashboard project and get a shareable link.
-- Submit your dashboard link to **[here](https://docs.google.com/forms/d/e/1FAIpQLScfRMYewcJf1SEwjKDm22T3ZP-Ph3TdPROsjYa6Udreslkr-w/viewform?usp=sharing)**
+#### Submission Guidelines:
+- Download your dashboard as a PDF to your computer.
+  - Click on `Share` at the top-right.
+  - Select `Download report`
+- Attach it below and submit.
+  - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
 
 <aside>
 
