@@ -48,10 +48,12 @@ Include the following visualization components in your dashboard:
 **Dashboard Presentation**:
    - Ensure that your dashboard is visually appealing, easy to navigate, and effectively communicates key insights from the dataset.
 
-
-### Submission
-   - Submit a link to your completed dashboard **[here](https://docs.google.com/forms/d/e/1FAIpQLSf9H4dvy9UXQ010tQrDiJBwxY7MpkS0Bl6EijyX5b-2ij4bNw/viewform?usp=sharing)**.
-
+#### Submission Guidelines:
+- Download your dashboard as a PDF to your computer.
+  - Click on `Share` at the top-right.
+  - Select `Download report`
+- Attach it below and submit.
+  - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
 
 <aside>
 
