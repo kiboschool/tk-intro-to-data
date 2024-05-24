@@ -19,7 +19,7 @@ The dataset contains information about online retail sales transactions. It incl
 - **Newsletter**: Subscription status for newsletter (`0` for not subscribed, `1` for subscribed)
 - **Voucher**: Voucher usage status (`0` for not used, `1` for used)
 
-You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/d/1gmWlyR3mYEOB32651TxR9zeOO9ssw9wQG2LTtzZq9yY/edit?usp=sharing)**.
+You can get a copy of the dataset **[here](https://docs.google.com/spreadsheets/u/2/d/1gmWlyR3mYEOB32651TxR9zeOO9ssw9wQG2LTtzZq9yY/copy)**.
 
 ### TODOs:
 
