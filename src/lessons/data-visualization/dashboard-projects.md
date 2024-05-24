@@ -38,8 +38,3 @@ Let's get started by exploring each dashboard project in detail and learning how
 - Attach it below and submit.
   - **There is no external submission for this project.  Please ignore the `Incomplete status` for external submission.**
 
-<aside>
-
-**➡️ In the next section...**
-- We'll look at this week's assignment.
-</aside>
