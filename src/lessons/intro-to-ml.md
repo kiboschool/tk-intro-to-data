@@ -24,5 +24,3 @@ Watch the video below to get an overview of this week.
 
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.loom.com/embed/a3baf344367f4442a55c79177a91f57f?sid=5adea19f-6e75-4ad9-a005-cec95e1bd0f5" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/a3baf344367f4442a55c79177a91f57f?sid=5adea19f-6e75-4ad9-a005-cec95e1bd0f5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
