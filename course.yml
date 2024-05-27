@@ -136,8 +136,8 @@ units:
     activities:
         - name: Final Project Instructions
           path: src/final-project.md
-          publish: 2024-05-27
+          publish: 2024-05-31
         - name: Wrapping up
           path: src/lessons/wrapping-up-final-steps.md
-          publish: 2024-05-27
+          publish: 2024-05-31
 
