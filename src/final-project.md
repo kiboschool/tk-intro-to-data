@@ -2,7 +2,7 @@
 
 ---
 
-**Due Date: 03/05/2024**
+**Due Date: 07/06/2024**
 
 <aside>
 
@@ -80,7 +80,8 @@ It may be helpful to create a **design doc**. Using **[Google docs](https://docs
 A design doc can also help you track what work you’ve done, and what work is left to do.
 
 ## Submission
-  - Submit a link to your completed project **[here](https://docs.google.com/forms/d/e/1FAIpQLSd-39GpL8hEBOSjwG6Iz0gssdL61YObnc8gv4hsSM0MyhIikQ/viewform?usp=sharing)**.
+  - Submit a link to your completed project **[here]()**.
+    - Remember to set the access to your Looker project to public under `Sharing`.
   - Submission is **individual**. Therefore, each team member MUST submit a copy of their project.
 
 

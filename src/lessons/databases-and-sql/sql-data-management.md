@@ -26,7 +26,7 @@ Now, let's look at some of the above points in details. Since SQL queries are wr
 To further undertand the structure of a query, imagine you have a database for a bookstore and you want to find the titles and prices of all books in the "_Fantasy_" genre that are priced under _$20_, ordered by their _publication date_. The SQL query for this request would look something like this:
 
 ```sql
-SELECT Title, Price
+SELECT Title, Price, Me
 FROM Books
 WHERE Genre = 'Fantasy' AND Price < 20
 ORDER BY PublishDate DESC;
