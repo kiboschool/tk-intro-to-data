@@ -80,7 +80,7 @@ It may be helpful to create a **design doc**. Using **[Google docs](https://docs
 A design doc can also help you track what work you’ve done, and what work is left to do.
 
 ## Submission
-  - Submit a link to your completed project **[here]()**.
+  - Submit a link to your completed project **[here](https://docs.google.com/forms/d/e/1FAIpQLSeg4orAmL3Ma8Ua03QTkV3wAYOhZOLzReR9TtHVTrhEsoFx3Q/viewform)**.
     - Remember to set the access to your Looker project to public under `Sharing`.
   - Submission is **individual**. Therefore, each team member MUST submit a copy of their project.
 
