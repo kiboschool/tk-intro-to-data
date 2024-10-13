@@ -1,0 +1,11 @@
+[book]
+authors = ["Wasiu Yusuf"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Try Kibo: Intro to Data"
+
+[build]
+build-dir = "output"
+create-missing = true
+use-default-preprocessors = false
